@@ -1,0 +1,1501 @@
+OrderNumber,Month,DayNite,SalesPerson,ProductID,ShoeBrand,ShoeStyle,ShoeColor,ShoeGender,Price,StoreCity,CustGender,CustAge,OnSale,discount,AgeGP,Cost
+MEM1,January,AM,Bob,455339,Adidas,Powerblaze,Black/White,M,74.95,MEMPHIS,M,58,N,0,Over 55,58.9
+MEM2,January,AM,Cindy,407696,ASICS,GEL-Evate? 3,Aqua/Yellow,W,149.95,MEMPHIS,F,23,N,0,18-25,44.73
+GER3,January,PM,Bob,407809,ASICS,GEL-Hyper Speed? 6,Blue,M,84.95,GERMANTOWN,M,50,N,0,45-55,30.8
+MEM4,January,PM,Karen,200121,Nike,Air Jordan 2,Black/Red/Aqua,W,130,MEMPHIS,F,12,N,0,18-25,100.38
+MEM5,January,PM,Bob,424073,New Balance,M870v4,Grey/White,M,114.95,MEMPHIS,M,29,N,0,26-35,90.48
+MEM6,January,PM,Karen,387367,New Balance,W1260v4,Red/Blue,M,144.95,MEMPHIS,M,24,N,0,18-25,100.2
+MEM7,January,PM,Shelly,200231,Nike,Air Jordan,Red,M,159.99,MEMPHIS,M,38,N,0,36-45,95.02
+BAR8,January,AM,Bob,455341,Adidas,Thrasher Trail 1.1,Grey,M,64.95,BARTLETT,M,64,N,0,Over 55,58.63
+MEM9,January,AM,Kevin,200213,Nike,Air Jordan 2,Black/Grey,M,174.99,MEMPHIS,M,19,N,0,18-25,166.52
+MEM10,January,AM,Cindy,382160,ASICS,GEL-Zaraca?,Aqua/Yellow,W,67.99,MEMPHIS,F,62,N,0,Over 55,75.14
+MEM11,January,PM,Ashley,407669,ASICS,GEL-Nimbus? 17,Purple/Pink,W,149.95,MEMPHIS,F,23,N,0,18-25,78.52
+MEM12,January,PM,Bob,200261,Nike,Free 4.0 Flyknit,Orange/Aqua,M,94.97,MEMPHIS,M,43,N,0,36-45,94.59
+GER13,January,PM,Bob,200261,Nike,Free 4.0 Flyknit,Orange/Aqua,M,94.97,GERMANTOWN,M,43,N,0,36-45,81.44
+MEM14,January,PM,Bob,200261,Nike,Free 4.0 Flyknit,Orange/Aqua,M,94.97,MEMPHIS,M,43,N,0,36-45,84.79
+MEM15,January,PM,Bob,410734,New Balance,M1980 Fresh Foam,Grey/Yellow,M,99.95,MEMPHIS,M,22,N,0,18-25,59.36
+MEM16,January,PM,Karen,410770,New Balance,W587,Red/Blue,M,92.97,MEMPHIS,M,24,N,0,18-25,32.55
+GER17,January,PM,Shelly,200237,Nike,Air Jordan,Red,M,159.99,GERMANTOWN,M,37,N,0,36-45,74.15
+MEM18,January,AM,Bob,364567,ASICS,GEL-Foundation? 8,Aqua,M,93.99,MEMPHIS,M,44,N,0,36-45,19.85
+MEM19,January,PM,Cindy,363890,ASICS,GEL-Excite? 2,White,W,69.95,MEMPHIS,F,62,N,0,Over 55,25.41
+GER20,January,PM,Bob,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,GERMANTOWN,M,36,N,0,36-45,40.92
+MEM21,January,PM,Kevin,407694,ASICS,GEL-Sonoma?,Blue/White,M,74.95,MEMPHIS,M,58,N,0,Over 55,23.08
+GER22,January,PM,Kevin,410761,New Balance,M775,Orange,M,74.95,GERMANTOWN,M,32,N,0,26-35,66
+GER23,January,PM,Karen,424070,New Balance,W1400v3,White,W,99.95,GERMANTOWN,F,41,N,0,36-45,81.7
+MEM24,January,PM,Shelly,200291,Nike,Air Jordan,Red,M,159.99,MEMPHIS,M,38,N,0,36-45,89.43
+MEM25,January,AM,Bob,345795,ASICS,GEL-Equation? 7,Aqua/Black/White,M,69.99,MEMPHIS,M,17,N,0,18-25,54.35
+MEM26,January,PM,Karen,363956,ASICS,GEL-Hyper Speed? 6,Black,W,75.99,MEMPHIS,F,30,N,0,26-35,73.87
+MEM27,January,PM,Ashley,363961,ASICS,GEL-Speedstar?,Red/Blue,W,79.99,MEMPHIS,F,22,N,0,18-25,60.91
+MEM28,January,PM,Mandeep,200260,Nike,LeBron Xiii,Orange/Black,M,200,MEMPHIS,M,17,N,0,18-25,112.95
+MEM29,January,PM,Mandeep,200260,Nike,LeBron Xiii,Orange/Black,M,200,MEMPHIS,M,17,N,0,18-25,129.49
+MEM30,January,PM,Kevin,365722,New Balance,MT10v2 Minimus,Orange/Black,M,96.99,MEMPHIS,M,42,N,0,36-45,43.71
+MEM31,January,PM,Karen,410742,New Balance,W1980 Fresh Foam Zante,White,M,99.95,MEMPHIS,M,41,N,0,36-45,86.04
+BAR32,January,PM,Shelly,200254,Nike,Air Jordan,Red/Black,M,159.99,BARTLETT,M,25,N,0,18-25,182.31
+MEM33,January,PM,Ashley,200209,Nike,Nike Dunk Sky Hi Premium,White,W,89.97,MEMPHIS,F,16,N,0,18-25,40.66
+MEM34,January,AM,Bob,407689,ASICS,GEL-Nimbus? 17,Aqua/Black/White,M,149.95,Memphis,M,22,N,0,18-25,111.54
+MEM35,January,AM,Karen,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,52.67
+MEM36,January,PM,Karen,407823,ASICS,GEL-FujiRunnegade?,Black/Blue,W,89.99,MEMPHIS,F,45,N,0,36-45,85.19
+GER37,January,PM,Ashley,200128,Nike,Nike Dunk Ultra Modern,White/Grey,W,110,GERMANTOWN,F,30,N,0,26-35,118.72
+GER38,January,AM,Karen,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,GERMANTOWN,F,66,N,0,Over 55,9.88
+GER39,January,PM,Ashley,200165,Nike,Kobe X iD,Yellow/Black,W,155,GERMANTOWN,F,37,N,0,36-45,32.13
+MEM40,January,PM,Kevin,410772,New Balance,M1260v4,Red,M,114.97,MEMPHIS,M,29,N,0,26-35,34.28
+MEM41,January,PM,Karen,410763,New Balance,W775,White,W,74.95,MEMPHIS,F,58,N,0,Over 55,18.42
+MEM42,January,PM,Shelly,200272,Nike,Air Jordan,Red/Black,M,159.99,MEMPHIS,M,21,N,0,18-25,63.79
+MEM43,January,PM,Ashley,200156,Nike,Nike AF-1 Ultra Force Mid,White/Black,W,64.97,MEMPHIS,F,70,N,0,Over 55,29.2
+MEM44,January,AM,Bob,407786,ASICS,33-FA?,Black,M,109.95,MEMPHIS,M,34,N,0,26-35,114.37
+MEM45,January,PM,Karen,399834,Reebok,Goddess,White/Pink,W,59.95,MEMPHIS,F,36,N,0,36-45,34.2
+GER46,January,PM,Karen,356355,ASICS,GEL-Kayano? 20,Black/Blue,W,141.99,GERMANTOWN,F,24,N,0,18-25,132.96
+MEM47,January,PM,Karen,385549,Saucony,Saucony Triumph,Green/Blue,W,88.89,MEMPHIS,F,56,N,0,Over 55,97.82
+MEM48,January,PM,Kevin,387352,New Balance,Horween Leather,Red,M,242.99,MEMPHIS,M,20,N,0,18-25,127.34
+MEM49,January,PM,Karen,410743,New Balance,WT980 Fresh Foam,White,W,87.99,MEMPHIS,F,48,N,0,45-55,33.48
+GER50,January,PM,Shelly,200286,Nike,Air Jordan,Red/Black,M,159.99,GERMANTOWN,M,24,N,0,18-25,114.3
+MEM51,January,PM,Shelly,200177,Nike,Nike Air Zoom Fly 2,White/Black,W,90,MEMPHIS,F,45,N,0,36-45,71.21
+GER52,January,PM,Ashley,200182,Nike,Nike Lunar Force 1 Sky Hi,White/Black,W,89.97,GERMANTOWN,F,46,N,0,45-55,103.28
+MEM53,January,AM,Kevin,363723,ASICS,GEL-Flux?,Black,M,69.99,MEMPHIS,M,47,N,0,45-55,26.09
+GER54,January,PM,Shelly,382120,ASICS,GEL-Cumulus? 16 Lite-Show?,Blue/Pink/Lime,W,99.97,GERMANTOWN,F,39,N,0,36-45,83.93
+MEM55,January,PM,Ashley,200136,Nike,Nike Zoom LeBron Soldier VIII iD,Purple/Pink,W,170,MEMPHIS,F,23,N,0,18-25,55.57
+GER56,January,PM,Kevin,398894,New Balance,MD800v3 Spike,Red/Black,M,119.95,GERMANTOWN,M,50,N,0,45-55,79.61
+MEM57,January,PM,Shelly,300758,New Balance,W990v3,White,M,154.95,MEMPHIS,M,21,N,0,18-25,36.77
+MEM58,January,PM,Ashley,411849,Reebok,Southrange Run,Blue/Green,W,59.95,MEMPHIS,F,37,N,0,36-45,48.41
+MEM59,January,PM,Ashley,200304,Nike,Air Jordan,Red/Black,M,159.99,MEMPHIS,M,31,N,0,26-35,52.79
+MEM60,January,PM,Ashley,407821,ASICS,GEL-FujiAttack? 4,White,W,93.99,MEMPHIS,F,44,N,0,36-45,60.32
+MEM61,January,AM,Kevin,382213,ASICS,GEL-Fortitude? 3,Black,M,109.95,MEMPHIS,M,34,N,0,26-35,32.44
+MEM62,January,AM,Mandeep,200238,Nike,Nike Flyknit Lunar,Blue/Green,M,109.99,MEMPHIS,M,22,N,0,18-25,64.72
+MEM63,January,PM,Shelly,382207,ASICS,GEL-Sonoma?,Black/White,M,74.95,MEMPHIS,M,50,N,0,45-55,70.32
+MEM64,January,PM,Kevin,445086,New Balance,3190 v1,White,M,85.99,MEMPHIS,M,31,N,0,26-35,67.16
+MEM65,January,PM,Shelly,410781,New Balance,WT510v2,Black,M,74.95,MEMPHIS,M,46,N,0,45-55,71.37
+MEM66,January,PM,Ashley,200305,Nike,Air Jordan,Red/Black,M,159.99,MEMPHIS,M,23,N,0,18-25,49.5
+MEM67,January,PM,Ashley,382131,ASICS,GEL-Lyte33?,White,W,84.95,MEMPHIS,F,51,N,0,45-55,19.46
+MEM68,January,AM,Kevin,407820,ASICS,GEL-Fuji Pro?,Black,M,102.99,MEMPHIS,M,36,N,0,36-45,39.89
+GER69,January,AM,Kevin,382108,ASICS,GEL-Exalt 2?,Grey/Aqua,M,79.99,GERMANTOWN,M,52,N,0,45-55,80.93
+GER70,January,PM,Shelly,382127,ASICS,GEL-Electro33?,White/Black,W,87.99,GERMANTOWN,F,24,N,0,18-25,65.83
+GER71,January,PM,Kevin,424068,New Balance,M1400v3,White/Black,M,99.95,GERMANTOWN,M,41,N,0,36-45,52.96
+MEM72,January,PM,Kevin,200217,Nike,LeBron Xiii,Black/White,M,200,MEMPHIS,M,23,N,0,18-25,42.81
+MEM73,January,PM,Shelly,377243,New Balance,WT510v2,White,M,74.95,MEMPHIS,M,21,N,0,18-25,42.69
+MEM74,January,PM,Ashley,200225,Nike,Air Jordan,Red/White,M,159.99,MEMPHIS,M,40,N,0,36-45,174.54
+GER75,January,PM,Ashley,407688,ASICS,GEL-Noosa Tri?,White,W,139.95,GERMANTOWN,F,26,N,0,26-35,30.74
+MEM76,January,AM,Kevin,382178,ASICS,GEL-Fuji Trabuco? 3,Black,M,102.99,MEMPHIS,M,36,N,0,36-45,74.75
+GER77,January,PM,Shelly,407766,ASICS,GEL-Fortify?,White/Black,W,149.95,GERMANTOWN,F,22,N,0,18-25,36.37
+MEM78,January,PM,Kevin,382205,ASICS,GEL-Sendai?,Grey/Aqua,M,139.95,MEMPHIS,M,26,N,0,26-35,101.34
+GER79,January,PM,Kevin,365745,New Balance,M680v2,White/Black,M,61.99,GERMANTOWN,M,37,N,0,36-45,28.94
+MEM80,January,PM,Mandeep,200219,Nike,Air Jordan,Orange,M,159.99,MEMPHIS,M,48,N,0,45-55,178.23
+MEM81,January,PM,Shelly,410759,New Balance,W3190v2,White/Black,M,89.95,MEMPHIS,M,35,N,0,26-35,68.79
+MEM82,January,PM,Ashley,200214,Nike,Air Jordan,White,M,159.99,MEMPHIS,M,19,N,0,18-25,163.17
+MEM83,January,AM,Mandeep,200219,Nike,Air Jordan,Orange,M,159.99,MEMPHIS,M,15,N,0,18-25,77.12
+MEM84,January,AM,Kevin,382085,ASICS,GEL-Surveyor?,Black,M,139.97,MEMPHIS,M,26,N,0,26-35,53.96
+GER85,January,PM,Shelly,407819,ASICS,GEL-FujiPro?,White/Black,W,102.99,GERMANTOWN,F,35,N,0,26-35,22.47
+BAR86,January,PM,Kevin,200220,Nike,Air Jordan,Black/White,M,159.99,BARTLETT,M,20,N,0,18-25,87.88
+GER87,January,PM,Ashley,200141,Nike,Nike Flyknit Lunar,Purple/Pink,W,109.99,GERMANTOWN,F,23,N,0,18-25,82.73
+MEM88,January,PM,Mandeep,300757,New Balance,M990v3,White/Black,M,149.99,MEMPHIS,M,22,N,0,18-25,137.39
+MEM89,January,PM,Shelly,200127,Nike,Nike Flyknit Lunar,Orange,W,109.99,MEMPHIS,F,20,N,0,18-25,62.81
+MEM90,January,PM,Shelly,388877,New Balance,W1600v2 LE Heidi Klum,Purple/Pink,W,51.97,MEMPHIS,F,29,N,0,26-35,27.99
+MEM91,January,PM,Ashley,200224,Nike,Free 4.0 Flyknit,White,M,130,MEMPHIS,M,12,N,0,18-25,148.91
+GER92,January,PM,Mandeep,200244,Nike,Nike Free 5.0,Orange,M,140,GERMANTOWN,M,37,N,0,36-45,41.1
+MEM93,January,AM,Mandeep,200244,Nike,Nike Free 5.0,Orange,M,140,MEMPHIS,M,38,N,0,36-45,34.46
+MEM94,January,PM,Kevin,407706,ASICS,Gel-Flux?,Black/Red,M,69.99,MEMPHIS,M,41,N,0,36-45,57.72
+GER95,January,PM,Shelly,407805,ASICS,GEL-Hyper Tri?,White/Black,W,99.95,GERMANTOWN,F,40,N,0,36-45,71.2
+GER96,January,PM,Ashley,410104,Saucony,Saucony Triumph,Blue/White,W,88.89,GERMANTOWN,F,48,N,0,45-55,53.88
+MEM97,January,PM,Mandeep,358313,New Balance,M1400 v2,White/Blue,M,65.99,MEMPHIS,M,38,N,0,36-45,39.88
+MEM98,January,PM,Shelly,200147,Nike,Nike Free 4.0 Flyknit,Aqua,W,109.99,MEMPHIS,F,14,N,0,18-25,93.38
+MEM99,January,PM,Ashley,200266,Nike,LeBron Xiii,White,M,100,MEMPHIS,M,14,N,0,18-25,33.24
+GER100,January,PM,Mandeep,200273,Nike,LeBron Xiii,Black/Orange,M,200,GERMANTOWN,M,24,N,0,18-25,127.69
+MEM101,January,PM,Kevin,407810,ASICS,33-M?,Black/Red,M,133.99,MEMPHIS,M,27,N,0,26-35,58.51
+GER102,January,PM,Shelly,356343,ASICS,GEL-Super J33?,White/Black,W,94.95,GERMANTOWN,F,44,N,0,36-45,37.71
+MEM103,January,PM,Ashley,385581,Saucony,Saucony Triumph,White,W,88.89,MEMPHIS,F,56,N,0,Over 55,75.73
+MEM104,January,AM,Shelly,200127,Nike,Nike Roshe Runner ,Orange,W,74.99,MEMPHIS,F,20,N,0,18-25,16.89
+GER105,January,PM,Ashley,445173,Reebok,Smoothflex Flyer,White,W,69.95,GERMANTOWN,F,60,N,0,Over 55,53.83
+MEM106,January,PM,Shelly,200131,Nike,Nike Roshe One ,Purple/Red,W,95,MEMPHIS,F,19,N,0,18-25,59.51
+MEM107,January,PM,Karen,200210,Nike,Air Jordan 2,Aqua,W,174.99,MEMPHIS,F,22,N,0,18-25,102.49
+GER108,January,PM,Karen,200194,Nike,Nike LunarGlide,Orange/Black,W,110,GERMANTOWN,F,31,N,0,26-35,64.59
+GER109,January,PM,Mandeep,377751,New Balance,M890v5,Yellow/White,M,114.95,GERMANTOWN,M,29,N,0,26-35,23.14
+MEM110,January,PM,Ashley,200267,Nike,Air Jordan 2,White,M,89.97,MEMPHIS,M,16,N,0,18-25,89.25
+GER111,January,PM,Kevin,392570,ASICS,GEL-Cumulus? 16 BR?,Black/Red,M,109.95,GERMANTOWN,M,34,N,0,26-35,87.47
+GER112,January,PM,Ashley,382216,ASICS,GEL-Fortitude? 3,Blue,W,99.99,GERMANTOWN,F,39,N,0,36-45,60.59
+MEM113,January,PM,Ashley,409230,Saucony,Saucony Triumph,White,W,88.89,MEMPHIS,F,41,N,0,36-45,87.17
+MEM114,January,PM,Karen,200191,Nike,Nike Air Force 2,Orange,W,100,MEMPHIS,F,39,N,0,36-45,89.68
+MEM115,January,PM,Ashley,399834,Reebok,Goddess,White/Pink,W,59.95,MEMPHIS,F,43,N,0,36-45,18.75
+MEM116,January,PM,Karen,200139,Nike,Nike Dunk High Skinny,Purple/White,W,129.99,MEMPHIS,F,19,N,0,18-25,60.16
+GER117,January,PM,Karen,200163,Nike,Nike Free 3.0 Flyknit,Aqua/Black,W,109.99,GERMANTOWN,F,33,N,0,26-35,27.89
+GER118,January,PM,Karen,200148,Nike,Nike Roshe One ,White,W,95,GERMANTOWN,F,44,N,0,36-45,24.35
+MEM119,January,PM,Karen,200278,Nike,Nike Zoom Speed Trainer,Black/Red,M,90,MEMPHIS,M,17,N,0,18-25,44.14
+MEM120,January,PM,Karen,363959,ASICS,GEL-Preleus?,White/Black,W,79.99,MEMPHIS,F,52,N,0,45-55,20.03
+GER121,January,PM,Mandeep,410772,New Balance,M1260v4,Red,M,114.97,GERMANTOWN,M,29,N,0,26-35,47.74
+MEM122,January,PM,Mandeep,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,MEMPHIS,M,38,N,0,36-45,97.22
+MEM123,January,PM,Kevin,200297,Nike,Nike Zoom Speed Trainer,White,M,90,MEMPHIS,M,18,N,0,18-25,37.91
+MEM124,January,PM,Kevin,347280,Saucony,Endorphin,Orange,W,54.99,MEMPHIS,F,29,N,0,26-35,50.88
+MEM125,January,PM,Mandeep,363724,ASICS,GEL-Excite? 2,Black/Red,M,61.99,MEMPHIS,M,17,N,0,18-25,53.13
+MEM126,January,PM,Karen,411861,Reebok,Zquick Dash,Grey/Aqua,W,69.99,MEMPHIS,F,45,N,0,36-45,44.65
+MEM127,January,PM,Karen,411861,Reebok,Zquick Dash,Grey/Aqua,W,69.99,MEMPHIS,F,38,N,0,36-45,75.32
+GER128,January,PM,Karen,411861,Reebok,Zquick Dash,Grey/Aqua,W,69.99,GERMANTOWN,F,48,N,0,45-55,47.06
+MEM129,January,PM,Karen,411861,Reebok,Zquick Dash,Grey/Aqua,W,69.99,MEMPHIS,F,39,N,0,36-45,45.48
+MEM130,January,PM,Kevin,382125,ASICS,Gel-Excel33?,Blue/Green,W,94.99,MEMPHIS,F,42,N,0,36-45,109.03
+MEM131,January,PM,Karen,200207,Nike,Nike Free Cross Bionic 7,Aqua/Green,W,110,MEMPHIS,F,33,N,0,26-35,72.77
+MEM132,January,PM,Bob,200283,Nike,Nike Flex Run 2014,Black/Red,M,80,MEMPHIS,M,21,N,0,18-25,16.18
+MEM133,January,PM,Bob,363944,ASICS,GEL-Fuji Trainer? 3,White/multi,M,77.99,MEMPHIS,M,56,N,0,Over 55,66.36
+GER134,January,PM,Mandeep,387352,New Balance,Horween Leather,Red,M,242.99,GERMANTOWN,M,47,N,0,45-55,145.18
+MEM135,January,PM,Mandeep,200260,Nike,Nike Free 4.0 Flyknit,Orange/Black,M,109.99,MEMPHIS,M,20,N,0,18-25,40.17
+GER136,January,PM,Shelly,364819,Saucony,Endorphin,Grey/Aqua,W,79.95,GERMANTOWN,F,20,N,0,18-25,27.56
+GER137,January,PM,Bob,200194,Nike,Nike LunarGlide,Orange/Black,W,110,GERMANTOWN,F,31,N,0,26-35,45.02
+GER138,January,PM,Bob,200194,Nike,Nike LunarGlide,Orange/Black,W,110,GERMANTOWN,F,30,N,0,26-35,83.55
+GER139,January,PM,Bob,200194,Nike,Nike LunarGlide,Orange/Black,W,110,GERMANTOWN,F,30,N,0,26-35,51.91
+MEM140,January,PM,Bob,200194,Nike,Nike LunarGlide,Orange/Black,W,110,MEMPHIS,F,32,N,0,26-35,40.06
+MEM141,January,PM,Shelly,200227,Nike,Nike Zoom Speed Trainer,White/Black,M,90,MEMPHIS,M,18,N,0,18-25,28.51
+GER142,January,PM,Mandeep,407822,ASICS,GEL-FujiAttack? 4,Black/Red,M,93.99,GERMANTOWN,M,44,N,0,36-45,99.06
+MEM143,January,PM,Bob,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,MEMPHIS,F,65,N,0,Over 55,53.01
+MEM144,January,PM,Bob,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,MEMPHIS,F,42,N,0,36-45,34.42
+MEM145,January,PM,Karen,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,MEMPHIS,F,45,N,0,36-45,19.19
+MEM146,January,PM,Karen,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,MEMPHIS,F,47,N,0,45-55,59.56
+GER147,January,PM,Kevin,409257,Saucony,Endorphin,Pink,W,79.95,GERMANTOWN,F,54,N,0,45-55,67.34
+MEM148,January,PM,Shelly,363883,Nike,Air Jordan,Blue/Green,W,159.99,MEMPHIS,F,29,N,0,26-35,117.06
+GER149,January,AM,Kevin,200282,Nike,Nike Dual Fusion Run 3,Black/White,M,80,GERMANTOWN,M,51,N,0,45-55,89.16
+MEM150,January,PM,Karen,200164,Nike,Nike Free Cross Bionic 6,Aqua/Yellow,W,110,MEMPHIS,F,12,N,0,18-25,110.31
+MEM151,January,PM,Karen,200133,Nike,Nike Flyknit Lunar,Green/White,W,109.99,MEMPHIS,F,16,N,0,18-25,22.47
+MEM152,January,PM,Karen,200296,Nike,Nike Lunar Eclipse,Black/Red,M,135,MEMPHIS,M,40,N,0,36-45,46.3
+MEM153,January,PM,Mandeep,365722,New Balance,MT10v2 Minimus,Orange/Black,M,96.99,MEMPHIS,M,42,N,0,36-45,108.84
+MEM154,January,PM,Mandeep,200274,Nike,Nike Flyknit Air Max,Orange/Yellow/Black,M,99.97,MEMPHIS,M,49,N,0,45-55,34.28
+MEM155,January,PM,Ashley,385564,Saucony,Ignition,Grey/Green,W,46.97,MEMPHIS,F,44,N,0,36-45,43.01
+GER156,January,PM,Karen,200135,Nike,Nike Free Cross Bionic 2,Orange/Red,W,110,GERMANTOWN,F,31,N,0,26-35,110.97
+MEM157,January,PM,Karen,200135,Nike,Nike Free Cross Bionic 2,Orange/Red,W,110,MEMPHIS,F,33,N,0,26-35,71.41
+MEM158,January,PM,Karen,200135,Nike,Nike Free Cross Bionic 2,Orange/Red,W,110,MEMPHIS,F,32,N,0,26-35,116.65
+GER159,January,PM,Karen,200135,Nike,Nike Free Cross Bionic 2,Orange/Red,W,110,GERMANTOWN,F,31,N,0,26-35,94.87
+MEM160,January,PM,Ashley,200233,Nike,Nike Dunk Low Premium SB,White/Black,M,100,MEMPHIS,M,19,N,0,18-25,110.49
+MEM161,January,AM,Bob,200242,Nike,Nike Flex Run 2015,White/Black,M,80,MEMPHIS,M,21,N,0,18-25,45.29
+MEM162,January,PM,Gary,356344,ASICS,GEL-Kayano? 20,Black/Red,M,149.97,MEMPHIS,M,22,N,0,18-25,80.06
+MEM163,January,PM,Karen,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,62,N,0,Over 55,77.15
+MEM164,January,PM,Karen,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,40,N,0,36-45,22.47
+MEM165,January,PM,Shelly,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,62,N,0,Over 55,62.19
+MEM166,January,PM,Shelly,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,20.08
+MEM167,January,PM,Shelly,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,75.53
+MEM168,January,PM,Kevin,385563,Saucony,PowerGrid Omni,Red,W,109.95,MEMPHIS,F,34,N,0,26-35,85.15
+MEM169,January,PM,Kevin,409279,Saucony,Cohesion,Black/Red/Aqua,W,55.95,MEMPHIS,F,22,N,0,18-25,58.79
+MEM170,January,PM,Ashley,392569,Nike,Nike Zoom Speed Trainer,Blue/Pink/White,W,90,MEMPHIS,F,33,N,0,26-35,55.58
+MEM171,January,PM,Shelly,200149,Nike,Nike Flyknit Lunar,Grey,W,109.99,MEMPHIS,F,13,N,0,18-25,98.25
+MEM172,January,PM,Shelly,200130,Nike,Nike Free Cross Bionic 5,Black,W,110,MEMPHIS,F,20,N,0,18-25,62.81
+MEM173,January,PM,Karen,200213,Nike,Nike LunarGlide,Black/Grey,M,120,MEMPHIS,M,19,N,0,18-25,49.49
+MEM174,January,PM,Karen,407781,ASICS,33-FA?,Yellow/White,W,93.99,MEMPHIS,F,44,N,0,36-45,39.83
+MEM175,January,PM,Gary,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,MEMPHIS,M,38,N,0,36-45,29.8
+MEM176,January,PM,Gary,365722,New Balance,MT10v2 Minimus,Orange/Black,M,96.99,MEMPHIS,M,42,N,0,36-45,25.9
+MEM177,January,PM,Ashley,409242,Saucony,Fastwitch 7,Grey/White/Green,W,63.97,MEMPHIS,F,55,N,0,45-55,14.87
+MEM178,January,PM,Karen,411849,Reebok,Southrange Run,Blue/Green,W,59.95,MEMPHIS,F,46,N,0,45-55,58.48
+MEM179,January,PM,Karen,411849,Reebok,Southrange Run,Blue/Green,W,59.95,MEMPHIS,F,47,N,0,45-55,63.13
+MEM180,January,PM,Karen,411849,Reebok,Southrange Run,Blue/Green,W,59.95,MEMPHIS,F,35,N,0,26-35,26.68
+GER181,January,PM,Karen,411849,Reebok,Southrange Run,Blue/Green,W,59.95,GERMANTOWN,F,34,N,0,26-35,64.02
+MEM182,January,AM,Bob,200253,Nike,Nike Air Zoom Structure 18 iD,White/Black,M,155,MEMPHIS,M,21,N,0,18-25,52.05
+MEM183,January,AM,Karen,385549,Saucony,Cortana,Green/Blue,W,78.97,MEMPHIS,F,56,N,0,Over 55,82.45
+MEM184,January,AM,Karen,385549,Saucony,Cortana,Green/Blue,W,78.97,MEMPHIS,F,55,N,0,45-55,84.32
+MEM185,January,AM,Karen,385549,Saucony,Cortana,Green/Blue,W,78.97,MEMPHIS,F,56,N,0,Over 55,38.6
+MEM186,January,AM,Kevin,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,MEMPHIS,F,14,N,0,18-25,35.04
+MEM187,January,PM,Karen,410104,Saucony,Breakthru,Blue/White,W,89.95,MEMPHIS,F,40,N,0,36-45,75.45
+GER188,January,PM,Gary,363820,ASICS,GEL-Storm?,Black/Red,M,64.99,GERMANTOWN,M,63,N,0,Over 55,16.73
+MEM189,January,PM,Ashley,382209,Nike,Nike Free 5.0,Blue/Pink/White,W,140,MEMPHIS,F,27,N,0,26-35,125.17
+MEM190,January,PM,Karen,200144,Nike,Nike Air Force 2,Black,W,100,MEMPHIS,F,12,N,0,18-25,109.39
+MEM191,January,PM,Gary,200302,Nike,Nike Air Zoom Fly 2,Aqua,M,90,MEMPHIS,M,45,N,0,36-45,46.62
+MEM192,January,AM,Kevin,411863,Reebok,Dual Rush Z,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,39.97
+GER193,January,AM,Karen,399834,Reebok,Goddess,White/Pink,W,59.95,GERMANTOWN,F,66,N,0,Over 55,56.21
+MEM194,January,AM,Karen,399834,Reebok,Goddess,White/Pink,W,59.95,MEMPHIS,F,67,N,0,Over 55,40.91
+MEM195,January,AM,Bob,200232,Nike,Nike Dunk Low Premium SB,White/Blue,M,100,MEMPHIS,M,24,N,0,18-25,33.09
+MEM196,January,PM,Kevin,385543,Saucony,PowerGrid Omni,White,W,109.99,MEMPHIS,F,33,N,0,26-35,26.37
+MEM197,January,PM,Karen,399834,Reebok,Goddess,White/Pink,W,59.95,MEMPHIS,F,32,N,0,26-35,55.94
+MEM198,January,PM,Kevin,200211,Nike,LeBron Xiii,Blue,M,200,MEMPHIS,M,18,N,0,18-25,72.29
+MEM199,January,PM,Karen,200119,Nike,Nike Flyknit Lunar,Grey/Aqua,W,109.99,MEMPHIS,F,19,N,0,18-25,25.95
+MEM200,January,PM,Karen,200252,Nike,Nike LunarGlide,Black/Grey,M,120,MEMPHIS,M,14,N,0,18-25,90.41
+MEM201,January,PM,Gary,431064,ASICS,GEL-Venture?,Black/Red,M,64.95,MEMPHIS,M,64,N,0,Over 55,64.12
+GER202,January,PM,Ashley,374775,Nike,Air Jordan,Blue/White,W,159.99,GERMANTOWN,F,46,N,0,45-55,136.84
+GER203,January,PM,Karen,411863,Reebok,Dual Rush Z,White,W,69.95,GERMANTOWN,F,60,N,0,Over 55,15.97
+MEM204,January,AM,Karen,411863,Reebok,Dual Rush Z,White,W,69.95,MEMPHIS,F,29,N,0,26-35,53.2
+MEM205,January,PM,Karen,411863,Reebok,Dual Rush Z,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,62.3
+MEM206,January,PM,Karen,200168,Nike,Nike Zoom Speed Trainer,Black,W,90,MEMPHIS,F,39,N,0,36-45,25.64
+MEM207,January,PM,Karen,409279,Saucony,PowerGrid Omni,Black/Red/Aqua,W,109.99,MEMPHIS,F,24,N,0,18-25,119.08
+MEM208,January,PM,Gary,200289,Nike,Nike Free Trainer 3.0 V3,Aqua/Black/White,M,110,MEMPHIS,M,33,N,0,26-35,38.83
+MEM209,January,AM,Karen,409279,Saucony,PowerGrid Omni,Black/Red/Aqua,W,109.99,MEMPHIS,F,34,N,0,26-35,53.86
+MEM210,January,AM,Karen,409279,Saucony,PowerGrid Omni,Black/Red/Aqua,W,109.99,MEMPHIS,F,41,N,0,36-45,40.59
+MEM211,January,AM,Kevin,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,60,N,0,Over 55,51.93
+MEM212,January,AM,Bob,200262,Nike,Nike Free Trainer 5.0 V6,White/Grey,M,110,MEMPHIS,M,38,N,0,36-45,125.53
+GER213,January,AM,Mandeep,200221,Nike,Nike Free 4.0 iD,Blue,M,140,GERMANTOWN,M,25,N,0,18-25,64.09
+GER214,January,AM,Karen,200125,Nike,Nike Flyknit Lunar,Grey/Aqua,W,109.99,GERMANTOWN,F,27,N,0,26-35,69.4
+MEM215,January,AM,Karen,200276,Nike,Nike Zoom Field General,Black/Grey,M,104.97,MEMPHIS,M,35,N,0,26-35,33.77
+GER216,January,AM,Karen,382123,ASICS,GEL-Exalt? 2 Lite-Show,Purple/Pink,W,79.99,GERMANTOWN,F,52,N,0,45-55,16.66
+MEM217,January,PM,Mandeep,382013,Nike,Air Jordan,Black,M,159.99,MEMPHIS,M,61,N,0,Over 55,59.59
+GER218,January,PM,Karen,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,GERMANTOWN,F,66,N,0,Over 55,48.73
+MEM219,January,PM,Gary,407792,ASICS,33-DFA?,Black/Grey,M,89.95,MEMPHIS,M,17,N,0,18-25,90.91
+GER220,January,PM,Ashley,363954,Nike,Air Jordan,Blue/White,W,159.99,GERMANTOWN,F,41,N,0,36-45,34.28
+MEM221,January,PM,Karen,200170,Nike,Kobe X iD,Black,W,155,MEMPHIS,F,21,N,0,18-25,34.17
+MEM222,January,PM,Mandeep,409288,Saucony,Endorphin,White/Grey,W,59.95,MEMPHIS,F,27,N,0,26-35,28.03
+MEM223,January,PM,Karen,364815,Saucony,Fastwitch 6,White/Black,W,63.97,MEMPHIS,F,26,N,0,26-35,38.85
+MEM224,January,PM,Karen,364815,Saucony,Fastwitch 6,White/Black,W,63.97,MEMPHIS,F,64,N,0,Over 55,46.97
+MEM225,January,PM,Gary,200223,Nike,Air Jordan 2,Black,M,89.97,MEMPHIS,M,43,N,0,36-45,81.89
+MEM226,January,AM,Bob,200284,Nike,Nike Shox,White/Grey,M,99.97,MEMPHIS,M,40,N,0,36-45,48.56
+COR227,January,PM,Karen,409230,Saucony,Saucony Triumph,White,W,88.89,CORDOVA,F,41,Y,0.47,36-45,39.71
+COR228,January,PM,Mandeep,385549,Saucony,Cortana,Green/Blue,W,78.97,CORDOVA,F,55,Y,0.11,45-55,38.11
+MEM229,January,PM,Gary,382119,ASICS,GEL-Cumulus? 16 Lite-Show?,Black/Grey,M,99.97,MEMPHIS,M,40,N,0,36-45,49.27
+GER230,January,PM,Ashley,363884,Nike,Air Jordan,White,W,159.99,GERMANTOWN,F,21,N,0,18-25,102.37
+GER231,January,PM,Mandeep,363813,ASICS,GEL-Kinsei? 5,Red/Black,M,139.99,GERMANTOWN,M,26,Y,0.43,26-35,36.3
+MEM232,January,PM,Mandeep,200241,Nike,Nike Lunar Eclipse,Blue,M,135,MEMPHIS,M,16,Y,0.33,18-25,75.21
+GER233,January,PM,Gary,200285,Nike,Nike Shox,Black/Grey,M,99.97,GERMANTOWN,M,12,Y,0.15,18-25,80.81
+MEM234,January,AM,Mandeep,200187,Nike,Nike Flyknit Lunar,Grey/Aqua,W,109.99,MEMPHIS,F,51,Y,0.49,45-55,84.28
+MEM235,January,PM,Karen,200180,Nike,Nike Dunk Sky Hi Essential,Black,W,120,MEMPHIS,F,14,N,0,18-25,111.54
+COR236,January,PM,Gary,200243,Nike,Nike Lunar TR1 LE,Black/Orange,M,94.97,CORDOVA,M,43,Y,0.37,36-45,90.11
+COR237,January,PM,Mandeep,200202,Nike,Nike Flyknit Lunar,Grey/Orange,W,109.99,CORDOVA,F,32,Y,0.17,26-35,41.94
+GER238,January,PM,Mandeep,382128,ASICS,GEL-Super J33?,White,M,94.95,GERMANTOWN,M,44,Y,0.36,36-45,87.13
+MEM239,January,PM,Gary,200259,Nike,Nike Free 4.0 Flyknit,Black,M,109.99,MEMPHIS,M,17,N,0,18-25,82.52
+GER240,January,AM,Mandeep,200280,Nike,Nike Free 4.0 Flyknit,Blue,M,109.99,GERMANTOWN,M,13,Y,0.33,18-25,50.76
+MEM241,January,AM,Mandeep,200186,Nike,Nike Flyknit Lunar,Grey/Pink,W,109.99,MEMPHIS,F,28,Y,0.3,26-35,107.92
+MEM242,January,AM,Mandeep,445174,Nike,Air Jordan,Black/White,M,159.99,MEMPHIS,M,38,Y,0.11,36-45,125.41
+MEM243,January,AM,Mandeep,392568,ASICS,GEL-Cumulus? 16 G-TX?,White/Grey,M,134.95,MEMPHIS,M,27,Y,0.28,26-35,74.64
+MEM244,January,PM,Bob,200263,Nike,Nike Lunar Trainer 1,White/Orange,M,89.97,MEMPHIS,M,15,N,0,18-25,32.14
+MEM245,January,PM,Mandeep,200257,Nike,Nike Air Zoom Streak 5,Blue/Black,M,100,MEMPHIS,M,16,Y,0.5,18-25,54.53
+GER246,January,PM,Gary,392573,Nike,Air Jordan,Green/Blue,W,159.99,GERMANTOWN,F,22,N,0,18-25,106.53
+MEM247,January,PM,Ashley,407702,Nike,Air Jordan,Green/Pink,W,159.99,MEMPHIS,F,45,N,0,36-45,60.91
+MEM248,January,PM,Mandeep,200249,Nike,Nike Flyknit Lunar,Blue/Blue,M,109.99,MEMPHIS,M,22,Y,0.28,18-25,91.63
+GER249,January,AM,Kevin,200295,Nike,Air Jordan 2,Black/Red/Aqua,M,174.99,GERMANTOWN,M,22,Y,0.19,18-25,172.17
+MEM250,January,PM,Mandeep,388255,Nike,Air Jordan 2,Grey/Pink,M,174.99,MEMPHIS,M,15,Y,0.42,18-25,71.86
+COR251,January,PM,Mandeep,409279,Brooks,Glycerin,Black/Red/Aqua,W,119.99,CORDOVA,F,19,Y,0.14,18-25,77.62
+BAR252,January,PM,Karen,409242,Brooks,Glycerin,Grey/White/Green,W,119.99,BARTLETT,F,54,Y,0.29,45-55,108.4
+GER253,January,PM,Karen,200188,Nike,Nike Free 4.0 Flyknit,Black,W,109.99,GERMANTOWN,F,40,N,0,36-45,30.77
+GER254,January,PM,Gary,200269,Nike,Nike Free 3.0 Flyknit,Black,M,109.99,GERMANTOWN,M,33,N,0,26-35,76.22
+MEM255,January,AM,Mandeep,382010,Nike,Air Jordan 2,White,M,174.99,MEMPHIS,M,56,Y,0.42,Over 55,116.27
+MEM256,January,AM,Karen,385563,Brooks,Glycerin,Red,W,119.99,MEMPHIS,F,35,Y,0.37,26-35,83.54
+BAR257,January,PM,Mandeep,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,W,100,BARTLETT,F,37,Y,0.14,36-45,67.16
+MEM258,January,PM,Karen,409239,Brooks,Glycerin,White,W,119.99,MEMPHIS,F,29,Y,0.33,26-35,94.58
+GER259,January,PM,Kevin,200248,Nike,Nike Zoom Speed Trainer,Yellow/White,M,90,GERMANTOWN,M,16,N,0,18-25,57.31
+MEM260,January,PM,Karen,385564,Brooks,Glycerin,Grey/Green,W,119.99,MEMPHIS,F,23,Y,0.12,18-25,136.57
+MEM261,January,PM,Gary,287536,ASICS,GEL-Cumulus? 16 BR?,Black/Red,M,109.95,MEMPHIS,M,36,N,0,36-45,79.66
+MEM262,January,PM,Ashley,363957,Nike,Air Jordan 2,Grey/Aqua,W,174.99,MEMPHIS,F,26,N,0,26-35,78.65
+MEM263,January,PM,Mandeep,363780,ASICS,GEL-Noosafast?,Red,M,99.95,MEMPHIS,M,41,Y,0.39,36-45,91.66
+MEM264,January,PM,Karen,385489,Brooks,Glycerin,White/Black,W,119.99,MEMPHIS,F,29,Y,0.18,26-35,31.94
+GER265,January,PM,Gary,200270,Nike,Nike Free 3.0 Flyknit,Black,M,109.99,GERMANTOWN,M,25,N,0,18-25,50.81
+MEM266,January,PM,Mandeep,385614,Brooks,Ghost,Aqua/Black/White,W,99.99,Memphis,F,40,Y,0.42,36-45,85.66
+MEM267,January,PM,Mandeep,384551,Nike,Air Jordan 2,Black,M,174.99,MEMPHIS,M,34,Y,0.31,26-35,40.47
+MEM268,January,PM,Karen,200190,Nike,Nike Air Force 1,Black,W,59.95,MEMPHIS,F,42,N,0,36-45,23.65
+MEM269,January,PM,Mandeep,200140,Nike,Nike Zoom Pegagus,Multi,W,99.99,MEMPHIS,F,26,Y,0.48,26-35,111.68
+MEM270,January,PM,Kevin,200218,Nike,Air Jordan,Purple/Aqua,M,159.99,MEMPHIS,M,28,N,0,26-35,77.81
+MEM271,January,PM,Karen,409519,Nike,Air Jordan 2,White,W,174.99,MEMPHIS,F,15,Y,0.49,18-25,41.81
+MEM272,January,PM,Gary,382132,ASICS,GEL-Havoc? 2,Black/Orange,M,75.99,MEMPHIS,M,56,N,0,Over 55,63.96
+GER273,January,PM,Ashley,392590,Nike,Air Jordan 2,Grey/Pink,W,174.99,GERMANTOWN,F,23,N,0,18-25,99.44
+COR274,January,PM,Kevin,200245,Nike,Air Jordan 2,Black/White,M,174.99,CORDOVA,M,32,Y,0.4,26-35,181.2
+COL275,January,PM,Mandeep,200127,Nike,Nike Zoom Pegagus,Orange,W,99.99,COLLIERVILLE,F,19,Y,0.41,18-25,57.45
+COL276,January,PM,Karen,385495,Brooks,Glycerin,Grey/Aqua,W,119.99,COLLIERVILLE,F,50,Y,0.27,45-55,90.79
+COL277,January,PM,Mandeep,200288,Nike,Nike Zoom Pegagus,White,W,99.99,COLLIERVILLE,F,46,Y,0.23,45-55,24.81
+GER278,January,PM,Gary,200277,Nike,Nike Zoom Speed Trainer,Black,M,90,GERMANTOWN,M,45,N,0,36-45,46.39
+MEM279,January,PM,Mandeep,409275,Nike,Nike Flyknit Lunar,Black,M,109.99,MEMPHIS,M,22,Y,0.31,18-25,54.2
+COL280,January,PM,Cindy,200194,Nike,Nike Zoom Pegagus,Orange/Black,W,99.99,COLLIERVILLE,F,30,Y,0.35,26-35,111.41
+MEM281,January,PM,Kevin,200268,Nike,Air Jordan 2,Black/White,M,174.99,MEMPHIS,M,32,Y,0.46,26-35,79.6
+COL282,January,PM,Cindy,200135,Nike,Nike Zoom Pegagus,Orange/Red,W,99.99,COLLIERVILLE,F,30,Y,0.42,26-35,77.59
+MEM283,January,PM,Mandeep,200247,Nike,Air Jordan 2,Green/Pink,M,174.99,MEMPHIS,M,38,Y,0.32,36-45,134.94
+MEM284,January,PM,Karen,200193,Nike,Nike Shox NZ,Black,W,155,MEMPHIS,F,21,N,0,18-25,85.73
+COL285,January,PM,Ashley,200145,Nike,Nike Zoom Pegagus,White,W,99.99,COLLIERVILLE,F,18,Y,0.17,18-25,65.79
+MEM286,January,AM,Bob,364565,ASICS,GEL-Foundation? 8,Multi,W,93.99,MEMPHIS,F,23,N,0,18-25,91.12
+GER287,January,PM,Kevin,200229,Nike,Nike Free 5.0,Red,M,140,GERMANTOWN,M,25,N,0,18-25,50.09
+MEM288,January,PM,Gary,382136,ASICS,GEL-Zaraca?,Black/Orange,M,67.99,MEMPHIS,M,62,N,0,Over 55,75.76
+COL289,January,AM,Cindy,200209,Nike,Nike Zoom Pegagus,White,W,99.99,COLLIERVILLE,F,30,Y,0.27,26-35,76.7
+COL290,January,AM,Cindy,200124,Nike,Nike Zoom Pegagus,Pink,W,99.99,COLLIERVILLE,F,51,Y,0.41,45-55,82.38
+COR291,January,AM,Gary,200282,Nike,Air Jordan 2,Black/White,M,174.99,CORDOVA,M,52,Y,0.35,45-55,168.08
+COL292,January,AM,Bob,200134,Nike,Nike Roshe One,White,W,95,COLLIERVILLE,F,42,Y,0.15,36-45,38.5
+MEM293,January,PM,Mandeep,200300,Nike,Air Jordan 2,Green/White,M,174.99,MEMPHIS,M,19,Y,0.49,18-25,106.07
+GER294,January,PM,Mandeep,409532,Nike,Air Jordan 2,Black/White,M,179.97,GERMANTOWN,M,46,Y,0.39,45-55,199.61
+MEM295,January,PM,Gary,200298,Nike,Air Jordan,Black,M,159.99,MEMPHIS,M,18,N,0,18-25,63.23
+MEM296,January,PM,Cindy,200138,Nike,Nike Zoom Fit,Pink,W,69.97,MEMPHIS,F,14,Y,0.28,18-25,16.67
+MEM297,January,PM,Mandeep,409256,Brooks,Ghost,White/Black,W,99.99,MEMPHIS,F,55,Y,0.39,45-55,45.47
+MEM298,January,PM,Karen,200196,Nike,Nike Zoom Fit Agility,Black,W,69.97,MEMPHIS,F,14,N,0,18-25,25.06
+COL299,January,PM,Bob,200142,Saucony,Saucony Triumph,White,W,88.89,COLLIERVILLE,F,24,Y,0.38,18-25,88.35
+MEM300,January,AM,Bob,407801,ASICS,GEL-DS Trainer? 20,Pink,W,119.95,MEMPHIS,F,53,N,0,45-55,37.48
+MEM301,January,PM,Kevin,200231,Nike,Air Jordan,Red,M,159.99,MEMPHIS,M,39,N,0,36-45,110.53
+MEM302,January,PM,Gary,327505,ASICS,GEL-Excel33?,Black/Red,M,79.99,MEMPHIS,M,24,N,0,18-25,16.62
+MEM303,January,AM,Derrick,200143,Saucony,Saucony Triumph,White,W,88.89,MEMPHIS,F,34,N,0,26-35,34.09
+COL304,January,PM,Derrick,200154,Saucony,Saucony Triumph,White,W,88.89,COLLIERVILLE,F,42,N,0,36-45,64.56
+COR305,January,PM,Derrick,200154,Saucony,Saucony Triumph,White,W,88.89,CORDOVA,F,42,N,0,36-45,37.3
+MEM306,January,PM,Cindy,200174,Saucony,Saucony Triumph,Pink,W,88.89,MEMPHIS,F,52,N,0,45-55,35.92
+GER307,January,PM,Gary,200301,Nike,Air Jordan,Black,M,159.99,GERMANTOWN,M,22,N,0,18-25,146.31
+MEM308,January,PM,Mandeep,325199,Nike,Nike Flyknit Lunar,Black/White,M,109.99,MEMPHIS,M,59,N,0,Over 55,94.1
+MEM309,January,PM,Mandeep,385498,Nike,LeBron Xiii,Blue/Red,M,100,MEMPHIS,M,28,N,0,26-35,99.85
+MEM310,January,PM,Karen,200200,Nike,Nike Zoom Fit Agility,Black,W,69.97,MEMPHIS,F,67,N,0,Over 55,22.06
+MEM311,January,AM,Derrick,363943,ASICS,GEL-Fuji Racer? 3,Pink,W,79.97,MEMPHIS,F,26,N,0,26-35,78.25
+MEM312,January,PM,Kevin,200237,Nike,Air Jordan,Red,M,159.99,MEMPHIS,M,39,N,0,36-45,84.94
+MEM313,January,PM,Gary,363819,ASICS,GEL-Speedstar?,Black/Red/Aqua,M,79.99,MEMPHIS,M,18,N,0,18-25,65.67
+MEM314,January,AM,Karen,385038,New Balance,W870v3,Aqua/Black,W,90.99,MEMPHIS,F,44,N,0,36-45,46.21
+MEM315,January,AM,Cindy,200234,Nike,Nike Air Zoom Elite 7,Grey/Aqua,M,110,MEMPHIS,M,31,N,0,26-35,32.73
+GER316,January,PM,Gary,200241,Nike,Nike Lunar Eclipse,Blue,M,135,GERMANTOWN,M,46,N,0,45-55,104.01
+COL317,January,PM,Karen,410777,New Balance,W1500,Aqua/Yellow,W,116.97,COLLIERVILLE,F,28,N,0,26-35,63.3
+MEM318,January,PM,Gary,200303,Nike,Air Jordan,Black,M,159.99,MEMPHIS,M,43,N,0,36-45,74.66
+MEM319,January,PM,Mandeep,409513,Nike,Nike Air Zoom Streak 5,White/Grey,M,100,MEMPHIS,M,27,N,0,26-35,74.89
+COL320,January,PM,Karen,200151,Saucony,Saucony Triumph,Pink/Grey,W,88.89,COLLIERVILLE,F,15,N,0,18-25,28.25
+MEM321,January,PM,Mandeep,364818,Nike,Nike Flyknit Air Max,Blue/Yellow,M,99.97,MEMPHIS,M,54,N,0,45-55,85.47
+MEM322,January,PM,Karen,385047,New Balance,W890v4,Aqua/Yellow,W,84.97,MEMPHIS,F,50,N,0,45-55,58.63
+GER323,January,PM,Cindy,200293,Nike,LeBron Xiii,Grey/Aqua,M,200,GERMANTOWN,M,25,N,0,18-25,186.09
+MEM324,January,PM,Karen,200178,Nike,Nike Zoom Fit Agility,Black/Blue,W,69.97,MEMPHIS,F,59,N,0,Over 55,62.14
+MEM325,January,AM,Derrick,363962,ASICS,GEL-Storm?,Pink,W,64.99,MEMPHIS,F,16,N,0,18-25,56.4
+BAR326,January,PM,Kevin,200291,Nike,Air Jordan 2,Red,M,174.99,BARTLETT,M,38,N,0,36-45,140.9
+BAR327,January,PM,Gary,363764,ASICS,GEL-Contend? 2,Black/White,M,59.95,BARTLETT,M,14,N,0,18-25,65.09
+GER328,January,PM,Gary,200280,Nike,Nike Free 4.0 Flyknit,Blue,M,109.99,GERMANTOWN,M,13,N,0,18-25,85.55
+MEM329,January,PM,Karen,200206,Saucony,Saucony Triumph,Pink/Yellow,W,88.89,MEMPHIS,F,32,N,0,26-35,101.03
+GER330,January,PM,Gary,200299,Nike,Air Jordan 2,Black/Red,M,174.99,GERMANTOWN,M,27,N,0,26-35,110.89
+MEM331,January,PM,Mandeep,409389,Nike,Nike Flyknit Air Max,Grey,M,99.97,MEMPHIS,M,54,N,0,45-55,93.9
+COL332,January,PM,Karen,410747,New Balance,W1080v5,Blue/Pink/Lime,W,144.95,COLLIERVILLE,F,24,N,0,18-25,165.5
+MEM333,January,PM,Cindy,200216,Nike,Air Jordan 2,Grey/Blue,M,125,MEMPHIS,M,13,N,0,18-25,140.88
+MEM334,January,PM,Karen,200183,Nike,Nike Zoom Fit Agility,Black/Blue,W,69.97,MEMPHIS,F,29,N,0,26-35,36.48
+BAR335,January,AM,Kevin,200238,Nike,Air Jordan 2,Blue/Green,M,174.99,BARTLETT,M,22,N,0,18-25,199.45
+BAR336,January,AM,Derrick,382113,ASICS,GEL-Exalt? 2 Lite-Show,Pink/Blue,W,79.99,BARTLETT,F,15,N,0,18-25,40.94
+GER337,January,PM,Gary,374619,ASICS,GEL-Cumulus? 16?,Black/White,M,89.97,GERMANTOWN,M,46,N,0,45-55,48.35
+MEM338,January,PM,Karen,200132,Saucony,Saucony PowerGrid Omni,Purple,W,109.97,MEMPHIS,F,21,N,0,18-25,102.05
+MEM339,January,PM,Mandeep,409205,Brooks,Ghost,Grey/Aqua,W,99.99,MEMPHIS,F,21,N,0,18-25,65.74
+MEM340,January,PM,Karen,436912,New Balance,W470v4,Blue/Pink/Lime,W,74.99,MEMPHIS,F,27,N,0,26-35,55.78
+GER341,January,PM,Cindy,200271,Nike,Nike LunarGlide,Grey/Blue,M,120,GERMANTOWN,M,30,N,0,26-35,118.54
+MEM342,January,PM,Gary,200212,Nike,Air Jordan 2,Black/Red,M,174.99,MEMPHIS,M,27,N,0,26-35,43.11
+MEM343,January,PM,Cindy,398964,New Balance,M1540v2,Black/White,M,159.95,MEMPHIS,M,20,N,0,18-25,161.09
+GER344,January,PM,Karen,200122,Nike,Nike Zoom Fit Agility,Green/Blue,W,69.97,GERMANTOWN,F,71,N,0,Over 55,62.62
+MEM345,January,AM,Kevin,200215,Nike,Air Jordan 2,Blue/Grey,M,174.99,MEMPHIS,M,33,N,0,26-35,38.96
+BAR346,January,AM,Derrick,407787,ASICS,33-DFA?,Pink/Grey,W,89.95,BARTLETT,F,17,N,0,18-25,80.57
+BAR347,January,PM,Gary,407806,ASICS,GEL-Hyper Tri?,Black/White,M,99.95,BARTLETT,M,41,N,0,36-45,41.12
+MEM348,January,PM,Karen,358315,New Balance,W1400v2,White/Black,W,88.99,MEMPHIS,F,33,N,0,26-35,64.6
+MEM349,January,PM,Bob,200275,Nike,Nike Zoom Speed Trainer,Grey/Blue,M,90,MEMPHIS,M,12,N,0,18-25,35.26
+GER350,January,PM,Cindy,385040,New Balance,M870v3,Black/White,M,99.99,GERMANTOWN,M,31,N,0,26-35,60.18
+MEM351,January,PM,Gary,200278,Nike,Air Jordan 2,Black/Red,M,174.99,MEMPHIS,M,15,N,0,18-25,94.1
+MEM352,January,PM,Karen,200208,Nike,Nike Zoom Fit Agility,Black/Grey/Orange,W,69.97,MEMPHIS,F,57,N,0,Over 55,57.1
+GER353,February,AM,Gary,200219,Nike,Nike Zoom Fit Agility,Orange,W,69.97,GERMANTOWN,F,48,N,0,45-55,60.83
+MEM354,February,PM,Derrick,382135,ASICS,GEL-Havoc? 2,Purple,W,75.99,MEMPHIS,F,56,N,0,Over 55,42.75
+MEM355,February,PM,Gary,382182,ASICS,GEL-Kahana? 7,Black/White,M,72.99,MEMPHIS,M,59,N,0,Over 55,69.18
+MEM356,February,PM,Karen,200158,Nike,Nike Zoom Fit Agility,Blue/Pink/Lime,W,69.97,MEMPHIS,F,26,N,0,26-35,29.39
+BAR357,February,PM,Bob,200283,Nike,LeBron Xiii,Black/Red,M,200,BARTLETT,M,16,N,0,18-25,60.21
+BAR358,February,AM,Derrick,382123,ASICS,GEL-Exalt? 2 Lite-Show,Purple/Pink,W,79.99,BARTLETT,F,52,N,0,45-55,42.29
+GER359,February,AM,Gary,200244,Nike,Nike Zoom Fit Agility,Orange,W,69.97,GERMANTOWN,F,36,N,0,36-45,77.55
+GER360,February,PM,Alfonso,304351,ASICS,GEL-Contend?,Blue,M,54.97,GERMANTOWN,M,22,N,0,18-25,24.2
+MEM361,February,PM,Karen,200204,Nike,Nike Zoom Fit Agility,Blue/Pink/Lime,W,69.97,MEMPHIS,F,12,N,0,18-25,44.77
+GER362,February,PM,Bob,200296,Nike,Air Jordan 2,Black/Red,M,174.99,GERMANTOWN,M,40,N,0,36-45,146.74
+BAR363,February,AM,Bob,407778,ASICS,33-M?,Purple/Pink,W,139.95,BARTLETT,F,27,N,0,26-35,110.83
+MEM364,February,AM,Alfonso,200273,Nike,Air Jordan 2,Orange,M,174.99,MEMPHIS,M,26,N,0,26-35,112.71
+GER365,February,AM,Alfonso,200273,Nike,Nike Zoom Fit Agility,Orange,W,69.97,GERMANTOWN,F,24,N,0,18-25,31.21
+MEM366,February,AM,Alfonso,200273,Nike,LeBron Xiii,Black/Red,M,174.99,MEMPHIS,M,25,N,0,18-25,171
+GER367,February,AM,Alfonso,200273,Nike,Air Jordan 2,Orange,M,174.99,GERMANTOWN,M,25,N,0,18-25,82.27
+GER368,February,PM,Alfonso,407809,ASICS,GEL-Hyper Speed? 6,Blue,M,84.95,GERMANTOWN,M,50,N,0,45-55,44.68
+MEM369,February,PM,Karen,200121,Nike,Air Jordan 2,Black/Red/Aqua,W,130,MEMPHIS,F,12,N,0,18-25,96.14
+MEM370,February,PM,Bob,200213,Nike,LeBron Xiii,Black/Grey,M,200,MEMPHIS,M,19,N,0,18-25,198.33
+MEM371,February,AM,Bob,407669,ASICS,GEL-Nimbus? 17,Purple/Pink,W,149.95,MEMPHIS,F,23,N,0,18-25,37.22
+MEM372,February,PM,Alfonso,200261,Nike,Free 4.0 Flyknit,Orange/Aqua,M,94.97,MEMPHIS,M,43,N,0,36-45,100.27
+GER373,February,PM,Alfonso,200261,Nike,Free 4.0 Flyknit,Orange/Aqua,M,94.97,GERMANTOWN,M,43,N,0,36-45,47.08
+MEM374,February,PM,Alfonso,200261,Nike,Free 4.0 Flyknit,Orange/Aqua,M,94.97,MEMPHIS,M,43,N,0,36-45,91.11
+GER375,February,PM,Alfonso,200261,Nike,Free 4.0 Flyknit,Orange/Aqua,M,94.97,GERMANTOWN,M,21,N,0,18-25,93.47
+GER376,February,PM,Alfonso,382121,ASICS,GEL-Exalt 2?,Blue/White,M,79.99,GERMANTOWN,M,52,N,0,45-55,67.91
+MEM377,February,PM,Karen,200129,Nike,Nike LunarGlide,White/Black,W,110,MEMPHIS,F,23,N,0,18-25,109.06
+MEM378,February,PM,Bob,200252,Nike,Nike LunarGlide,Black/Grey,M,120,MEMPHIS,M,13,N,0,18-25,36.06
+GER379,February,AM,Bob,407803,ASICS,GEL-DS Racer? 10,Red/Blue,W,109.95,GERMANTOWN,F,34,N,0,26-35,72.15
+GER380,February,PM,Alfonso,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,W,100,GERMANTOWN,F,36,N,0,36-45,76.19
+GER381,February,PM,Alfonso,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,W,100,GERMANTOWN,F,36,N,0,36-45,71.74
+GER382,February,PM,Alfonso,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,W,100,GERMANTOWN,F,36,N,0,36-45,48.11
+GER383,February,PM,Alfonso,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,GERMANTOWN,M,36,N,0,36-45,53.07
+MEM384,February,PM,Bob,407694,ASICS,GEL-Sonoma?,Blue/White,M,74.95,MEMPHIS,M,58,N,0,Over 55,43.27
+MEM385,February,PM,Karen,200157,Nike,Nike AF-1 Ultra Force Mid,White/Black,W,74.97,MEMPHIS,F,62,N,0,Over 55,17.94
+MEM386,February,PM,Bob,200276,Nike,Nike Zoom Field General,Black/Grey,M,104.97,MEMPHIS,M,35,N,0,26-35,37.27
+MEM387,February,AM,Ashley,363961,ASICS,GEL-Speedstar?,Red/Blue,W,79.99,MEMPHIS,F,22,N,0,18-25,20.22
+BAR388,February,PM,Alfonso,200260,Nike,Free 4.0 Flyknit,Orange/Black,M,94.97,BARTLETT,M,17,N,0,18-25,39.86
+MEM389,February,PM,Alfonso,200260,Nike,Free 4.0 Flyknit,Orange/Black,M,94.97,MEMPHIS,M,17,N,0,18-25,92.87
+BAR390,February,PM,Bob,363716,ASICS,GEL-Electro33?,Green/Black,M,84.97,BARTLETT,M,50,N,0,45-55,23.81
+MEM391,February,PM,Karen,200161,Nike,Nike Lunar Eclipse,White/Black,W,135,MEMPHIS,F,27,N,0,26-35,97.41
+BAR392,February,PM,Ashley,200209,Nike,Nike Dunk Sky Hi Premium,White,W,89.97,BARTLETT,F,16,N,0,18-25,54.84
+MEM393,February,PM,Ashley,200209,Nike,Nike Dunk Sky Hi Premium,White,W,89.97,MEMPHIS,F,16,N,0,18-25,81.24
+BAR394,February,PM,Karen,445173,Reebok,Smoothflex Flyer,White,W,69.95,BARTLETT,F,61,N,0,Over 55,51.69
+MEM395,February,PM,Bob,200285,Nike,Nike Shox,Black/Grey,M,99.97,MEMPHIS,M,13,N,0,18-25,110.81
+GER396,February,PM,Ashley,200128,Nike,Nike Dunk Ultra Modern,White/Grey,W,110,GERMANTOWN,F,30,N,0,26-35,71.15
+GER397,February,PM,Ashley,200128,Nike,Nike Dunk Ultra Modern,White/Grey,W,110,GERMANTOWN,F,30,N,0,26-35,85.54
+GER398,February,PM,Karen,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,GERMANTOWN,F,66,N,0,Over 55,25.13
+GER399,February,PM,Ashley,200165,Nike,Kobe X iD,Yellow/Black,W,155,GERMANTOWN,F,37,N,0,36-45,141.6
+BAR400,February,PM,Karen,364815,Saucony,Saucony Triumph,White/Black,W,88.89,BARTLETT,F,64,N,0,Over 55,54.59
+MEM401,February,AM,Ashley,363932,ASICS,GEL-Contend? 2,White,W,59.95,MEMPHIS,F,17,N,0,18-25,47.2
+MEM402,February,PM,Alfonso,200274,Nike,Free 4.0 Flyknit,Orange/Yellow/Black,M,84.97,MEMPHIS,M,48,N,0,45-55,74.31
+GER403,February,PM,Alfonso,200274,Nike,Free 4.0 Flyknit,Orange/Yellow/Black,M,84.97,GERMANTOWN,M,14,N,0,18-25,24
+MEM404,February,PM,Kevin,382118,Nike,LeBron Xiii,Green/Black,M,200,MEMPHIS,M,20,N,0,18-25,128.26
+MEM405,February,PM,Karen,200171,Nike,LeBron 12 iD,White/Black,W,80,MEMPHIS,F,20,N,0,18-25,68.79
+BAR406,February,PM,Ashley,200156,Nike,Nike AF-1 Ultra Force Mid,White/Black,W,64.97,BARTLETT,F,64,N,0,Over 55,18.68
+MEM407,February,PM,Ashley,200156,Nike,Nike AF-1 Ultra Force Mid,White/Black,W,64.97,MEMPHIS,F,70,N,0,Over 55,41.27
+MEM408,February,PM,Karen,399834,Reebok,Goddess,White/Pink,W,59.95,MEMPHIS,F,36,N,0,36-45,34.42
+GER409,February,PM,Kevin,200243,Nike,Nike Lunar TR1 LE,Black/Orange,M,94.97,GERMANTOWN,M,43,N,0,36-45,42.82
+MEM410,February,PM,Ashley,200175,Nike,Nike Roshe One ,White/multi,W,95,MEMPHIS,F,52,N,0,45-55,92.43
+BAR411,February,PM,Karen,385549,Saucony,Saucony Triumph,Green/Blue,W,88.89,BARTLETT,F,56,N,0,Over 55,54.65
+MEM412,February,PM,Ashley,200152,Nike,Nike Shox NZ,Yellow/White,W,155,MEMPHIS,F,21,N,0,18-25,115.05
+GER413,February,PM,Kevin,410104,Saucony,Saucony Triumph,Blue/White,W,88.89,GERMANTOWN,F,52,N,0,45-55,86.6
+MEM414,February,PM,Ashley,345836,ASICS,GEL-Equation? 7,White,W,69.99,MEMPHIS,F,29,N,0,26-35,16.06
+GER415,February,PM,Alfonso,200237,Nike,Nike Free Cross Bionic 3,Red,W,110,GERMANTOWN,F,36,N,0,36-45,87.28
+GER416,February,PM,Alfonso,200237,Nike,Nike Free Cross Bionic 4,Red,W,110,GERMANTOWN,F,36,N,0,36-45,25.14
+BAR417,February,PM,Kevin,327674,ASICS,GEL-Exalt 2?,Green,M,79.99,BARTLETT,M,51,N,0,45-55,19.72
+MEM418,February,PM,Mandeep,200177,Nike,Nike Air Zoom Fly 2,White/Black,W,90,MEMPHIS,F,45,N,0,36-45,100.97
+GER419,February,PM,Ashley,200182,Nike,Nike Lunar Force 1 Sky Hi,White/Black,W,89.97,GERMANTOWN,F,46,N,0,45-55,95.89
+MEM420,February,PM,Ashley,200182,Nike,Nike Lunar Force 1 Sky Hi,White/Black,W,89.97,MEMPHIS,F,16,N,0,18-25,27.86
+BAR421,February,PM,Mandeep,411863,Reebok,Dual Rush Z,White,W,69.95,BARTLETT,F,61,N,0,Over 55,80.06
+MEM422,February,PM,Mandeep,200279,Nike,Air Jordan 2,Black/Orange,M,74.97,MEMPHIS,M,57,N,0,Over 55,45.18
+GER423,February,PM,Ashley,200185,Nike,LeBron 12 iD,White/Black,M,100,GERMANTOWN,M,36,N,0,36-45,34.86
+BAR424,February,PM,Mandeep,409279,Saucony,Saucony Triumph,Black/Red/Aqua,W,88.89,BARTLETT,F,27,N,0,26-35,62.56
+GER425,February,PM,Ashley,200136,Nike,Nike Zoom LeBron Soldier VIII iD,Purple/Pink,W,170,GERMANTOWN,F,20,N,0,18-25,154.74
+MEM426,February,PM,Ashley,200136,Nike,Nike Zoom LeBron Soldier VIII iD,Purple/Pink,W,170,MEMPHIS,F,23,N,0,18-25,46.02
+MEM427,February,PM,Ashley,411849,Reebok,Southrange Run,Blue/Green,W,59.95,MEMPHIS,F,37,N,0,36-45,13.52
+MEM428,February,AM,Ashley,345833,ASICS,Gel-Flux?,White,W,67.99,MEMPHIS,F,62,N,0,Over 55,42.09
+GER429,February,PM,Alfonso,200291,Nike,LeBron Xiii,Red,M,100,GERMANTOWN,M,37,N,0,36-45,68.99
+GER430,February,PM,Alfonso,200291,Nike,LeBron Xiii,Red,M,100,GERMANTOWN,M,37,N,0,36-45,89.22
+MEM431,February,PM,Mandeep,382212,ASICS,GEL-Preleus?,Green,M,79.99,MEMPHIS,M,52,N,0,45-55,45.73
+GER432,February,PM,Mandeep,200181,Nike,Nike Lunar Force 1 Sky Hi,White/Black,W,89.97,GERMANTOWN,F,35,N,0,26-35,40.08
+BAR433,February,PM,Mandeep,200228,Nike,Nike Free 4.0,Black/Purple,M,90,BARTLETT,M,45,N,0,36-45,53.92
+MEM434,February,AM,Ashley,407821,ASICS,GEL-FujiAttack? 4,White,W,93.99,MEMPHIS,F,44,N,0,36-45,107.28
+MEM435,February,PM,Alfonso,200238,Nike,LeBron Xiii,Blue/Green,M,200,MEMPHIS,M,22,N,0,18-25,105.78
+GER436,February,PM,Alfonso,200238,Nike,LeBron Xiii,Blue/Green,M,200,GERMANTOWN,M,21,N,0,18-25,131.61
+GER437,February,PM,Mandeep,407770,ASICS,GEL-Fortify?,Green/White,M,149.95,GERMANTOWN,M,23,N,0,18-25,126.58
+MEM438,February,PM,Mandeep,200172,Nike,LeBron 12 iD,Blue,W,80,MEMPHIS,F,20,N,0,18-25,79.21
+GER439,February,PM,Mandeep,200295,Nike,Air Jordan 2,Black/Red/Aqua,M,174.99,GERMANTOWN,M,22,N,0,18-25,50.65
+MEM440,February,AM,Ashley,382131,ASICS,GEL-Lyte33?,White,W,84.95,MEMPHIS,F,51,N,0,45-55,88.48
+GER441,February,PM,Mandeep,382108,ASICS,GEL-Exalt 2?,Grey/Aqua,M,79.99,GERMANTOWN,M,52,N,0,45-55,28.67
+GER442,February,PM,Mandeep,200192,Nike,Nike Flyknit Lunar,Blue,W,109.99,GERMANTOWN,F,18,N,0,18-25,121.36
+GER443,February,PM,Alfonso,200215,Nike,Air Jordan,Blue/Grey,M,159.99,GERMANTOWN,M,30,N,0,26-35,158.13
+GER444,February,PM,Alfonso,200215,Nike,Air Jordan,Blue/Grey,M,159.99,GERMANTOWN,M,30,N,0,26-35,113.32
+MEM445,February,PM,Mandeep,200217,Nike,Air Jordan,Black/White,M,159.99,MEMPHIS,M,23,N,0,18-25,90.36
+GER446,February,AM,Ashley,407688,ASICS,GEL-Noosa Tri?,White,W,139.95,GERMANTOWN,F,26,N,0,26-35,154.44
+MEM447,February,PM,Mandeep,382205,ASICS,GEL-Sendai?,Grey/Aqua,M,139.95,MEMPHIS,M,26,N,0,26-35,74.21
+GER448,February,PM,Mandeep,200203,Nike,Nike Flyknit Lunar,Blue,W,109.99,GERMANTOWN,F,46,N,0,45-55,66.5
+MEM449,February,PM,Ashley,411863,Reebok,Dual Rush Z,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,25.09
+GER450,February,PM,Mandeep,200189,Nike,Nike Flyknit Lunar,Blue/Green,W,109.99,GERMANTOWN,F,47,N,0,45-55,83.1
+GER451,February,PM,Mandeep,200189,Nike,Nike Flyknit Lunar,Blue/Green,W,109.99,GERMANTOWN,F,25,N,0,18-25,54.48
+BAR452,February,PM,Alfonso,200219,Nike,Air Jordan,Orange,M,159.99,BARTLETT,M,48,N,0,45-55,71.77
+MEM453,February,PM,Alfonso,200219,Nike,Air Jordan,Orange,M,159.99,MEMPHIS,M,15,N,0,18-25,69.03
+MEM454,February,PM,Ashley,364815,Saucony,Saucony Triumph,White/Black,W,88.89,MEMPHIS,F,64,N,0,Over 55,18.1
+GER455,February,PM,Mandeep,200135,Nike,Nike Flyknit Lunar,Orange/Red,W,109.99,GERMANTOWN,F,31,N,0,26-35,47
+MEM456,February,PM,Mandeep,200135,Nike,Nike Flyknit Lunar,Orange/Red,W,109.99,MEMPHIS,F,32,N,0,26-35,48.97
+BAR457,February,PM,Mandeep,200220,Nike,LeBron Xiii,Black/White,M,200,BARTLETT,M,20,N,0,18-25,188.78
+GER458,February,PM,Ashley,200141,Nike,Nike Flyknit Lunar,Purple/Pink,W,109.99,GERMANTOWN,F,23,N,0,18-25,69.45
+MEM459,February,PM,Ashley,200141,Nike,Nike Flyknit Lunar,Purple/Pink,W,109.99,MEMPHIS,F,23,N,0,18-25,23.68
+GER460,February,PM,Ashley,411861,Reebok,Zquick Dash,Grey/Aqua,W,69.99,GERMANTOWN,F,28,N,0,26-35,70.43
+MEM461,February,AM,Mandeep,382084,ASICS,GEL-Surveyor?,White,W,139.97,MEMPHIS,F,26,N,0,26-35,90.98
+GER462,February,PM,Mandeep,382067,ASICS,GEL-Evate 2,Grey/Green,M,123.99,GERMANTOWN,M,55,N,0,45-55,109.76
+GER463,February,PM,Mandeep,200189,Nike,Nike Flyknit Air Max,Blue/Green,M,99.97,GERMANTOWN,M,47,N,0,45-55,78.27
+MEM464,February,PM,Ashley,385614,Saucony,Saucony Triumph,Aqua/Black/White,W,88.89,MEMPHIS,F,20,N,0,18-25,25.54
+MEM465,February,PM,Mandeep,200127,Nike,Nike Flyknit Lunar,Orange,W,109.99,MEMPHIS,F,20,N,0,18-25,30.77
+COL466,February,PM,Mandeep,200127,Nike,Nike Flyknit Lunar,Orange,W,109.99,COLLIERVILLE,F,20,N,0,18-25,124.9
+GER467,February,PM,Alfonso,200244,Nike,Nike Free 5.0,Orange,M,140,GERMANTOWN,M,37,N,0,36-45,36.4
+BAR468,February,PM,Alfonso,200244,Nike,Nike Free 5.0,Orange,M,140,BARTLETT,M,38,N,0,36-45,133.26
+GER469,February,PM,Ashley,410104,Saucony,Saucony Triumph,Blue/White,W,88.89,GERMANTOWN,F,48,N,0,45-55,44.59
+GER470,February,PM,Mandeep,200189,Nike,Nike Flyknit Air Max,Blue/Green,W,99.97,GERMANTOWN,F,47,N,0,45-55,21.85
+GER471,February,PM,Mandeep,200189,Nike,Nike Flyknit Air Max,Blue/Green,W,99.97,GERMANTOWN,F,21,N,0,18-25,57.47
+MEM472,February,PM,Mandeep,200189,Nike,Nike Flyknit Air Max,Blue/Green,W,99.97,Memphis,F,47,N,0,45-55,56.7
+MEM473,February,PM,Mandeep,200189,Nike,Nike Flyknit Air Max,Blue/Green,W,99.97,MEMPHIS,F,48,N,0,45-55,65.99
+BAR474,February,PM,Mandeep,200235,Nike,Nike Lunar Eclipse,Black/White,M,135,BARTLETT,M,27,N,0,26-35,64.87
+GER475,February,PM,Ashley,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,GERMANTOWN,F,31,N,0,26-35,62.62
+GER476,February,PM,Mandeep,200166,Nike,LeBron 12 iD,Purple/Grey,M,245,GERMANTOWN,M,17,N,0,18-25,102.38
+GER477,February,PM,Mandeep,200166,Nike,LeBron 12 iD,Purple/Grey,M,245,GERMANTOWN,M,18,N,0,18-25,99.55
+MEM478,February,AM,Mandeep,392571,ASICS,GEL-Cumulus? 16 BR?,White/Black,W,109.95,MEMPHIS,F,34,N,0,26-35,39.27
+MEM479,February,PM,Mandeep,382174,ASICS,GEL-Noosa Tri?,Grey/Green,M,139.95,MEMPHIS,M,26,N,0,26-35,37.44
+GER480,February,PM,Mandeep,200120,Nike,Nike Zoom Fit,Blue/White,W,69.97,GERMANTOWN,F,44,N,0,36-45,18.13
+MEM481,February,PM,Ashley,385549,Saucony,Saucony Triumph,Green/Blue,W,88.89,MEMPHIS,F,56,N,0,Over 55,85.89
+COL482,February,PM,Mandeep,200191,Nike,Nike Roshe Runner ,Orange,W,74.99,COLLIERVILLE,F,39,N,0,36-45,37.43
+GER483,February,PM,Mandeep,200191,Nike,Nike Roshe Runner ,Orange,W,74.99,GERMANTOWN,F,37,N,0,36-45,24.14
+GER484,February,PM,Felipe,200273,Nike,Nike Zoom Hypercross TR,Orange,M,140,GERMANTOWN,M,24,N,0,18-25,74.93
+GER485,February,PM,Felipe,200273,Nike,Nike Zoom Hypercross TR,Orange,M,140,GERMANTOWN,M,24,N,0,18-25,76.69
+MEM486,February,PM,Ashley,385581,Saucony,Saucony Triumph,White,W,88.89,MEMPHIS,F,56,N,0,Over 55,28.69
+COL487,February,PM,Mandeep,200127,Nike,Nike Roshe Runner ,Orange,W,74.99,COLLIERVILLE,F,20,N,0,18-25,80.82
+BAR488,February,PM,Mandeep,200127,Nike,Nike Roshe Runner ,Orange,W,74.99,BARTLETT,F,19,N,0,18-25,57.57
+GER489,February,PM,Mandeep,200127,Nike,Nike Roshe Runner ,Orange,W,74.99,GERMANTOWN,F,19,N,0,18-25,57.35
+COL490,February,PM,Mandeep,200127,Nike,Nike Roshe Runner ,Orange,W,74.99,COLLIERVILLE,F,19,N,0,18-25,28.47
+MEM491,February,PM,Alfonso,200245,Nike,Nike LunarGlide,Black/White,M,120,MEMPHIS,M,31,N,0,26-35,137.63
+GER492,February,PM,Ashley,445173,Reebok,Smoothflex Flyer,White,W,69.95,GERMANTOWN,F,60,N,0,Over 55,51.76
+COL493,February,PM,Mandeep,200131,Nike,Nike Roshe One ,Purple/Red,W,95,COLLIERVILLE,F,19,N,0,18-25,77.9
+BAR494,February,PM,Mandeep,200131,Nike,Nike Roshe One ,Purple/Red,W,95,BARTLETT,F,19,N,0,18-25,44.16
+MEM495,February,PM,Mandeep,382184,ASICS,GEL-Kahana? 7,White/Black,W,84.95,MEMPHIS,F,51,N,0,45-55,33.99
+GER496,February,PM,Alfonso,407802,ASICS,GEL-DS Trainer? 20,Grey/White/Green,M,119.95,GERMANTOWN,M,57,N,0,Over 55,82.89
+GER497,February,PM,Mandeep,200155,Nike,Air Jordan 2,Blue/White,W,89.97,GERMANTOWN,F,45,N,0,36-45,28.8
+MEM498,February,PM,Ashley,409279,Saucony,Saucony Triumph,Black/Red/Aqua,W,88.89,MEMPHIS,F,30,N,0,26-35,35.79
+GER499,February,PM,Mandeep,200194,Nike,Nike LunarGlide,Orange/Black,W,110,GERMANTOWN,F,31,N,0,26-35,42.3
+BAR500,February,PM,Mandeep,200194,Nike,Nike LunarGlide,Orange/Black,W,110,BARTLETT,F,32,N,0,26-35,47.5
+GER501,February,PM,Felipe,200261,Nike,Nike Free 4.0 Flyknit,Orange/Aqua,M,109.99,GERMANTOWN,M,43,N,0,36-45,70.92
+COL502,February,PM,Felipe,200261,Nike,Nike Free 4.0 Flyknit,Orange/Aqua,M,109.99,COLLIERVILLE,M,43,N,0,36-45,76.55
+BAR503,February,PM,Ashley,409230,Saucony,Saucony Triumph,White,W,88.89,BARTLETT,F,41,N,0,36-45,49.53
+MEM504,February,PM,Mandeep,200191,Nike,Nike Air Force 2,Orange,W,100,MEMPHIS,F,39,N,0,36-45,79.91
+MEM505,February,PM,Mandeep,200191,Nike,Nike Air Force 2,Orange,W,100,MEMPHIS,F,38,N,0,36-45,68.05
+GER506,February,PM,Mandeep,200191,Nike,Nike Air Force 2,Orange,W,100,GERMANTOWN,F,37,N,0,36-45,111.2
+GER507,February,PM,Mandeep,200191,Nike,Nike Air Force 2,Orange,W,100,GERMANTOWN,F,37,N,0,36-45,47.02
+BAR508,February,PM,Alfonso,200264,Nike,LeBron Xiii,Black/White,M,200,BARTLETT,M,25,N,0,18-25,118.55
+BAR509,February,PM,Ashley,399834,Reebok,Goddess,White/Pink,W,59.95,BARTLETT,F,43,N,0,36-45,22.65
+MEM510,February,PM,Mandeep,200139,Nike,Nike Dunk High Skinny,Purple/White,W,129.99,MEMPHIS,F,19,N,0,18-25,92.93
+COR511,February,PM,Mandeep,200139,Nike,Nike Dunk High Skinny,Purple/White,W,129.99,CORDOVA,F,18,N,0,18-25,97.31
+MEM512,February,PM,Alfonso,374586,ASICS,GEL-Nimbus? 16,Grey/White/Green,M,119.99,MEMPHIS,M,33,N,0,26-35,113.78
+GER513,February,PM,Mandeep,200148,Nike,Nike Roshe One ,White,W,95,GERMANTOWN,F,44,N,0,36-45,31.28
+COL514,February,PM,Mandeep,200278,Nike,Nike Zoom Speed Trainer,Black/Red,M,90,COLLIERVILLE,M,17,N,0,18-25,50.7
+BAR515,February,PM,Mandeep,363959,ASICS,GEL-Preleus?,White/Black,W,79.99,BARTLETT,F,52,N,0,45-55,65.9
+GER516,February,PM,Felipe,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,GERMANTOWN,M,37,N,0,36-45,96.82
+COL517,February,PM,Felipe,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,COLLIERVILLE,M,38,N,0,36-45,90.72
+MEM518,February,PM,Alfonso,200268,Nike,Air Jordan 2,Black/White,M,174.99,MEMPHIS,M,31,N,0,26-35,68.58
+GER519,February,PM,Alfonso,407698,ASICS,GEL-Evate? 3,Red,M,149.95,GERMANTOWN,M,22,N,0,18-25,150.22
+MEM520,February,AM,Alfonso,200281,Nike,Nike LunarGlide,Black/White,M,120,MEMPHIS,M,40,N,0,36-45,33.71
+GER521,February,PM,Mandeep,200184,Nike,Nike Flyknit Lunar,White,W,109.99,GERMANTOWN,F,45,N,0,36-45,99.26
+COR522,February,PM,Mandeep,200283,Nike,Nike Flex Run 2014,Black/Red,M,80,CORDOVA,M,21,N,0,18-25,21.84
+MEM523,February,PM,Mandeep,363944,ASICS,GEL-Fuji Trainer? 3,White/multi,M,77.99,MEMPHIS,M,56,N,0,Over 55,21.36
+COL524,February,PM,Felipe,200260,Nike,Nike Free 4.0 Flyknit,Orange/Black,M,109.99,COLLIERVILLE,M,20,N,0,18-25,22.66
+BAR525,February,PM,Felipe,200260,Nike,Nike Free 4.0 Flyknit,Orange/Black,M,109.99,BARTLETT,M,21,N,0,18-25,71.38
+MEM526,February,PM,Alfonso,363780,ASICS,GEL-Noosafast?,Red,M,99.95,MEMPHIS,M,41,N,0,36-45,68.3
+GER527,February,AM,Alfonso,200282,Nike,Nike Dual Fusion Run 3,Black/White,M,80,GERMANTOWN,M,51,N,0,45-55,23.74
+MEM528,February,PM,Mandeep,200133,Nike,Nike Flyknit Lunar,Green/White,W,109.99,MEMPHIS,F,16,N,0,18-25,71.78
+COL529,February,PM,Mandeep,200296,Nike,Nike Lunar Eclipse,Black/Red,M,135,COLLIERVILLE,M,40,N,0,36-45,112.1
+GER530,February,PM,Mandeep,392600,ASICS,GEL-Kayano? 21,White/Pink,W,159.95,GERMANTOWN,F,20,N,0,18-25,127.71
+MEM531,February,PM,Gary,200274,Nike,Nike Flyknit Air Max,Orange/Yellow/Black,M,99.97,MEMPHIS,M,48,N,0,45-55,26.17
+BAR532,February,PM,Gary,200274,Nike,Nike Flyknit Air Max,Orange/Yellow/Black,M,99.97,BARTLETT,M,49,N,0,45-55,73.54
+MEM533,February,PM,Alfonso,363779,ASICS,GEL-DS Racer? 10,Red/Black,M,97.99,MEMPHIS,M,42,N,0,36-45,52.91
+COL534,February,AM,Alfonso,200239,Nike,Nike Shox,Black/White/Purple,M,99.97,COLLIERVILLE,M,31,N,0,26-35,107.32
+COL535,February,PM,Mandeep,200149,Nike,Nike Flyknit Lunar,Grey,W,109.99,COLLIERVILLE,F,13,N,0,18-25,72.63
+COR536,February,PM,Mandeep,200213,Nike,Nike LunarGlide,Black/Grey,M,120,CORDOVA,M,19,N,0,18-25,116.21
+BAR537,February,PM,Mandeep,407781,ASICS,33-FA?,Yellow/White,W,93.99,BARTLETT,F,44,N,0,36-45,100.41
+BAR538,February,PM,Gary,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,BARTLETT,M,38,N,0,36-45,41.31
+BAR539,February,PM,Gary,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,BARTLETT,M,38,N,0,36-45,20.17
+COL540,February,AM,Mandeep,385549,Saucony,Cortana,Green/Blue,W,78.97,COLLIERVILLE,F,56,N,0,Over 55,78.77
+COR541,February,AM,Mandeep,385549,Saucony,Cortana,Green/Blue,W,78.97,CORDOVA,F,55,N,0,45-55,57.9
+COR542,February,AM,Mandeep,385549,Saucony,Cortana,Green/Blue,W,78.97,CORDOVA,F,18,N,0,18-25,23.83
+COL543,February,AM,Mandeep,385549,Saucony,Cortana,Green/Blue,W,78.97,COLLIERVILLE,F,56,N,0,Over 55,68.9
+MEM544,February,AM,Alfonso,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,MEMPHIS,F,14,N,0,18-25,17.59
+COR545,February,PM,Mandeep,410104,Saucony,Breakthru,Blue/White,W,89.95,CORDOVA,F,40,N,0,36-45,38.63
+GER546,February,PM,Mandeep,410104,Saucony,Breakthru,Blue/White,W,89.95,GERMANTOWN,F,52,N,0,45-55,67.38
+COL547,February,PM,Mandeep,410104,Saucony,Breakthru,Blue/White,W,89.95,COLLIERVILLE,F,53,N,0,45-55,55.44
+GER548,February,PM,Mandeep,410104,Saucony,Breakthru,Blue/White,W,89.95,GERMANTOWN,F,60,N,0,Over 55,60.68
+MEM549,February,PM,Alfonso,411863,Reebok,Dual Rush Z,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,30.71
+GER550,February,PM,Mandeep,399834,Reebok,Goddess,White/Pink,W,59.95,GERMANTOWN,F,66,N,0,Over 55,66.9
+BAR551,February,PM,Mandeep,399834,Reebok,Goddess,White/Pink,W,59.95,BARTLETT,F,67,N,0,Over 55,17.32
+COL552,February,PM,Mandeep,399834,Nike,Air Jordan,White/Black,M,159.99,COLLIERVILLE,M,65,N,0,Over 55,37.76
+COR553,February,PM,Mandeep,399834,Reebok,Goddess,White/Pink,W,59.95,CORDOVA,F,31,N,0,26-35,19.61
+COR554,February,PM,Mandeep,399834,Reebok,Goddess,White/Pink,W,59.95,CORDOVA,F,32,N,0,26-35,38.37
+COR555,February,PM,Alfonso,385543,Saucony,PowerGrid Omni,White,W,109.99,CORDOVA,F,33,N,0,26-35,55.22
+MEM556,February,PM,Alfonso,363773,ASICS,GEL-Fuji Racer? 3,Red/Black,M,79.97,MEMPHIS,M,53,N,0,45-55,62.42
+MEM557,February,AM,Alfonso,200211,Nike,LeBron Xiii,Blue,M,200,MEMPHIS,M,18,N,0,18-25,121.39
+COL558,February,PM,Mandeep,200119,Nike,Nike Flyknit Lunar,Grey/Aqua,W,109.99,COLLIERVILLE,F,19,N,0,18-25,87.78
+COR559,February,PM,Mandeep,200252,Nike,Nike LunarGlide,Black/Grey,M,120,CORDOVA,M,14,N,0,18-25,123.02
+MEM560,February,PM,Mandeep,345827,ASICS,GEL-Nimbus? 16,Yellow/White,W,149.95,MEMPHIS,F,23,N,0,18-25,149.25
+MEM561,February,PM,Gary,200260,Nike,Nike Free 4.0 Flyknit,Orange/Black,M,109.99,MEMPHIS,M,28,N,0,26-35,61.29
+GER562,February,PM,Gary,200260,Nike,Nike Free 4.0 Flyknit,Orange/Black,M,109.99,GERMANTOWN,M,49,N,0,45-55,57.93
+GER563,February,AM,Mandeep,411863,Reebok,Dual Rush Z,White,W,69.95,GERMANTOWN,F,60,N,0,Over 55,51.33
+COL564,February,AM,Mandeep,411863,Reebok,Dual Rush Z,White,W,69.95,COLLIERVILLE,F,29,N,0,26-35,56.58
+COR565,February,AM,Mandeep,411863,Reebok,Dual Rush Z,White,W,69.95,CORDOVA,F,61,N,0,Over 55,73.37
+COL566,February,AM,Mandeep,411863,Reebok,Dual Rush Z,White,W,69.95,COLLIERVILLE,F,62,N,0,Over 55,79.78
+COR567,February,AM,Alfonso,409239,Saucony,PowerGrid Omni,White,W,109.99,CORDOVA,F,29,N,0,26-35,100.79
+COR568,February,AM,Mandeep,409279,Saucony,PowerGrid Omni,Black/Red/Aqua,W,109.99,CORDOVA,F,35,N,0,26-35,32.67
+COL569,February,AM,Bob,409279,Saucony,PowerGrid Omni,Black/Red/Aqua,W,109.99,COLLIERVILLE,F,24,N,0,18-25,110.68
+COL570,February,AM,Bob,409279,Saucony,PowerGrid Omni,Black/Red/Aqua,W,109.99,COLLIERVILLE,F,34,N,0,26-35,97.18
+MEM571,February,AM,Bob,409279,Saucony,PowerGrid Omni,Black/Red/Aqua,W,109.99,MEMPHIS,F,41,N,0,36-45,98.5
+MEM572,February,AM,Alfonso,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,60,N,0,Over 55,47.01
+COR573,February,PM,Bob,385581,Saucony,PowerGrid Omni,White,W,109.99,CORDOVA,F,56,N,0,Over 55,38.99
+COR574,February,PM,Alfonso,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,CORDOVA,F,47,N,0,45-55,48.42
+MEM575,February,PM,Alfonso,407824,ASICS,GEL-Fuji Runnegade?,Red/Black,M,86.99,MEMPHIS,M,18,N,0,18-25,47.64
+GER576,February,AM,Alfonso,200221,Nike,Nike Free 4.0 iD,Blue,M,140,GERMANTOWN,M,25,N,0,18-25,90.46
+GER577,February,PM,Bob,200125,Nike,Nike Flyknit Lunar,Grey/Aqua,W,109.99,GERMANTOWN,F,27,N,0,26-35,78.6
+COR578,February,PM,Bob,200276,Nike,Nike Zoom Field General,Black/Grey,M,104.97,CORDOVA,M,35,N,0,26-35,24.48
+GER579,February,PM,Bob,382123,ASICS,GEL-Exalt? 2 Lite-Show,Purple/Pink,W,79.99,GERMANTOWN,F,52,N,0,45-55,87.35
+MEM580,February,PM,Alfonso,382013,Nike,Air Jordan,Black,M,159.99,MEMPHIS,M,61,N,0,Over 55,107.46
+GER581,February,AM,Alfonso,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,GERMANTOWN,F,66,N,0,Over 55,18.82
+COR582,February,AM,Alfonso,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,CORDOVA,F,67,N,0,Over 55,34.92
+COR583,February,AM,Alfonso,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,CORDOVA,F,28,N,0,26-35,34.28
+COR584,February,AM,Alfonso,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,CORDOVA,F,55,N,0,45-55,18.33
+COR585,February,AM,Alfonso,409288,Saucony,Endorphin,White/Grey,W,59.95,CORDOVA,F,27,N,0,26-35,21.58
+BAR586,February,AM,Alfonso,364815,Saucony,Fastwitch 6,White/Black,W,63.97,BARTLETT,F,26,N,0,26-35,61.98
+COL587,February,AM,Alfonso,364815,Saucony,Fastwitch 6,White/Black,W,63.97,COLLIERVILLE,F,64,N,0,Over 55,59.32
+GER588,February,AM,Alfonso,364815,Saucony,Fastwitch 6,White/Black,W,63.97,GERMANTOWN,F,20,N,0,18-25,67.52
+COR589,February,AM,Alfonso,364815,Saucony,Fastwitch 6,White/Black,W,63.97,CORDOVA,F,36,N,0,36-45,30.3
+MEM590,February,AM,Alfonso,399834,Reebok,Goddess,White/Pink,W,59.95,MEMPHIS,F,42,N,0,36-45,32.46
+COR591,February,PM,Alfonso,409230,Saucony,Saucony Triumph,White,W,88.89,CORDOVA,F,41,N,0,36-45,69.85
+COR592,February,PM,Alfonso,385549,Saucony,Cortana,Green/Blue,W,78.97,CORDOVA,F,55,N,0,45-55,35.98
+GER593,February,PM,Alfonso,363813,ASICS,GEL-Kinsei? 5,Red/Black,M,139.99,GERMANTOWN,M,26,N,0,26-35,102.33
+MEM594,February,AM,Alfonso,200241,Nike,LeBron Xiii,Blue,M,200,MEMPHIS,M,16,N,0,18-25,208.64
+GER595,February,PM,Gary,200285,Nike,Nike Shox,Black/Grey,M,99.97,GERMANTOWN,M,12,N,0,18-25,107.96
+MEM596,February,PM,Alfonso,200187,Nike,Nike Flyknit Lunar,Grey/Aqua,W,109.99,MEMPHIS,F,51,N,0,45-55,126.12
+MEM597,February,PM,Alfonso,407778,ASICS,33-M?,Purple/Pink,W,139.95,MEMPHIS,F,26,N,0,26-35,137.49
+MEM598,February,PM,Alfonso,366248,Nike,Air Jordan,Black/Red,M,159.99,MEMPHIS,M,39,N,0,36-45,156.82
+GER599,February,PM,Alfonso,363818,ASICS,GEL-Excite? 2,Black/Red/Aqua,M,69.95,GERMANTOWN,M,34,N,0,26-35,48.52
+MEM600,February,AM,Alfonso,200250,Nike,Nike SB Eric Koston 2 Max,Blue,M,115,MEMPHIS,M,28,N,0,26-35,118.3
+COR601,February,PM,Gary,200243,Nike,Nike Lunar TR1 LE,Black/Orange,M,94.97,CORDOVA,M,43,N,0,36-45,54.92
+COR602,February,PM,Alfonso,200202,Nike,Nike Flyknit Lunar,Grey/Orange,W,109.99,CORDOVA,F,32,N,0,26-35,105.91
+MEM603,February,PM,Alfonso,407669,ASICS,GEL-Nimbus? 17,Purple/Pink,W,149.95,MEMPHIS,F,23,N,0,18-25,163.33
+MEM604,February,PM,Alfonso,411854,Reebok,YourFlex MT,Blue/Pink/Lime,W,69.95,MEMPHIS,F,60,N,0,Over 55,49.9
+GER605,February,PM,Alfonso,382128,ASICS,GEL-Super J33?,White,M,94.95,GERMANTOWN,M,44,N,0,36-45,54.3
+GER606,February,PM,Alfonso,200280,Nike,Nike Free 4.0 Flyknit,Blue,M,109.99,GERMANTOWN,M,13,N,0,18-25,24.64
+COR607,February,PM,Gary,200279,Nike,Air Jordan 2,Black/Orange,M,74.97,CORDOVA,M,57,N,0,Over 55,84.93
+COL608,February,PM,Alfonso,200186,Nike,Nike Flyknit Lunar,Grey/Pink,W,109.99,COLLIERVILLE,F,28,N,0,26-35,100.26
+MEM609,February,PM,Alfonso,408680,Brooks,Glycerin,Black,W,119.99,MEMPHIS,F,50,N,0,45-55,88.63
+MEM610,February,PM,Alfonso,445174,Nike,Air Jordan,Black/White,M,159.99,MEMPHIS,M,38,N,0,36-45,118.36
+BAR611,February,PM,Alfonso,392568,ASICS,GEL-Cumulus? 16 G-TX?,White/Grey,M,134.95,BARTLETT,M,27,N,0,26-35,110.61
+MEM612,February,PM,Alfonso,200257,Nike,LeBron Xiii,Blue/Black,M,200,MEMPHIS,M,16,N,0,18-25,149.29
+COR613,February,PM,Kevin,200228,Nike,Nike Free 4.0,Black/Purple,M,90,CORDOVA,M,45,N,0,36-45,79.12
+BAR614,February,PM,Alfonso,200167,Nike,Nike Flyknit Lunar,Grey/Red,W,109.99,BARTLETT,F,47,N,0,45-55,70.47
+MEM615,February,PM,Alfonso,422757,Nike,Air Jordan,Green,M,159.99,MEMPHIS,M,29,N,0,26-35,154.18
+BAR616,February,PM,Alfonso,384695,Brooks,Glycerin,Black/Blue,W,119.99,BARTLETT,F,44,N,0,36-45,113.88
+MEM617,February,PM,Alfonso,407718,ASICS,GEL-Kayano? 21,White/Grey,M,159.95,MEMPHIS,M,20,N,0,18-25,172.22
+BAR618,February,PM,Alfonso,200249,Nike,LeBron Xiii,Blue/Blue,M,200,BARTLETT,M,22,N,0,18-25,217.08
+GER619,February,PM,Kevin,200295,Nike,LeBron Xiii,Black/Red/Aqua,M,200,GERMANTOWN,M,22,N,0,18-25,57.81
+GER620,February,PM,Alfonso,200137,Nike,Nike Free Trainer 5.0 V7,Lt Blue/Lime/Yello,W,69.97,GERMANTOWN,F,18,N,0,18-25,37.97
+MEM621,February,PM,Alfonso,411846,Nike,Air Jordan 2,Purple,M,174.99,MEMPHIS,M,52,N,0,45-55,171.13
+MEM622,February,PM,Alfonso,409507,Brooks,Glycerin,Black/Blue,W,119.99,MEMPHIS,F,51,N,0,45-55,62.75
+COR623,February,AM,Alfonso,409257,Nike,Nike Flyknit Lunar,Black/Purple,M,109.99,CORDOVA,M,54,N,0,45-55,91.86
+COR624,February,AM,Alfonso,200261,Nike,Nike Free 4.0 Flyknit,Orange/Aqua,W,109.99,CORDOVA,F,43,N,0,36-45,114.78
+GER625,February,AM,Alfonso,385543,Saucony,Echelon,White,W,88.99,GERMANTOWN,F,44,N,0,36-45,23.47
+BAR626,February,AM,Alfonso,388255,Nike,Air Jordan 2,Grey/Pink,M,174.99,BARTLETT,M,15,N,0,18-25,96.47
+COL627,February,AM,Alfonso,409288,Brooks,Glycerin,White/Grey,W,119.99,COLLIERVILLE,F,65,N,0,Over 55,43.36
+MEM628,February,AM,Alfonso,399834,Nike,Air Jordan 2,White/Black,M,174.99,MEMPHIS,M,55,N,0,45-55,130.89
+COL629,February,PM,Alfonso,364819,Brooks,Glycerin,Grey/Aqua,W,119.99,COLLIERVILLE,F,55,N,0,45-55,25.3
+COR630,February,PM,Alfonso,409279,Brooks,Glycerin,Black/Red/Aqua,W,119.99,CORDOVA,F,19,N,0,18-25,73.7
+BAR631,February,PM,Alfonso,409242,Brooks,Glycerin,Grey/White/Green,W,119.99,BARTLETT,F,54,N,0,45-55,45.06
+COR632,February,PM,Alfonso,410104,Brooks,Glycerin,Blue/White,W,119.99,CORDOVA,F,51,N,0,45-55,72.14
+GER633,February,PM,Alfonso,407698,ASICS,GEL-Evate? 3,Red,M,149.95,GERMANTOWN,M,22,N,0,18-25,110.77
+BAR634,February,PM,Alfonso,200238,Nike,Nike Flyknit Lunar,Blue/Green,M,109.99,BARTLETT,M,21,N,0,18-25,64.81
+COR635,February,PM,Kevin,200217,Nike,Nike LunarGlide,Black/White,M,120,CORDOVA,M,23,N,0,18-25,106.52
+GER636,February,PM,Alfonso,200160,Nike,Nike Roshe One,Multi,W,95,GERMANTOWN,F,28,N,0,26-35,63.52
+BAR637,February,PM,Alfonso,362192,Brooks,Glycerin,White/Black,W,119.99,BARTLETT,F,34,N,0,26-35,80.96
+COL638,February,PM,Alfonso,382010,Nike,Air Jordan 2,White,M,174.99,COLLIERVILLE,M,56,N,0,Over 55,93.52
+COL639,February,AM,Alfonso,385563,Brooks,Glycerin,Red,W,119.99,COLLIERVILLE,F,35,N,0,26-35,94.75
+BAR640,February,AM,Alfonso,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,W,100,BARTLETT,F,37,N,0,36-45,81.57
+COL641,February,AM,Alfonso,409239,Brooks,Glycerin,White,W,119.99,COLLIERVILLE,F,29,N,0,26-35,74.84
+BAR642,February,AM,Alfonso,445173,Reebok,Smoothflex Flyer,White,W,69.95,BARTLETT,F,61,N,0,Over 55,46.03
+COL643,February,PM,Alfonso,385563,Brooks,Glycerin,Red,W,119.99,COLLIERVILLE,F,35,N,0,26-35,43.13
+MEM644,February,PM,Alfonso,411863,Nike,Air Jordan 2,White,M,174.99,MEMPHIS,M,61,N,0,Over 55,79.26
+BAR645,February,PM,Alfonso,385564,Brooks,Glycerin,Grey/Green,W,119.99,BARTLETT,F,23,N,0,18-25,121.35
+COR646,February,PM,Alfonso,364815,Brooks,Glycerin,White/Black,W,119.99,CORDOVA,F,64,N,0,Over 55,117.91
+COR647,February,PM,Alfonso,347280,Brooks,Ghost,Orange,W,99.99,CORDOVA,F,24,N,0,18-25,32.85
+COR648,February,PM,Alfonso,200273,Nike,Nike Zoom Pegagus,Orange,W,99.99,CORDOVA,F,25,N,0,18-25,75.3
+MEM649,February,PM,Felipe,363780,ASICS,GEL-Noosafast?,Red,M,99.95,MEMPHIS,M,41,N,0,36-45,101.02
+GER650,February,PM,Felipe,200215,Nike,Nike Zoom Speed Trainer,Blue/Grey,M,90,GERMANTOWN,M,31,N,0,26-35,25.79
+COR651,February,PM,Kevin,200220,Nike,Nike Free 5.0,Black/White,M,140,CORDOVA,M,27,N,0,26-35,70.16
+GER652,February,PM,Felipe,200173,Nike,Nike Zoom Pegagus,Multi,W,99.99,GERMANTOWN,F,28,N,0,26-35,95.76
+BAR653,February,PM,Alfonso,385489,Brooks,Glycerin,White/Black,W,119.99,BARTLETT,F,29,N,0,26-35,136.75
+MEM654,February,PM,Felipe,422758,Reebok,YourFlex MT,White/Black,W,69.95,MEMPHIS,F,64,N,0,Over 55,40.25
+BAR655,March,PM,Alfonso,347280,Brooks,Ghost,Orange,W,99.99,BARTLETT,F,24,N,0,18-25,111.05
+MEM656,March,PM,Felipe,385614,Brooks,Ghost,Aqua/Black/White,W,99.99,Memphis,F,40,N,0,36-45,36.91
+MEM657,March,PM,Felipe,384551,Nike,Air Jordan 2,Black,M,174.99,MEMPHIS,M,34,N,0,26-35,104.42
+MEM658,March,PM,Felipe,200294,Nike,Air Jordan 2,Blue/White,M,174.99,MEMPHIS,M,17,N,0,18-25,198.89
+COR659,March,PM,Kevin,200235,Nike,Air Jordan 2,Black/White,M,174.99,CORDOVA,M,27,N,0,26-35,82.96
+MEM660,March,PM,Felipe,200140,Nike,Nike Zoom Pegagus,Multi,W,99.99,MEMPHIS,F,26,N,0,26-35,114.71
+MEM661,March,PM,Alfonso,409519,Nike,Air Jordan 2,White,W,174.99,MEMPHIS,F,15,N,0,18-25,124
+BAR662,March,PM,Felipe,411848,Reebok,Smoothflex Flyer,Red/Purple,W,69.95,BARTLETT,F,60,N,0,Over 55,63.26
+COR663,March,PM,Alfonso,347280,Brooks,Ghost,Orange,W,99.99,CORDOVA,F,29,N,0,26-35,108.05
+BAR664,March,PM,Felipe,385549,Nike,Nike Flyknit Lunar,Black/Red,M,109.99,BARTLETT,M,56,N,0,Over 55,89.09
+COL665,March,PM,Felipe,384554,Nike,Nike Zoom LeBron Soldier VIII iD,Black/Red,M,170,COLLIERVILLE,M,19,N,0,18-25,194.97
+MEM666,March,PM,Felipe,200265,Nike,Air Jordan 2,Blue/Yellow,M,174.99,MEMPHIS,M,31,N,0,26-35,63.4
+COR667,March,PM,Kevin,200245,Nike,Air Jordan 2,Black/White,M,174.99,CORDOVA,M,32,N,0,26-35,185.21
+GER668,March,PM,Felipe,200127,Nike,Nike Zoom Pegagus,Orange,W,99.99,GERMANTOWN,F,19,N,0,18-25,52.07
+GER669,March,PM,Alfonso,385495,Brooks,Glycerin,Grey/Aqua,W,119.99,GERMANTOWN,F,50,N,0,45-55,71.6
+MEM670,March,PM,Felipe,304621,Nike,Nike Flyknit Lunar,Aqua,M,109.99,MEMPHIS,M,37,N,0,36-45,29.34
+BAR671,March,PM,Felipe,385512,Nike,Nike Zoom LeBron Soldier VIII iD,Black/Red,M,170,BARTLETT,M,22,N,0,18-25,89.7
+GER672,March,PM,Felipe,200288,Nike,Nike Zoom Pegagus,White,W,99.99,GERMANTOWN,F,46,N,0,45-55,71.69
+COL673,March,PM,Cindy,200191,Nike,Nike Zoom Pegagus,Orange,W,99.99,COLLIERVILLE,F,38,N,0,36-45,86.24
+COR674,March,PM,Kevin,200264,Nike,Air Jordan 2,Black/White,M,174.99,CORDOVA,M,19,N,0,18-25,62.64
+GER675,March,PM,Alfonso,409379,Brooks,Glycerin,Grey/Pink,W,119.99,GERMANTOWN,F,40,N,0,36-45,63.61
+COL676,March,PM,Felipe,409275,Nike,Nike Flyknit Lunar,Black,M,109.99,COLLIERVILLE,M,22,N,0,18-25,37.82
+BAR677,March,PM,Felipe,409530,Nike,Nike Zoom LeBron Soldier VIII iD,Black/Grey,M,170,BARTLETT,M,19,N,0,18-25,182.07
+MEM678,March,PM,Felipe,200292,Nike,LeBron Xiii,Green,M,200,MEMPHIS,M,18,N,0,18-25,167.59
+GER679,March,PM,Cindy,200194,Nike,LeBron Xiii,Orange/Black,W,200,GERMANTOWN,F,30,N,0,26-35,206.85
+BAR680,March,PM,Kevin,200268,Nike,Air Jordan 2,Black/White,M,174.99,BARTLETT,M,32,N,0,26-35,49.45
+BAR681,March,PM,Alfonso,384700,Nike,Nike Zoom Pegagus,Purple,W,99.99,BARTLETT,F,39,N,0,36-45,58.71
+MEM682,March,PM,Felipe,409240,Nike,Nike Flyknit Lunar,Black,M,109.99,MEMPHIS,M,55,N,0,45-55,111.63
+BAR683,March,PM,Felipe,384696,Nike,LeBron Xiii,Black/Orange,M,100,BARTLETT,M,39,N,0,36-45,54.73
+MEM684,March,PM,Samuel,200226,Nike,Air Jordan 2,Green/Black,M,174.99,MEMPHIS,M,31,N,0,26-35,128.86
+GER685,March,PM,Cindy,200135,Nike,Nike Zoom Pegagus,Orange/Red,W,99.99,GERMANTOWN,F,30,N,0,26-35,109.02
+GER686,March,PM,Gary,200281,Nike,Air Jordan 2,Black/White,M,174.99,GERMANTOWN,M,40,N,0,36-45,150.36
+COL687,March,PM,Alfonso,384691,Nike,Nike Zoom Pegagus,White,W,99.99,COLLIERVILLE,F,35,N,0,26-35,105.76
+MEM688,March,PM,Samuel,409481,Nike,Nike Flyknit Lunar,Black,M,109.99,MEMPHIS,M,55,N,0,45-55,77.48
+MEM689,March,PM,Samuel,200247,Nike,Air Jordan 2,Green/Pink,M,174.99,MEMPHIS,M,38,N,0,36-45,192.41
+COL690,March,PM,Samuel,363289,Nike,Nike Zoom LeBron Soldier VIII iD,Black/White,M,170,COLLIERVILLE,M,17,N,0,18-25,193.01
+GER691,March,PM,Ashley,200145,Nike,Nike Zoom Pegagus,White,W,99.99,GERMANTOWN,F,18,N,0,18-25,109.33
+GER692,March,PM,Ashley,200145,Nike,Nike Zoom Pegagus,White,W,99.99,GERMANTOWN,F,18,N,0,18-25,36.06
+GER693,March,PM,Cindy,200209,Nike,Nike Zoom Pegagus,White,W,99.99,GERMANTOWN,F,30,N,0,26-35,30.82
+GER694,March,PM,Cindy,200124,Nike,Nike Zoom Pegagus,Pink,W,99.99,GERMANTOWN,F,51,N,0,45-55,111.36
+COR695,March,PM,Gary,200282,Nike,Air Jordan 2,Black/White,M,174.99,CORDOVA,M,52,N,0,45-55,62.31
+COL696,March,PM,Alfonso,363309,Brooks,Glycerin,White/Black,W,119.99,COLLIERVILLE,F,51,N,0,45-55,67.59
+MEM697,March,PM,Samuel,409269,Nike,Nike Flyknit Lunar,Black/Grey,M,109.99,MEMPHIS,M,41,N,0,36-45,72.38
+GER698,March,PM,Ashley,200134,Nike,Nike Roshe One,White,W,95,GERMANTOWN,F,42,N,0,36-45,108.71
+COL699,March,PM,Ashley,200134,Nike,Nike Roshe One,White,W,95,COLLIERVILLE,F,42,N,0,36-45,20.62
+COR700,March,PM,Cindy,200198,Nike,Nike Air Force 1,White,W,59.95,CORDOVA,F,59,N,0,Over 55,34.09
+COL701,March,PM,Samuel,200300,Nike,Air Jordan 2,Green/White,M,174.99,COLLIERVILLE,M,19,N,0,18-25,68.66
+GER702,March,PM,Samuel,409532,Nike,Air Jordan 2,Black/White,M,179.97,GERMANTOWN,M,46,N,0,45-55,173.48
+GER703,March,PM,Ashley,200146,Nike,Nike LunarGlide,White,W,110,GERMANTOWN,F,48,N,0,45-55,103.22
+GER704,March,PM,Ashley,200146,Nike,Nike LunarGlide,White,W,110,GERMANTOWN,F,48,N,0,45-55,48.48
+GER705,March,PM,Cindy,200156,Nike,Nike AF-1 Ultra Force Mid,White/Black,W,100,GERMANTOWN,F,59,N,0,Over 55,70.47
+COL706,March,PM,Cindy,200138,Nike,Nike Zoom Fit,Pink,W,69.97,COLLIERVILLE,F,14,N,0,18-25,22
+GER707,March,PM,Gary,200239,Nike,Nike Shox,Black/White/Purple,M,99.97,GERMANTOWN,M,53,N,0,45-55,22.81
+GER708,March,PM,Alfonso,409529,Saucony,Saucony Triumph,White/Pink,W,88.89,GERMANTOWN,F,30,N,0,26-35,100.83
+MEM709,March,PM,Samuel,409256,Brooks,Ghost,White/Black,W,99.99,MEMPHIS,F,55,N,0,45-55,46.04
+GER710,March,PM,Ashley,200142,Saucony,Saucony Triumph,White,W,88.89,GERMANTOWN,F,24,N,0,18-25,61.04
+COL711,March,PM,Ashley,200142,Saucony,Saucony Triumph,White,W,88.89,COLLIERVILLE,F,26,N,0,26-35,67.73
+MEM712,March,PM,Cindy,200199,Nike,Nike Roshe One,White,M,69.95,MEMPHIS,M,30,N,0,26-35,16.95
+COL713,March,PM,Samuel,200240,Nike,Nike Free 5.0,Grey,M,140,COLLIERVILLE,M,33,N,0,26-35,114.58
+COL714,March,PM,Ashley,200143,Saucony,Saucony Triumph,White,W,88.89,COLLIERVILLE,F,34,N,0,26-35,94.71
+COR715,March,PM,Ashley,200143,Saucony,Saucony Triumph,White,W,88.89,CORDOVA,F,32,N,0,26-35,77.11
+BAR716,March,PM,Cindy,200205,Saucony,Saucony Triumph,White,W,88.89,BARTLETT,F,47,N,0,45-55,57.78
+BAR717,March,PM,Samuel,384562,Nike,Air Jordan 2,Blue,M,74.97,BARTLETT,M,37,N,0,36-45,56.94
+GER718,March,PM,Ashley,200154,Saucony,Saucony Triumph,White,W,88.89,GERMANTOWN,F,42,N,0,36-45,65.86
+COR719,March,PM,Ashley,200154,Saucony,Saucony Triumph,White,W,88.89,CORDOVA,F,42,N,0,36-45,23.62
+COR720,March,PM,Cindy,200182,Saucony,Saucony Triumph,White/Black,W,88.89,CORDOVA,F,55,N,0,45-55,48.37
+COL721,March,PM,Cindy,200174,Saucony,Saucony Triumph,Pink,W,88.89,COLLIERVILLE,F,52,N,0,45-55,66.34
+GER722,March,PM,Gary,200211,Nike,LeBron Xiii,Blue,M,200,GERMANTOWN,M,18,N,0,18-25,130.09
+BAR723,March,PM,Felipe,387360,New Balance,W1490,Aqua/Black,W,67.99,BARTLETT,F,62,N,0,Over 55,49.78
+MEM724,March,PM,Samuel,325199,Nike,Nike Flyknit Lunar,Black/White,M,109.99,MEMPHIS,M,59,N,0,Over 55,92.05
+BAR725,March,PM,Cindy,200256,Nike,Air Jordan 2,Grey,M,179.97,BARTLETT,M,26,N,0,26-35,180.22
+MEM726,March,PM,Samuel,385498,Nike,LeBron Xiii,Blue/Red,M,100,MEMPHIS,M,28,N,0,26-35,68.02
+BAR727,March,PM,Gary,200221,Nike,Nike Free 4.0 iD,Blue,M,140,BARTLETT,M,25,N,0,18-25,150.14
+BAR728,March,PM,Felipe,200195,Saucony,Saucony Triumph,Pink,W,88.89,BARTLETT,F,14,N,0,18-25,77.01
+BAR729,March,PM,Felipe,385038,New Balance,W870v3,Aqua/Black,W,90.99,BARTLETT,F,44,N,0,36-45,49.86
+BAR730,March,PM,Samuel,325184,Brooks,Ghost,White/Black,W,99.99,BARTLETT,F,42,N,0,36-45,67.32
+MEM731,March,PM,Cindy,200234,Nike,Nike Air Zoom Elite 7,Grey/Aqua,M,110,MEMPHIS,M,31,N,0,26-35,66.22
+BAR732,March,PM,Samuel,409377,Nike,Nike Air Zoom Streak 5,Red/Black,M,100,BARTLETT,M,28,N,0,26-35,63.8
+GER733,March,PM,Gary,200241,Nike,LeBron Xiii,Blue,M,200,GERMANTOWN,M,21,N,0,18-25,117.74
+COR734,March,PM,Felipe,200201,Saucony,Saucony Triumph,Pink,W,88.89,CORDOVA,F,14,N,0,18-25,78.91
+GER735,March,PM,Felipe,410777,New Balance,W1500,Aqua/Yellow,W,116.97,GERMANTOWN,F,28,N,0,26-35,126.45
+MEM736,March,PM,Samuel,385615,Nike,Nike Flyknit Air Max,Black/White,M,99.97,MEMPHIS,M,66,N,0,Over 55,27.06
+MEM737,March,PM,Cindy,200258,Nike,Nike Air Zoom Structure 18,Grey/Aqua,M,155,MEMPHIS,M,13,N,0,18-25,76.36
+BAR738,March,PM,Samuel,409513,Nike,Nike Air Zoom Streak 5,White/Grey,M,100,BARTLETT,M,27,N,0,26-35,87.21
+GER739,March,PM,Gary,200250,Nike,Nike Free 5.0,Blue,M,140,GERMANTOWN,M,28,N,0,26-35,86.29
+GER740,March,PM,Felipe,200151,Saucony,Saucony Triumph,Pink/Grey,W,88.89,GERMANTOWN,F,15,N,0,18-25,35.92
+MEM741,March,PM,Samuel,364818,Nike,Nike Flyknit Air Max,Blue/Yellow,M,99.97,MEMPHIS,M,54,N,0,45-55,44.1
+COL742,March,PM,Felipe,385047,New Balance,W890v4,Aqua/Yellow,W,84.97,COLLIERVILLE,F,50,N,0,45-55,95.92
+GER743,March,PM,Cindy,200293,Nike,Nike Air Zoom Vomero 10,Grey/Aqua,M,140,GERMANTOWN,M,25,N,0,18-25,79.61
+MEM744,March,PM,Samuel,410735,New Balance,M980 Fresh Foam Glow LE,Black/Grey,M,119.85,MEMPHIS,M,28,N,0,26-35,110.31
+GER745,March,PM,Gary,200280,Nike,Nike Free 4.0 Flyknit,Blue,M,109.99,GERMANTOWN,M,13,N,0,18-25,68.2
+BAR746,March,PM,Felipe,200206,Saucony,Saucony Triumph,Pink/Yellow,W,88.89,BARTLETT,F,32,N,0,26-35,67.37
+MEM747,March,PM,Samuel,409389,Nike,Nike Flyknit Air Max,Grey,M,99.97,MEMPHIS,M,54,N,0,45-55,62.16
+GER748,March,PM,Felipe,410747,New Balance,W1080v5,Blue/Pink/Lime,W,144.95,GERMANTOWN,F,24,N,0,18-25,44.75
+MEM749,March,PM,Cindy,200216,Nike,Air Jordan 2,Grey/Blue,M,125,MEMPHIS,M,13,N,0,18-25,46.69
+MEM750,March,PM,Cindy,387398,New Balance,M770v4,Black/Orange,M,62.99,MEMPHIS,M,64,N,0,Over 55,14.52
+GER751,March,PM,Gary,200257,Nike,Nike Air Zoom Streak 5,Blue/Black,M,100,GERMANTOWN,M,53,N,0,45-55,90.75
+BAR752,March,PM,Felipe,200132,Saucony,Saucony PowerGrid Omni,Purple,W,109.97,BARTLETT,F,21,N,0,18-25,57.72
+COL753,March,PM,Samuel,409205,Brooks,Ghost,Grey/Aqua,W,99.99,COLLIERVILLE,F,21,N,0,18-25,29.11
+BAR754,March,PM,Felipe,436912,New Balance,W470v4,Blue/Pink/Lime,W,74.99,BARTLETT,F,27,N,0,26-35,29.34
+GER755,March,PM,Cindy,200271,Nike,Nike LunarGlide,Grey/Blue,M,120,GERMANTOWN,M,30,N,0,26-35,133.34
+MEM756,March,PM,Cindy,398964,New Balance,M1540v2,Black/White,M,159.95,MEMPHIS,M,20,N,0,18-25,65.48
+GER757,March,PM,Gary,200249,Nike,LeBron Xiii,Black/Red,M,174.99,GERMANTOWN,M,21,N,0,18-25,82.2
+COL758,March,PM,Felipe,200153,Saucony,Saucony PowerGrid Omni,Purple,W,109.97,COLLIERVILLE,F,29,N,0,26-35,94.09
+MEM759,March,PM,Samuel,409479,Nike,Nike Flyknit Air Max,Grey/Blue,M,99.97,MEMPHIS,M,32,N,0,26-35,76.81
+BAR760,March,PM,Felipe,358315,New Balance,W1400v2,White/Black,W,88.99,BARTLETT,F,33,N,0,26-35,62.54
+MEM761,March,PM,Bob,200275,Nike,Nike Zoom Speed Trainer,Grey/Blue,M,90,MEMPHIS,M,12,N,0,18-25,29.17
+GER762,March,PM,Cindy,385040,New Balance,M870v3,Black/White,M,99.99,GERMANTOWN,M,31,N,0,26-35,38.68
+BAR763,March,PM,Felipe,200179,Saucony,Saucony PowerGrid Omni,Purple,W,109.97,BARTLETT,F,14,N,0,18-25,45.82
+GER764,March,PM,Felipe,200238,Nike,Nike Flyknit Lunar,Blue/Green,M,109.99,GERMANTOWN,M,21,N,0,18-25,47.93
+BAR765,March,PM,Samuel,409231,Brooks,Ghost,Grey/Blue,W,99.99,BARTLETT,F,34,N,0,26-35,36.17
+MEM766,March,PM,Felipe,365753,New Balance,W770v4,White/Black,W,74.95,MEMPHIS,F,33,N,0,26-35,78.37
+GER767,March,PM,Bob,200290,Nike,Nike Free Trainer 3.0 V3,Grey/Green,M,110,GERMANTOWN,M,46,N,0,45-55,113.97
+COL768,March,PM,Cindy,436908,New Balance,M470v4,Black/White/Purple,M,57.99,COLLIERVILLE,M,42,N,0,36-45,29.48
+BAR769,March,PM,Felipe,200197,Saucony,Saucony PowerGrid Omni,Purple,W,109.97,BARTLETT,F,32,N,0,26-35,119.85
+COR770,March,PM,Felipe,200126,Saucony,Saucony PowerGrid Omni,White,W,109.97,CORDOVA,F,54,N,0,45-55,102.33
+BAR771,March,PM,Samuel,364808,Brooks,Ghost,Orange,W,99.99,BARTLETT,F,35,N,0,26-35,45.19
+GER772,March,PM,Felipe,398892,New Balance,WD800v3 Spike,White/Black,W,119.95,GERMANTOWN,F,55,N,0,45-55,84.9
+MEM773,March,PM,Bob,200251,Nike,Nike Free Trainer 5.0 NRG,Grey/Orange,M,110,MEMPHIS,M,46,N,0,45-55,59.93
+MEM774,March,PM,Cindy,410767,New Balance,M670,Blue,M,66.99,MEMPHIS,M,30,N,0,26-35,20.2
+MEM775,March,PM,Felipe,200136,Saucony,Saucony PowerGrid Omni,Purple/Pink,W,109.97,MEMPHIS,F,19,N,0,18-25,113.49
+COR776,March,PM,Felipe,200134,Saucony,Saucony PowerGrid Omni,White,W,109.97,CORDOVA,F,32,N,0,26-35,100.55
+MEM777,March,PM,Samuel,385551,Brooks,Ghost,Orange/Black,W,99.99,MEMPHIS,F,55,N,0,45-55,80
+BAR778,March,PM,Felipe,387409,New Balance,WT980 Fresh Foam,White/Black,W,87.99,BARTLETT,F,34,N,0,26-35,77.86
+MEM779,March,PM,Bob,200230,Nike,Nike Free Trainer 5.0 iD,Grey/Red,M,110,MEMPHIS,M,27,N,0,26-35,98.28
+BAR780,March,PM,Cindy,385051,New Balance,M980 Fresh Foam,Blue,M,82.97,BARTLETT,M,51,N,0,45-55,83.72
+GER781,March,PM,Felipe,200141,Saucony,Saucony PowerGrid Omni,Purple/Pink,W,109.97,GERMANTOWN,F,23,N,0,18-25,105.73
+MEM782,March,PM,Felipe,200142,Saucony,Saucony PowerGrid Omni,White,W,109.97,MEMPHIS,F,38,N,0,36-45,40.78
+MEM783,March,PM,Samuel,364600,Brooks,Ghost,Red/Black,W,99.99,MEMPHIS,F,22,N,0,18-25,28.98
+GER784,March,PM,Felipe,387377,New Balance,WD800v3 Spike,Blue,W,119.95,GERMANTOWN,F,34,N,0,26-35,102.49
+MEM785,March,PM,Bob,200246,Nike,Nike Zoom Speed Trainer,Grey/White,M,90,MEMPHIS,M,53,N,0,45-55,41.08
+BAR786,March,PM,Bob,410741,New Balance,MT980,Blue,M,87.99,BARTLETT,M,18,N,0,18-25,69.33
+GER787,March,PM,Ashley,200166,Saucony,Saucony PowerGrid Omni,Purple/Pink,W,109.97,GERMANTOWN,F,46,N,0,45-55,50.29
+COR788,March,PM,Felipe,200143,Saucony,Saucony PowerGrid Omni,White,W,109.97,CORDOVA,F,25,N,0,18-25,38.87
+MEM789,March,PM,Samuel,409238,Brooks,Ghost,White,W,99.99,MEMPHIS,F,29,N,0,26-35,81.17
+BAR790,March,PM,Felipe,398970,New Balance,WT980 Fresh Foam,Blue/Green,W,87.99,BARTLETT,F,36,N,0,36-45,72.37
+GER791,March,PM,Bob,200287,Nike,Nike Free Trainer 5.0,Grey/White/Green,M,110,GERMANTOWN,M,16,N,0,18-25,73.41
+BAR792,March,PM,Bob,398901,New Balance,MSD400v2 Spike,Blue/Black,M,109.95,BARTLETT,M,34,N,0,26-35,46.77
+COR793,March,PM,Ashley,200131,Saucony,Saucony PowerGrid Omni,Purple/Red,W,109.97,CORDOVA,F,19,N,0,18-25,78.4
+BAR794,March,PM,Felipe,200145,Saucony,Saucony PowerGrid Omni,White,W,109.97,BARTLETT,F,32,N,0,26-35,73.96
+BAR795,March,PM,Samuel,385622,Brooks,Ghost,White,W,99.99,BARTLETT,F,21,N,0,18-25,81.17
+GER796,March,PM,Felipe,385043,New Balance,W1080v4,Blue/Pink/White,W,84.97,GERMANTOWN,F,49,N,0,45-55,38.15
+GER797,March,PM,Felipe,377235,New Balance,W4090,Blue/Pink/White,W,55.99,GERMANTOWN,F,69,N,0,Over 55,21.46
+MEM798,March,PM,Bob,200236,Nike,Nike Lunar Eclipse,Grey/Yellow,M,135,MEMPHIS,M,33,N,0,26-35,66.86
+BAR799,March,PM,Bob,341560,New Balance,M940v2,Blue/Blue,M,119.95,BARTLETT,M,43,N,0,36-45,132.6
+COL800,March,PM,Ashley,200139,Saucony,Saucony PowerGrid Omni,Purple/White,W,109.97,COLLIERVILLE,F,22,N,0,18-25,47.38
+GER801,March,PM,Gary,200146,Saucony,Saucony PowerGrid Omni,White,W,109.97,GERMANTOWN,F,48,N,0,45-55,96.3
+BAR802,March,PM,Samuel,364808,Brooks,Ghost,Orange,W,99.99,BARTLETT,F,35,N,0,26-35,48.85
+COL803,March,PM,Felipe,387371,New Balance,W3040,Blue/White,W,159.95,COLLIERVILLE,F,31,N,0,26-35,115.31
+MEM804,March,PM,Bob,200222,Nike,Nike Free 4.0 Flyknit,Multi/Black,M,109.99,MEMPHIS,M,19,N,0,18-25,52.9
+MEM805,March,PM,Bob,365734,New Balance,M1080v4,Blue/Green,M,106.97,MEMPHIS,M,45,N,0,36-45,114.46
+COL806,March,PM,Ashley,200159,Saucony,Saucony PowerGrid Omni,Red/Blue,W,109.97,COLLIERVILLE,F,33,N,0,26-35,70.93
+MEM807,March,PM,Gary,200154,Nike,Nike AF-1 Ultra Force Mid,White,W,110,MEMPHIS,F,33,N,0,26-35,97
+MEM808,March,PM,Samuel,385551,Nike,LeBron 12 iD,Orange/Black,M,245,MEMPHIS,M,20,N,0,18-25,73.38
+MEM809,March,PM,Felipe,398896,New Balance,WD800v3 Spike,Green/Pink,W,119.95,MEMPHIS,F,40,N,0,36-45,126.23
+GER810,March,PM,Bob,200219,Nike,Nike Flyknit Lunar,Orange,W,109.99,GERMANTOWN,F,48,N,0,45-55,50.54
+MEM811,March,PM,Bob,410752,New Balance,M3190v2,Blue/Green,M,159.95,MEMPHIS,M,31,N,0,26-35,153.64
+COL812,March,PM,Ashley,200150,Nike,Nike Free Trainer 5.0 V8,Tan/Aqua,W,69.97,COLLIERVILLE,F,49,N,0,45-55,67.96
+MEM813,March,PM,Ashley,200150,Nike,Nike Free Trainer 5.0 V9,Tan/Aqua,W,69.97,MEMPHIS,F,42,N,0,36-45,57.43
+MEM814,March,PM,Gary,200162,Nike,Nike Roshe One ,White,W,95,MEMPHIS,F,14,N,0,18-25,49.73
+MEM815,March,PM,Samuel,364808,Brooks,Ghost,Orange,W,99.99,MEMPHIS,F,35,N,0,26-35,39.2
+MEM816,March,PM,Felipe,385053,New Balance,WT980 Fresh Foam,Grey/Pink,W,87.99,MEMPHIS,F,42,N,0,36-45,78.22
+GER817,March,PM,Shelly,200244,Nike,Nike Free 5.0,Orange,M,140,GERMANTOWN,M,37,N,0,36-45,139.37
+COL818,March,PM,Bob,385045,New Balance,M890v4,Green/Pink,M,59.97,COLLIERVILLE,M,65,N,0,Over 55,61.34
+GER819,March,PM,Ashley,200123,Nike,Nike Shox NZ,White,W,155,GERMANTOWN,F,20,N,0,18-25,173.13
+GER820,March,PM,Ashley,200123,Nike,Nike Shox NZ,White,W,155,GERMANTOWN,F,20,N,0,18-25,154.69
+MEM821,March,PM,Cindy,200169,Nike,Air Jordan 2,White,W,144.97,MEMPHIS,F,26,N,0,26-35,146.54
+BAR822,March,PM,Samuel,385551,Brooks,Ghost,Orange/Black,W,99.99,BARTLETT,F,55,N,0,45-55,57.4
+MEM823,March,AM,Samuel,456140,Adidas,Climacool Fresh 2,Grey/Pink,W,74.95,MEMPHIS,F,58,N,0,Over 55,66.1
+MEM824,March,PM,Felipe,398903,New Balance,WD800v3 Spike,Multi,W,119.95,MEMPHIS,F,13,N,0,18-25,112.9
+GER825,March,PM,Shelly,200273,Nike,LeBron Xiii,Orange,M,200,GERMANTOWN,M,24,N,0,18-25,196.42
+COL826,March,PM,Bob,410767,New Balance,M587,Grey,M,149.95,COLLIERVILLE,M,23,N,0,18-25,59.73
+MEM827,March,PM,Ashley,200126,Nike,Nike Free 4.0 iD,White,W,140,MEMPHIS,F,25,N,0,18-25,103.08
+COL828,March,PM,Ashley,200126,Nike,Nike Free 4.0 iD,White,W,140,COLLIERVILLE,F,25,N,0,18-25,70.26
+MEM829,March,PM,Cindy,200176,Nike,LeBron 12 iD,White,W,150,MEMPHIS,F,16,N,0,18-25,140.52
+MEM830,March,AM,Samuel,455343,Adidas,Powerblaze,Pink,W,74.95,MEMPHIS,F,58,N,0,Over 55,25.29
+MEM831,March,PM,Felipe,400991,New Balance,W1400 Glow LE,Pink,W,68.99,MEMPHIS,F,62,N,0,Over 55,72.48
+COL832,March,PM,Shelly,200261,Nike,Nike Free 4.0 Flyknit,Orange/Aqua,M,109.99,COLLIERVILLE,M,43,N,0,36-45,67.95
+COL833,March,PM,Bob,387375,New Balance,MRC1600v2,Grey,M,124.95,COLLIERVILLE,M,46,N,0,45-55,99.6
+GER834,March,AM,Samuel,455443,Adidas,Vigor Trail ,Red,W,81.95,GERMANTOWN,F,51,N,0,45-55,40.02
+MEM835,March,PM,Felipe,366932,New Balance,W680v2,Pink,W,119.99,MEMPHIS,F,44,N,0,36-45,119.47
+GER836,March,PM,Shelly,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,GERMANTOWN,M,37,N,0,36-45,48.92
+GER837,March,PM,Ashley,200162,Nike,Nike Roshe One,White,W,95,GERMANTOWN,F,28,N,0,26-35,87.55
+MEM838,March,PM,Ashley,200162,Nike,Nike Roshe One,White,W,95,MEMPHIS,F,28,N,0,26-35,50.07
+GER839,March,PM,Cindy,200128,Nike,Nike Dunk Ultra Modern,White/Grey,W,110,GERMANTOWN,F,30,N,0,26-35,123.84
+GER840,March,PM,Ashley,200198,Nike,Nike Air Force 1,White,W,59.95,GERMANTOWN,F,44,N,0,36-45,55.23
+MEM841,March,PM,Ashley,200198,Nike,Nike Air Force 1,White,W,59.95,MEMPHIS,F,45,N,0,36-45,53.2
+MEM842,March,PM,Felipe,411849,Reebok,Southrange Run,Blue/Green,W,59.95,MEMPHIS,F,64,N,0,Over 55,53.1
+COL843,March,PM,Bob,424069,New Balance,M980 Fresh Foam Glow LE,Grey/Aqua,M,109.95,COLLIERVILLE,M,35,N,0,26-35,58.45
+MEM844,March,PM,Felipe,411849,Reebok,Southrange Run,White,W,59.95,MEMPHIS,F,64,N,0,Over 55,22.11
+MEM845,March,AM,Samuel,455342,Adidas,Thrasher Trail  1.1,White,W,64.95,MEMPHIS,F,64,N,0,Over 55,66.7
+GER846,March,PM,Felipe,365762,New Balance,WT1210 Leadville,Pink,W,71.97,GERMANTOWN,F,59,N,0,Over 55,72.52
+COL847,March,PM,Shelly,200260,Nike,Nike Free 4.0 Flyknit,Orange/Black,M,109.99,COLLIERVILLE,M,50,N,0,45-55,47.34
+GER848,March,PM,Ashley,200169,Nike,Air Jordan 2,White,W,144.97,GERMANTOWN,F,24,N,0,18-25,136.53
+MEM849,March,PM,Ashley,200169,Nike,Air Jordan 2,White,W,144.97,MEMPHIS,F,24,N,0,18-25,98.22
+MEM850,March,PM,Cindy,200189,Nike,Nike Flyknit Air Max,Blue/Green,W,99.97,MEMPHIS,F,49,N,0,45-55,73.34
+MEM851,March,PM,Ashley,200199,Nike,Nike Roshe One,White,W,95,MEMPHIS,F,17,N,0,18-25,100.72
+MEM852,March,PM,Felipe,411861,Reebok,Zquick Dash,Grey/Aqua,W,69.99,MEMPHIS,F,59,N,0,Over 55,77.48
+MEM853,March,PM,Bob,410780,New Balance,MT1210v2,Grey/Aqua,M,124.95,MEMPHIS,M,44,N,0,36-45,42.05
+GER854,March,AM,Cindy,455443,Adidas,Vigor Trail ,Red,W,81.95,GERMANTOWN,F,51,N,0,45-55,85.96
+GER855,March,PM,Felipe,398966,New Balance,M980 Fresh Foam Glow LE,Pink/Blue,W,159.95,GERMANTOWN,F,20,N,0,18-25,32.95
+GER856,March,PM,Shelly,200274,Nike,Nike Flyknit Air Max,Orange/Yellow/Black,M,99.97,GERMANTOWN,M,48,N,0,45-55,77.69
+GER857,March,PM,Ashley,200176,Nike,Air Jordan,White,W,150,GERMANTOWN,F,21,N,0,18-25,51.23
+MEM858,March,PM,Ashley,200176,Nike,LeBron 12 iD,White,W,150,MEMPHIS,F,22,N,0,18-25,136.2
+MEM859,March,PM,Cindy,200127,Nike,Nike Roshe One,Orange,W,95,MEMPHIS,F,32,N,0,26-35,80.63
+MEM860,March,PM,Ashley,200205,Nike,Nike Roshe One,White,W,95,MEMPHIS,F,22,N,0,18-25,23.61
+MEM861,March,PM,Ashley,200205,Nike,LeBron Xiii,Black/Red ,M,200,MEMPHIS,M,21,N,0,18-25,169.99
+MEM862,March,PM,Felipe,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,MEMPHIS,F,68,N,0,Over 55,15.66
+MEM863,March,PM,Bob,398968,New Balance,M980 Fresh Foam Glow LE,Grey/Orange,M,119.85,MEMPHIS,M,28,N,0,26-35,96.36
+GER864,March,AM,Cindy,382068,ASICS,GEL-Evate 2,Aqua/Black,W,144.95,GERMANTOWN,F,24,N,0,18-25,79
+COL865,March,PM,Bob,387439,New Balance,MX80 Fresh Foam Mid,Grey/Orange,M,99.95,COLLIERVILLE,M,42,N,0,36-45,85.88
+MEM866,March,PM,Felipe,410757,New Balance,W890v5,Pink/Blue,W,114.95,MEMPHIS,F,30,N,0,26-35,88.99
+COL867,March,PM,Shelly,200218,Nike,Air Jordan 2,Purple/Aqua,M,174.99,COLLIERVILLE,M,29,N,0,26-35,52.95
+COL868,March,AM,Cindy,431060,ASICS,GEL-Venture?,Aqua/Black,W,64.95,COLLIERVILLE,F,64,N,0,Over 55,26.97
+GER869,March,PM,Bob,410738,New Balance,M1080v5,Grey/Red,M,144.95,GERMANTOWN,M,24,N,0,18-25,37.8
+GER870,March,PM,Felipe,388877,New Balance,W1600v2 LE Heidi Klum,Purple/Pink,W,51.97,GERMANTOWN,F,70,N,0,Over 55,45.18
+MEM871,March,PM,Shelly,200229,Nike,Nike Free 5.0,Red,M,140,MEMPHIS,M,25,N,0,18-25,109.24
+MEM872,April,AM,Bob,455339,Adidas,Powerblaze,Black/White,M,74.95,MEMPHIS,M,58,N,0,Over 55,54.93
+MEM873,April,AM,Cindy,407696,ASICS,GEL-Evate? 3,Aqua/Yellow,W,149.95,MEMPHIS,F,23,N,0,18-25,164.31
+MEM874,April,PM,Bob,424073,New Balance,M870v4,Grey/White,M,114.95,MEMPHIS,M,29,N,0,26-35,33.82
+MEM875,April,PM,Felipe,387367,New Balance,W1260v4,Red/Blue,M,144.95,MEMPHIS,M,24,N,0,18-25,102.43
+MEM876,April,PM,Shelly,200231,Nike,Air Jordan,Red,M,159.99,MEMPHIS,M,38,N,0,36-45,174.91
+BAR877,April,AM,Bob,455341,Adidas,Thrasher Trail 1.1,Grey,M,64.95,BARTLETT,M,64,N,0,Over 55,26.52
+COL878,April,AM,Cindy,382160,ASICS,GEL-Zaraca?,Aqua/Yellow,W,67.99,COLLIERVILLE,F,62,N,0,Over 55,50.93
+MEM879,April,PM,Bob,410734,New Balance,M1980 Fresh Foam,Grey/Yellow,M,99.95,MEMPHIS,M,22,N,0,18-25,42.23
+COL880,April,PM,Felipe,410770,New Balance,W587,Red/Blue,M,92.97,COLLIERVILLE,M,24,N,0,18-25,66.23
+GER881,April,PM,Shelly,200237,Nike,Air Jordan,Red,M,159.99,GERMANTOWN,M,37,N,0,36-45,150.25
+MEM882,April,AM,Bob,364567,ASICS,GEL-Foundation? 8,Aqua,M,93.99,MEMPHIS,M,44,N,0,36-45,29.63
+COL883,April,PM,Cindy,363890,ASICS,GEL-Excite? 2,White,W,69.95,COLLIERVILLE,F,62,N,0,Over 55,37.05
+GER884,April,PM,Kevin,410761,New Balance,M775,Orange,M,74.95,GERMANTOWN,M,32,N,0,26-35,30.49
+GER885,April,PM,Felipe,424070,New Balance,W1400v3,White,W,99.95,GERMANTOWN,F,41,N,0,36-45,25.69
+MEM886,April,PM,Shelly,200291,Nike,Air Jordan,Red,M,159.99,MEMPHIS,M,38,N,0,36-45,107.64
+MEM887,April,AM,Bob,345795,ASICS,GEL-Equation? 7,Aqua/Black/White,M,69.99,MEMPHIS,M,17,N,0,18-25,45.49
+COL888,April,PM,Felipe,363956,ASICS,GEL-Hyper Speed? 6,White,W,75.99,COLLIERVILLE,F,30,N,0,26-35,20.96
+MEM889,April,PM,Kevin,365722,New Balance,MT10v2 Minimus,Orange/Black,M,96.99,MEMPHIS,M,42,N,0,36-45,97.98
+MEM890,April,PM,Felipe,410742,New Balance,W1980 Fresh Foam Zante,White,M,99.95,MEMPHIS,M,41,N,0,36-45,57.82
+BAR891,April,PM,Shelly,200254,Nike,Air Jordan,Red/Black,M,159.99,BARTLETT,M,25,N,0,18-25,121.02
+MEM892,April,AM,Bob,407689,ASICS,GEL-Nimbus? 17,Aqua/Black/White,M,149.95,Memphis,M,22,N,0,18-25,65.87
+MEM893,April,PM,Felipe,407823,ASICS,GEL-FujiRunnegade?,Black/Blue,W,89.99,MEMPHIS,F,45,N,0,36-45,90.65
+MEM894,April,PM,Kevin,410772,New Balance,M1260v4,Red,M,114.97,MEMPHIS,M,29,N,0,26-35,71.53
+MEM895,April,PM,Felipe,410763,New Balance,W775,White,W,74.95,MEMPHIS,F,58,N,0,Over 55,69.14
+MEM896,April,PM,Shelly,200272,Nike,Air Jordan,Red/Black,M,159.99,MEMPHIS,M,21,N,0,18-25,139.7
+MEM897,April,AM,Bob,407786,ASICS,33-FA?,Black,M,109.95,MEMPHIS,M,34,N,0,26-35,41.75
+GER898,April,PM,Felipe,356355,ASICS,GEL-Kayano? 20,Black/Blue,W,141.99,GERMANTOWN,F,24,N,0,18-25,45.16
+MEM899,April,PM,Kevin,387352,New Balance,Horween Leather,Red,M,242.99,MEMPHIS,M,20,N,0,18-25,133.8
+MEM900,April,PM,Felipe,410743,New Balance,WT980 Fresh Foam,White,W,87.99,MEMPHIS,F,48,N,0,45-55,22.24
+GER901,April,PM,Shelly,200286,Nike,Air Jordan,Red/Black,M,159.99,GERMANTOWN,M,24,N,0,18-25,63.3
+MEM902,April,AM,Kevin,363723,ASICS,GEL-Flux?,Black,M,69.99,MEMPHIS,M,47,N,0,45-55,74.7
+GER903,April,PM,Felipe,382120,ASICS,GEL-Cumulus? 16 Lite-Show?,Blue/Pink/Lime,W,99.97,GERMANTOWN,F,39,N,0,36-45,61.83
+GER904,April,PM,Kevin,398894,New Balance,MD800v3 Spike,Red/Black,M,119.95,GERMANTOWN,M,50,N,0,45-55,96.3
+MEM905,April,PM,Felipe,300758,New Balance,W990v3,White,M,154.95,MEMPHIS,M,31,N,0,26-35,98.17
+MEM906,April,PM,Ashley,200304,Nike,LeBron Xiii,Red/Black,M,200,MEMPHIS,M,21,N,0,18-25,124.94
+MEM907,April,AM,Kevin,382213,ASICS,GEL-Fortitude? 3,Black,M,109.95,MEMPHIS,M,34,N,0,26-35,119.92
+MEM908,April,PM,Felipe,382207,ASICS,GEL-Sonoma?,Black/White,M,74.95,MEMPHIS,M,50,N,0,45-55,42.66
+MEM909,April,PM,Kevin,445086,New Balance,3190 v1,White,M,85.99,MEMPHIS,M,31,N,0,26-35,63.76
+MEM910,April,PM,Felipe,410781,New Balance,WT510v2,Black,M,74.95,MEMPHIS,M,46,N,0,45-55,49.64
+MEM911,April,PM,Ashley,200305,Nike,Air Jordan,Red/Black,M,159.99,MEMPHIS,M,23,N,0,18-25,62.45
+MEM912,April,AM,Kevin,407820,ASICS,GEL-Fuji Pro?,Black,M,102.99,MEMPHIS,M,36,N,0,36-45,105.23
+GER913,April,PM,Felipe,382127,ASICS,GEL-Electro33?,White/Black,W,87.99,GERMANTOWN,F,24,N,0,18-25,27.84
+GER914,April,PM,Kevin,424068,New Balance,M1400v3,White/Black,M,99.95,GERMANTOWN,M,41,N,0,36-45,94.61
+MEM915,April,PM,Felipe,377243,New Balance,WT510v2,White,M,74.95,MEMPHIS,M,21,N,0,18-25,26.69
+MEM916,April,PM,Ashley,200225,Nike,Air Jordan,Red/White,M,159.99,MEMPHIS,M,40,N,0,36-45,147.76
+MEM917,April,AM,Kevin,382178,ASICS,GEL-Fuji Trabuco? 3,Black,M,102.99,MEMPHIS,M,36,N,0,36-45,108.53
+GER918,April,PM,Felipe,407766,ASICS,GEL-Fortify?,White/Black,W,149.95,GERMANTOWN,F,22,N,0,18-25,78.29
+GER919,April,PM,Kevin,365745,New Balance,M680v2,White/Black,M,61.99,GERMANTOWN,M,37,N,0,36-45,46.81
+MEM920,April,PM,Felipe,410759,New Balance,W3190v2,White/Black,M,89.95,MEMPHIS,M,35,N,0,26-35,74.54
+MEM921,April,PM,Ashley,200214,Nike,LeBron Xiii,White,M,200,MEMPHIS,M,19,N,0,18-25,181.68
+MEM922,April,AM,Kevin,382085,ASICS,GEL-Surveyor?,Black,M,139.97,MEMPHIS,M,26,N,0,26-35,58.04
+GER923,April,PM,Felipe,407819,ASICS,GEL-FujiPro?,White/Black,W,102.99,GERMANTOWN,F,35,N,0,26-35,82.51
+MEM924,April,PM,Gary,300757,New Balance,M990v3,White/Black,M,149.99,MEMPHIS,M,22,N,0,18-25,113.23
+MEM925,April,PM,Felipe,388877,New Balance,W1600v2 LE Heidi Klum,Purple/Pink,W,51.97,MEMPHIS,F,29,N,0,26-35,20.41
+COL926,April,PM,Ashley,200224,Nike,Free 4.0 Flyknit,White,M,130,COLLIERVILLE,M,12,N,0,18-25,143.85
+MEM927,April,PM,Kevin,407706,ASICS,Gel-Flux?,Black/Red,M,69.99,MEMPHIS,M,41,N,0,36-45,30.37
+GER928,April,PM,Felipe,407805,ASICS,GEL-Hyper Tri?,White/Black,W,99.95,GERMANTOWN,F,40,N,0,36-45,96.54
+MEM929,April,PM,Gary,358313,New Balance,M1400 v2,White/Blue,M,65.99,MEMPHIS,M,38,N,0,36-45,42.95
+MEM930,April,PM,Felipe,200147,Nike,Nike Free 4.0 Flyknit,Aqua,W,109.99,MEMPHIS,F,14,N,0,18-25,44.1
+COL931,April,PM,Ashley,200266,Nike,LeBron Xiii,White,M,100,COLLIERVILLE,M,14,N,0,18-25,41.42
+MEM932,April,PM,Kevin,407810,ASICS,33-M?,Black/Red,M,133.99,MEMPHIS,M,27,N,0,26-35,100.66
+GER933,April,PM,Felipe,356343,ASICS,GEL-Super J33?,White/Black,W,94.95,GERMANTOWN,F,44,N,0,36-45,24.85
+MEM934,April,PM,Felipe,200210,Nike,Air Jordan 2,Aqua,W,174.99,MEMPHIS,F,22,N,0,18-25,189.31
+GER935,April,PM,Gary,377751,New Balance,M890v5,Yellow/White,M,114.95,GERMANTOWN,M,29,N,0,26-35,45.99
+MEM936,April,PM,Ashley,200267,Nike,Air Jordan 2,White,M,89.97,MEMPHIS,M,16,N,0,18-25,79.62
+GER937,April,PM,Kevin,392570,ASICS,GEL-Cumulus? 16 BR?,Black/Red,M,109.95,GERMANTOWN,M,34,N,0,26-35,81.72
+GER938,April,PM,Ashley,382216,ASICS,GEL-Fortitude? 3,Blue,W,99.99,GERMANTOWN,F,39,N,0,36-45,95.31
+GER939,April,PM,Felipe,200163,Nike,Nike Free 3.0 Flyknit,Aqua/Black,W,109.99,GERMANTOWN,F,33,N,0,26-35,98.14
+GER940,April,PM,Gary,410772,New Balance,M1260v4,Red,M,114.97,GERMANTOWN,M,29,N,0,26-35,84.88
+MEM941,April,PM,Ashley,200297,Nike,LeBron Xiii,White,M,200,MEMPHIS,M,18,N,0,18-25,121.85
+MEM942,April,PM,Ashley,347280,Saucony,Endorphin,Orange,W,54.99,MEMPHIS,F,29,N,0,26-35,33.74
+MEM943,April,PM,Gary,363724,ASICS,GEL-Excite? 2,Black/Red,M,61.99,MEMPHIS,M,17,N,0,18-25,15.52
+MEM944,April,PM,Felipe,411861,Reebok,Zquick Dash,Grey/Aqua,W,69.99,MEMPHIS,F,45,N,0,36-45,33.77
+MEM945,April,PM,Felipe,411861,Reebok,Zquick Dash,Grey/Aqua,W,69.99,MEMPHIS,F,38,N,0,36-45,71.95
+GER946,April,PM,Felipe,411861,Reebok,Zquick Dash,Grey/Aqua,W,69.99,GERMANTOWN,F,48,N,0,45-55,61.76
+MEM947,April,PM,Felipe,411861,Reebok,Zquick Dash,Grey/Aqua,W,69.99,MEMPHIS,F,39,N,0,36-45,22.37
+MEM948,April,PM,Ashley,382125,ASICS,Gel-Excel33?,Blue/Green,W,94.99,MEMPHIS,F,42,N,0,36-45,88.89
+MEM949,April,PM,Felipe,200207,Nike,Nike Free Cross Bionic 7,Aqua/Green,W,110,MEMPHIS,F,33,N,0,26-35,114.76
+GER950,April,PM,Gary,387352,New Balance,Horween Leather,Red,M,242.99,GERMANTOWN,M,47,N,0,45-55,160.62
+GER951,April,PM,Ashley,364819,Saucony,Endorphin,Grey/Aqua,W,79.95,GERMANTOWN,F,20,N,0,18-25,64.24
+GER952,April,PM,Derrick,200194,Nike,Nike LunarGlide,Orange/Black,W,110,GERMANTOWN,F,31,N,0,26-35,90.84
+GER953,April,PM,Derrick,200194,Nike,Nike LunarGlide,Orange/Black,W,110,GERMANTOWN,F,30,N,0,26-35,59.24
+GER954,April,PM,Derrick,200194,Nike,Nike LunarGlide,Orange/Black,W,110,GERMANTOWN,F,30,N,0,26-35,44.72
+MEM955,April,PM,Derrick,200194,Nike,Nike LunarGlide,Orange/Black,W,110,MEMPHIS,F,32,N,0,26-35,100.46
+MEM956,April,PM,Ashley,200227,Nike,LeBron Xiii,White/Black,M,200,MEMPHIS,M,18,N,0,18-25,134.29
+GER957,April,PM,Gary,407822,ASICS,GEL-FujiAttack? 4,Black/Red,M,93.99,GERMANTOWN,M,44,N,0,36-45,47.08
+MEM958,April,PM,Derrick,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,MEMPHIS,F,65,N,0,Over 55,20
+MEM959,April,PM,Derrick,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,MEMPHIS,F,42,N,0,36-45,27.62
+MEM960,April,PM,Derrick,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,MEMPHIS,F,45,N,0,36-45,28.32
+MEM961,April,PM,Derrick,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,MEMPHIS,F,47,N,0,45-55,34.5
+GER962,April,PM,Samuel,409257,Saucony,Endorphin,Pink,W,79.95,GERMANTOWN,F,54,N,0,45-55,88.01
+MEM963,April,PM,Ashley,363883,Nike,Air Jordan,Blue/Green,W,159.99,MEMPHIS,F,29,N,0,26-35,110.35
+MEM964,April,AM,Derrick,200164,Nike,Nike Free Cross Bionic 6,Aqua/Yellow,W,110,MEMPHIS,F,12,N,0,18-25,69.84
+MEM965,April,PM,Gary,365722,New Balance,MT10v2 Minimus,Orange/Black,M,96.99,MEMPHIS,M,42,N,0,36-45,98.49
+MEM966,April,PM,Ashley,385564,Saucony,Ignition,Grey/Green,W,46.97,MEMPHIS,F,44,N,0,36-45,30.2
+GER967,April,PM,Bob,200135,Nike,Nike Free Cross Bionic 2,Orange/Red,W,110,GERMANTOWN,F,31,N,0,26-35,31.99
+MEM968,April,PM,Bob,200135,Nike,Nike Free Cross Bionic 2,Orange/Red,W,110,MEMPHIS,F,33,N,0,26-35,58.59
+MEM969,April,PM,Bob,200135,Nike,Nike Free Cross Bionic 2,Orange/Red,W,110,MEMPHIS,F,32,N,0,26-35,30.73
+GER970,April,PM,Bob,200135,Nike,Nike Free Cross Bionic 2,Orange/Red,W,110,GERMANTOWN,F,31,N,0,26-35,78.53
+MEM971,April,PM,Ashley,200233,Nike,Nike Dunk Low Premium SB,White/Black,M,100,MEMPHIS,M,19,N,0,18-25,71.14
+MEM972,April,PM,Bob,200242,Nike,Nike Flex Run 2015,Multi/Black,M,200,MEMPHIS,M,21,N,0,18-25,205.81
+MEM973,April,PM,Gary,356344,ASICS,GEL-Kayano? 20,Black/Red,M,149.97,MEMPHIS,M,22,N,0,18-25,102.4
+MEM974,April,PM,Bob,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,62,N,0,Over 55,42.39
+MEM975,April,PM,Bob,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,40,N,0,36-45,80.32
+MEM976,April,PM,Derrick,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,62,N,0,Over 55,41.57
+MEM977,April,PM,Derrick,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,74.24
+MEM978,April,PM,Derrick,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,80.18
+MEM979,April,AM,Samuel,385563,Saucony,PowerGrid Omni,Red,W,109.95,MEMPHIS,F,34,N,0,26-35,121.46
+MEM980,April,AM,Samuel,409279,Saucony,Cohesion,Black/Red/Aqua,W,55.95,MEMPHIS,F,22,N,0,18-25,51.76
+MEM981,April,PM,Ashley,392569,Nike,Nike Zoom Speed Trainer,Blue/Pink/White,W,90,MEMPHIS,F,33,N,0,26-35,18.96
+MEM982,April,PM,Derrick,200130,Nike,Nike Free Cross Bionic 5,White,W,110,MEMPHIS,F,20,N,0,18-25,27.68
+MEM983,April,PM,Gary,365722,New Balance,MT10v2 Minimus,Orange/Black,M,96.99,MEMPHIS,M,42,N,0,36-45,55.44
+MEM984,April,PM,Ashley,409242,Saucony,Fastwitch 7,Grey/White/Green,W,63.97,MEMPHIS,F,55,N,0,45-55,72.76
+MEM985,April,PM,Derrick,411849,Reebok,Southrange Run,Blue/Green,W,59.95,MEMPHIS,F,46,N,0,45-55,66.2
+MEM986,April,PM,Shelly,411849,Reebok,Southrange Run,Blue/Green,W,59.95,MEMPHIS,F,47,N,0,45-55,47.45
+MEM987,April,AM,Shelly,411849,Reebok,Southrange Run,Blue/Green,W,59.95,MEMPHIS,F,35,N,0,26-35,67.88
+GER988,April,AM,Shelly,411849,Reebok,Southrange Run,Blue/Green,W,59.95,GERMANTOWN,F,34,N,0,26-35,12.18
+MEM989,April,AM,Bob,200253,Nike,Nike Air Zoom Structure 18 iD,White/Black,M,155,MEMPHIS,M,21,N,0,18-25,169.6
+GER990,April,AM,Gary,363820,ASICS,GEL-Storm?,Black/Red,M,64.99,GERMANTOWN,M,63,N,0,Over 55,46.59
+MEM991,April,PM,Ashley,382209,Nike,Nike Free 5.0,Blue/Pink/White,W,140,MEMPHIS,F,27,N,0,26-35,119.04
+MEM992,April,PM,Shelly,200144,Nike,Nike Air Force 2,White,W,100,MEMPHIS,F,12,N,0,18-25,70.67
+MEM993,April,PM,Gary,200302,Nike,Nike Air Zoom Fly 2,Aqua,M,90,MEMPHIS,M,45,N,0,36-45,84.91
+MEM994,April,PM,Bob,200232,Nike,Nike Dunk Low Premium SB,White/Blue,M,100,MEMPHIS,M,24,N,0,18-25,50
+MEM995,April,PM,Gary,431064,ASICS,GEL-Venture?,Black/Red,M,64.95,MEMPHIS,M,64,N,0,Over 55,60.04
+GER996,April,AM,Ashley,374775,Nike,Air Jordan,Blue/White,W,159.99,GERMANTOWN,F,46,N,0,45-55,171.8
+MEM997,April,PM,Shelly,200168,Nike,Nike Zoom Speed Trainer,White,W,90,MEMPHIS,F,39,N,0,36-45,102.73
+MEM998,April,PM,Gary,200289,Nike,Nike Free Trainer 3.0 V3,Aqua/Black/White,M,110,MEMPHIS,M,33,N,0,26-35,126.39
+MEM999,April,PM,Bob,200262,Nike,Nike Free Trainer 5.0 V6,White/Grey,M,110,MEMPHIS,M,38,N,0,36-45,54.95
+MEM1000,April,PM,Gary,407792,ASICS,33-DFA?,Black/Grey,M,89.95,MEMPHIS,M,17,N,0,18-25,35.02
+GER1001,April,AM,Ashley,363954,Nike,Air Jordan,Blue/White,W,159.99,GERMANTOWN,F,41,N,0,36-45,84.47
+MEM1002,April,PM,Shelly,200170,Nike,Kobe X iD,White,W,155,MEMPHIS,F,21,N,0,18-25,129.09
+MEM1003,April,PM,Gary,200223,Nike,Air Jordan 2,Black,M,89.97,MEMPHIS,M,43,N,0,36-45,58.16
+MEM1004,April,PM,Bob,200284,Nike,Nike Shox,White/Grey,M,99.97,MEMPHIS,M,40,N,0,36-45,61.82
+MEM1005,April,PM,Gary,382119,ASICS,GEL-Cumulus? 16 Lite-Show?,Black/Grey,M,99.97,MEMPHIS,M,40,N,0,36-45,31.59
+GER1006,April,PM,Ashley,363884,Nike,Air Jordan,White,W,159.99,GERMANTOWN,F,21,N,0,18-25,140.57
+MEM1007,April,PM,Shelly,200180,Nike,Nike Dunk Sky Hi Essential,White,W,120,MEMPHIS,F,14,N,0,18-25,128.03
+MEM1008,April,PM,Gary,200259,Nike,LeBron Xiii,Black,M,200,MEMPHIS,M,17,N,0,18-25,48.86
+MEM1009,April,PM,Bob,200263,Nike,Nike Lunar Trainer 1,White/Orange,M,89.97,MEMPHIS,M,15,N,0,18-25,24.93
+GER1010,April,PM,Gary,392573,Nike,Air Jordan,Green/Blue,W,159.99,GERMANTOWN,F,22,N,0,18-25,132.71
+MEM1011,April,PM,Ashley,407702,Nike,Air Jordan,Green/Pink,W,159.99,MEMPHIS,F,45,N,0,36-45,166.24
+GER1012,April,PM,Shelly,200188,Nike,Nike Free 4.0 Flyknit,White,W,109.99,GERMANTOWN,F,40,N,0,36-45,70.12
+GER1013,April,PM,Gary,200269,Nike,Nike Free 3.0 Flyknit,Black,M,109.99,GERMANTOWN,M,33,N,0,26-35,23.74
+GER1014,April,PM,Kevin,200248,Nike,Nike Zoom Speed Trainer,Yellow/White,M,90,GERMANTOWN,M,16,N,0,18-25,85.51
+MEM1015,April,PM,Gary,287536,ASICS,GEL-Cumulus? 16 BR?,Black/Red,M,109.95,MEMPHIS,M,36,N,0,36-45,33.58
+MEM1016,April,PM,Ashley,363957,Nike,Air Jordan 2,Grey/Aqua,W,174.99,MEMPHIS,F,26,N,0,26-35,105.09
+GER1017,April,PM,Gary,200270,Nike,Nike Free 3.0 Flyknit,Black,M,109.99,GERMANTOWN,M,25,N,0,18-25,121.49
+MEM1018,April,PM,Shelly,200190,Nike,Nike Air Force 1,White,W,59.95,MEMPHIS,F,42,N,0,36-45,61.48
+MEM1019,April,PM,Kevin,200218,Nike,Air Jordan,Purple/Aqua,M,159.99,MEMPHIS,M,28,N,0,26-35,120.04
+MEM1020,April,PM,Gary,382132,ASICS,GEL-Havoc? 2,Black/Orange,M,75.99,MEMPHIS,M,56,N,0,Over 55,56.61
+GER1021,April,AM,Ashley,392590,Nike,Air Jordan 2,Grey/Pink,W,174.99,GERMANTOWN,F,23,N,0,18-25,133.01
+GER1022,April,PM,Gary,200277,Nike,Nike Zoom Speed Trainer,Black,M,90,GERMANTOWN,M,45,N,0,36-45,58.84
+MEM1023,April,PM,Shelly,200193,Nike,Nike Shox NZ,White,W,155,MEMPHIS,F,21,N,0,18-25,78.99
+MEM1024,April,PM,Ashley,364565,ASICS,GEL-Foundation? 8,Multi,W,93.99,MEMPHIS,F,23,N,0,18-25,61.3
+GER1025,April,PM,Kevin,200229,Nike,Nike Free 5.0,Red,M,140,GERMANTOWN,M,25,N,0,18-25,75.75
+MEM1026,April,AM,Gary,382136,ASICS,GEL-Zaraca?,Black/Orange,M,67.99,MEMPHIS,M,62,N,0,Over 55,57.82
+MEM1027,April,PM,Gary,200298,Nike,Air Jordan,Black,M,159.99,MEMPHIS,M,18,N,0,18-25,52.76
+MEM1028,April,PM,Derrick,200196,Nike,Nike Zoom Fit Agility,White,W,69.97,MEMPHIS,F,14,N,0,18-25,69.97
+MEM1029,April,PM,Ashley,407801,ASICS,GEL-DS Trainer? 20,Pink,W,119.95,MEMPHIS,F,53,N,0,45-55,96.25
+MEM1030,April,PM,Kevin,200231,Nike,Air Jordan,Red,M,159.99,MEMPHIS,M,39,N,0,36-45,175.06
+MEM1031,April,AM,Gary,327505,ASICS,GEL-Excel33?,Black/Red/Aqua,M,79.99,MEMPHIS,M,24,N,0,18-25,27.92
+GER1032,April,PM,Gary,200301,Nike,LeBron Xiii,Black,M,200,GERMANTOWN,M,22,N,0,18-25,132.24
+MEM1033,April,PM,Derrick,200200,Nike,Nike Zoom Fit Agility,White,W,69.97,MEMPHIS,F,67,N,0,Over 55,20.49
+MEM1034,April,PM,Ashley,363943,ASICS,GEL-Fuji Racer? 3,Pink,W,79.97,MEMPHIS,F,26,N,0,26-35,62.84
+MEM1035,April,PM,Kevin,200237,Nike,Air Jordan,Red,M,159.99,MEMPHIS,M,39,N,0,36-45,114.09
+MEM1036,April,AM,Gary,363819,ASICS,GEL-Speedstar?,Black/Red/Aqua,M,79.99,MEMPHIS,M,18,N,0,18-25,90.77
+MEM1037,April,PM,Gary,200303,Nike,Air Jordan,Black,M,159.99,MEMPHIS,M,43,N,0,36-45,157.07
+MEM1038,April,PM,Derrick,200178,Nike,Nike Zoom Fit Agility,Black/Blue,W,69.97,MEMPHIS,F,59,N,0,Over 55,14.51
+MEM1039,April,PM,Ashley,363962,ASICS,GEL-Storm?,Pink,W,64.99,MEMPHIS,F,16,N,0,18-25,38.24
+MEM1040,April,PM,Kevin,200291,Nike,Air Jordan 2,Red,M,174.99,MEMPHIS,M,38,N,0,36-45,54.54
+MEM1041,April,AM,Gary,363764,ASICS,GEL-Contend? 2,Black/White,M,59.95,MEMPHIS,M,14,N,0,18-25,29.5
+GER1042,April,AM,Gary,200299,Nike,Air Jordan 2,Black/Red,M,174.99,GERMANTOWN,M,27,N,0,26-35,110.14
+MEM1043,April,PM,Derrick,200183,Nike,Nike Zoom Fit Agility,Black/Blue,W,69.97,MEMPHIS,F,29,N,0,26-35,36.67
+MEM1044,April,PM,Kevin,200238,Nike,Air Jordan 2,Blue/Green,M,174.99,MEMPHIS,M,22,N,0,18-25,190.55
+MEM1045,April,PM,Ashley,382113,ASICS,GEL-Exalt? 2 Lite-Show,Pink/Blue,W,79.99,MEMPHIS,F,15,N,0,18-25,16.67
+GER1046,April,AM,Gary,374619,ASICS,GEL-Cumulus? 16?,Black/White,M,89.97,GERMANTOWN,M,46,N,0,45-55,51.92
+MEM1047,April,AM,Gary,200212,Nike,Air Jordan 2,Black/Red,M,174.99,MEMPHIS,M,27,N,0,26-35,102.02
+GER1048,April,PM,Derrick,200122,Nike,Nike Zoom Fit Agility,Green/Blue,W,69.97,GERMANTOWN,F,71,N,0,Over 55,40.79
+MEM1049,April,PM,Kevin,200215,Nike,Air Jordan 2,Blue/Grey,M,174.99,MEMPHIS,M,33,N,0,26-35,196.43
+MEM1050,April,PM,Ashley,407787,ASICS,33-DFA?,Pink/Grey,W,89.95,MEMPHIS,F,17,N,0,18-25,102.74
+MEM1051,April,AM,Gary,407806,ASICS,GEL-Hyper Tri?,Black/White,M,99.95,MEMPHIS,M,41,N,0,36-45,69.11
+MEM1052,April,PM,Gary,200278,Nike,Air Jordan 2,Black/Red,M,174.99,MEMPHIS,M,15,N,0,18-25,137.5
+MEM1053,April,PM,Derrick,200208,Nike,Nike Zoom Fit Agility,Black/Grey/Orange,W,69.97,MEMPHIS,F,57,N,0,Over 55,28.25
+GER1054,April,PM,Gary,200219,Nike,Nike Zoom Fit Agility,Orange,W,69.97,GERMANTOWN,F,48,N,0,45-55,46.08
+MEM1055,April,PM,Ashley,382135,ASICS,GEL-Havoc? 2,Purple,W,75.99,MEMPHIS,F,56,N,0,Over 55,55.94
+MEM1056,April,AM,Gary,382182,ASICS,GEL-Kahana? 7,Black/White,M,72.99,MEMPHIS,M,59,N,0,Over 55,55.53
+MEM1057,April,AM,Derrick,200158,Nike,Nike Zoom Fit Agility,Blue/Pink/Lime,W,69.97,MEMPHIS,F,26,N,0,26-35,30.11
+MEM1058,April,PM,Samuel,200283,Nike,Air Jordan 2,Black/Red,M,174.99,MEMPHIS,M,16,N,0,18-25,136.27
+MEM1059,April,PM,Ashley,382123,ASICS,GEL-Exalt? 2 Lite-Show,Purple/Pink,W,79.99,MEMPHIS,F,52,N,0,45-55,53.46
+GER1060,April,PM,Gary,200244,Nike,Nike Zoom Fit Agility,Orange,W,69.97,GERMANTOWN,F,36,N,0,36-45,27.51
+GER1061,May,AM,Gary,304351,ASICS,GEL-Contend?,Blue,M,54.97,GERMANTOWN,M,22,N,0,18-25,37.04
+MEM1062,May,AM,Derrick,200204,Nike,Nike Zoom Fit Agility,Blue/Pink/Lime,W,69.97,MEMPHIS,F,12,N,0,18-25,75.23
+GER1063,May,PM,Samuel,200296,Nike,Air Jordan 2,Black/Red,M,174.99,GERMANTOWN,M,40,N,0,36-45,60.03
+MEM1064,May,PM,Ashley,407778,ASICS,33-M?,Purple/Pink,W,139.95,MEMPHIS,F,27,N,0,26-35,101.47
+MEM1065,May,PM,Gary,200273,Nike,Air Jordan 2,Orange,M,174.99,MEMPHIS,M,26,N,0,26-35,112.74
+GER1066,May,AM,Gary,200273,Nike,Nike Zoom Fit Agility,Orange,W,69.97,GERMANTOWN,F,24,N,0,18-25,38.52
+MEM1067,May,AM,Gary,200273,Nike,LeBron Xiii,Orange,M,200,MEMPHIS,M,25,N,0,18-25,46.17
+GER1068,May,AM,Gary,200273,Nike,Air Jordan 2,Orange,M,174.99,GERMANTOWN,M,25,N,0,18-25,169.98
+GER1069,May,PM,Gary,200261,Nike,Free 4.0 Flyknit,Orange/Aqua,M,94.97,GERMANTOWN,M,21,N,0,18-25,106.72
+GER1070,May,PM,Gary,382121,ASICS,GEL-Exalt 2?,Blue/White,M,79.99,GERMANTOWN,M,52,N,0,45-55,21.84
+MEM1071,May,PM,Derrick,200129,Nike,Nike LunarGlide,White/Black,W,110,MEMPHIS,F,23,N,0,18-25,111.97
+MEM1072,May,AM,Samuel,200252,Nike,Nike LunarGlide,Black/Grey,M,120,MEMPHIS,M,13,N,0,18-25,136.58
+GER1073,May,PM,Ashley,407803,ASICS,GEL-DS Racer? 10,Red/Blue,W,109.95,GERMANTOWN,F,34,N,0,26-35,99.96
+GER1074,May,PM,Gary,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,W,100,GERMANTOWN,F,36,N,0,36-45,37.7
+GER1075,May,PM,Gary,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,W,100,GERMANTOWN,F,36,N,0,36-45,72.09
+GER1076,May,PM,Gary,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,W,100,GERMANTOWN,F,36,N,0,36-45,57.68
+MEM1077,May,PM,Derrick,200157,Nike,Nike AF-1 Ultra Force Mid,White/Black,W,74.97,MEMPHIS,F,62,N,0,Over 55,19.88
+MEM1078,May,AM,Samuel,200276,Nike,Nike Zoom Field General,Black/Grey,M,104.97,MEMPHIS,M,35,N,0,26-35,117.67
+MEM1079,May,PM,Samuel,363716,ASICS,GEL-Electro33?,Green/Black,M,84.97,MEMPHIS,M,50,N,0,45-55,91.57
+MEM1080,May,PM,Derrick,200161,Nike,Nike Lunar Eclipse,White/Black,W,135,MEMPHIS,F,27,N,0,26-35,126.67
+MEM1081,May,PM,Ashley,200209,Nike,Nike Dunk Sky Hi Premium,White,W,89.97,MEMPHIS,F,16,N,0,18-25,101.09
+MEM1082,May,PM,Samuel,200285,Nike,Nike Shox,Black/Grey,M,99.97,MEMPHIS,M,13,N,0,18-25,56.55
+GER1083,May,PM,Ashley,200128,Nike,Nike Dunk Ultra Modern,White/Grey,W,110,GERMANTOWN,F,30,N,0,26-35,43.25
+MEM1084,May,PM,Derrick,364815,Saucony,Saucony Triumph,White/Black,W,88.89,MEMPHIS,F,64,N,0,Over 55,96.69
+MEM1085,May,PM,Ashley,363932,ASICS,GEL-Contend? 2,White,W,59.95,MEMPHIS,F,17,N,0,18-25,54.58
+MEM1086,May,PM,Gary,200274,Nike,Free 4.0 Flyknit,Orange/Yellow/Black,M,84.97,MEMPHIS,M,48,N,0,45-55,49
+GER1087,May,PM,Gary,200274,Nike,Free 4.0 Flyknit,Orange/Yellow/Black,M,84.97,GERMANTOWN,M,14,N,0,18-25,25.05
+MEM1088,May,PM,Samuel,382118,ASICS,GEL-Nimbus? 16 Lite-Show?,Green/Black,M,159.95,MEMPHIS,M,20,N,0,18-25,60.2
+MEM1089,May,PM,Derrick,200171,Nike,LeBron 12 iD,White/Black,W,80,MEMPHIS,F,20,N,0,18-25,57.58
+MEM1090,May,PM,Ashley,200156,Nike,Nike AF-1 Ultra Force Mid,White/Black,W,64.97,MEMPHIS,F,64,N,0,Over 55,47.76
+GER1091,May,PM,Samuel,200243,Nike,Nike Lunar TR1 LE,Black/Orange,M,94.97,GERMANTOWN,M,43,N,0,36-45,78.67
+MEM1092,May,PM,Ashley,200175,Nike,Nike Roshe One ,White/multi,W,95,MEMPHIS,F,52,N,0,45-55,103.1
+MEM1093,May,PM,Ashley,200152,Nike,Nike Shox NZ,Yellow/White,W,155,MEMPHIS,F,21,N,0,18-25,160.95
+GER1094,May,PM,Derrick,410104,Saucony,Saucony Triumph,Blue/White,W,88.89,GERMANTOWN,F,52,N,0,45-55,63.36
+MEM1095,May,PM,Ashley,345836,ASICS,GEL-Equation? 7,White,W,69.99,MEMPHIS,F,29,N,0,26-35,75.52
+GER1096,May,PM,Gary,200237,Nike,Nike Free Cross Bionic 3,Red,W,110,GERMANTOWN,F,36,N,0,36-45,39.18
+GER1097,May,PM,Gary,200237,Nike,Nike Free Cross Bionic 4,Red,W,110,GERMANTOWN,F,36,N,0,36-45,91.23
+MEM1098,May,PM,Samuel,327674,ASICS,GEL-Exalt 2?,Green,M,79.99,MEMPHIS,M,51,N,0,45-55,90.58
+MEM1099,May,PM,Ashley,200182,Nike,Nike Lunar Force 1 Sky Hi,White/Black,W,89.97,MEMPHIS,F,16,N,0,18-25,31.64
+MEM1100,May,AM,Derrick,411863,Reebok,Dual Rush Z,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,23.09
+MEM1101,May,AM,Samuel,200279,Nike,Air Jordan 2,Black/Orange,M,74.97,MEMPHIS,M,57,N,0,Over 55,53.85
+GER1102,May,PM,Ashley,200185,Nike,LeBron 12 iD,White/Black,M,100,GERMANTOWN,M,36,N,0,36-45,98.09
+MEM1103,May,PM,Derrick,409279,Saucony,Saucony Triumph,Black/Red/Aqua,W,88.89,MEMPHIS,F,27,N,0,26-35,25.15
+GER1104,May,PM,Ashley,200136,Nike,Nike Zoom LeBron Soldier VIII iD,Purple/Pink,W,170,GERMANTOWN,F,20,N,0,18-25,191.49
+MEM1105,May,PM,Alfonso,345833,ASICS,Gel-Flux?,White,W,67.99,MEMPHIS,F,62,N,0,Over 55,39.87
+GER1106,May,PM,Gary,200291,Nike,LeBron Xiii,Red,M,100,GERMANTOWN,M,37,N,0,36-45,33.38
+GER1107,May,PM,Gary,200291,Nike,LeBron Xiii,Red,M,100,GERMANTOWN,M,37,N,0,36-45,34.46
+MEM1108,May,PM,Samuel,382212,ASICS,GEL-Preleus?,Green,M,79.99,MEMPHIS,M,52,N,0,45-55,16.82
+GER1109,May,PM,Derrick,200181,Nike,Nike Lunar Force 1 Sky Hi,White/Black,W,89.97,GERMANTOWN,F,35,N,0,26-35,44.31
+MEM1110,May,PM,Samuel,200228,Nike,Nike Free 4.0,Black/Purple,M,90,MEMPHIS,M,45,N,0,36-45,82.46
+GER1111,May,PM,Gary,200238,Nike,Nike Flyknit Lunar,Blue/Green,M,109.99,GERMANTOWN,M,21,N,0,18-25,75.99
+GER1112,May,PM,Samuel,407770,ASICS,GEL-Fortify?,Green/White,M,149.95,GERMANTOWN,M,23,N,0,18-25,90.65
+MEM1113,May,PM,Derrick,200172,Nike,LeBron 12 iD,Blue,W,80,MEMPHIS,F,20,N,0,18-25,90.05
+GER1114,May,PM,Samuel,200295,Nike,LeBron Xiii,Black/Red/Aqua,M,200,GERMANTOWN,M,22,N,0,18-25,89.49
+GER1115,May,PM,Derrick,200192,Nike,Nike Flyknit Lunar,Blue,W,109.99,GERMANTOWN,F,18,N,0,18-25,84.1
+GER1116,May,PM,Gary,200215,Nike,Air Jordan,Blue/Grey,M,159.99,GERMANTOWN,M,30,N,0,26-35,36.85
+GER1117,May,PM,Gary,200215,Nike,Air Jordan,Blue/Grey,M,159.99,GERMANTOWN,M,30,N,0,26-35,143.32
+GER1118,May,PM,Derrick,200203,Nike,Nike Flyknit Lunar,Blue,W,109.99,GERMANTOWN,F,46,N,0,45-55,43.72
+MEM1119,May,PM,Alfonso,411863,Reebok,Dual Rush Z,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,56.39
+GER1120,May,PM,Derrick,200189,Nike,Nike Flyknit Lunar,Blue/Green,W,109.99,GERMANTOWN,F,47,N,0,45-55,107.49
+GER1121,May,PM,Derrick,200189,Nike,Nike Flyknit Lunar,Blue/Green,W,109.99,GERMANTOWN,F,25,N,0,18-25,100.44
+MEM1122,May,PM,Alfonso,364815,Saucony,Saucony Triumph,White/Black,W,88.89,MEMPHIS,F,64,N,0,Over 55,30.65
+GER1123,May,AM,Derrick,200135,Nike,Nike Flyknit Lunar,Orange/Red,W,109.99,GERMANTOWN,F,31,N,0,26-35,27.35
+MEM1124,May,AM,Derrick,200135,Nike,Nike Flyknit Lunar,Orange/Red,W,109.99,MEMPHIS,F,32,N,0,26-35,73.2
+MEM1125,May,PM,Alfonso,200141,Nike,Nike Flyknit Lunar,Purple/Pink,W,109.99,MEMPHIS,F,23,N,0,18-25,108.38
+GER1126,May,PM,Alfonso,411861,Reebok,Zquick Dash,Grey/Aqua,W,69.99,GERMANTOWN,F,28,N,0,26-35,19.48
+MEM1127,May,PM,Derrick,382084,ASICS,GEL-Surveyor?,White,W,139.97,MEMPHIS,F,26,N,0,26-35,30.34
+GER1128,May,PM,Samuel,382067,ASICS,GEL-Evate 2,Grey/Green,M,123.99,GERMANTOWN,M,55,N,0,45-55,125.93
+GER1129,May,PM,Derrick,200189,Nike,Nike Flyknit Air Max,Blue/Green,M,99.97,GERMANTOWN,M,47,N,0,45-55,80.56
+MEM1130,May,PM,Alfonso,385614,Saucony,Saucony Triumph,Aqua/Black/White,W,88.89,MEMPHIS,F,20,N,0,18-25,76.37
+MEM1131,May,PM,Derrick,200127,Nike,Nike Flyknit Lunar,Orange,W,109.99,MEMPHIS,F,20,N,0,18-25,39.5
+GER1132,May,AM,Derrick,200189,Nike,Nike Flyknit Air Max,Blue/Green,W,99.97,GERMANTOWN,F,47,N,0,45-55,68.29
+GER1133,May,PM,Derrick,200189,Nike,Nike Flyknit Air Max,Blue/Green,W,99.97,GERMANTOWN,F,21,N,0,18-25,105.37
+MEM1134,May,PM,Derrick,200189,Nike,Nike Flyknit Air Max,Blue/Green,W,99.97,Memphis,F,47,N,0,45-55,28.28
+MEM1135,May,PM,Derrick,200189,Nike,Nike Flyknit Air Max,Blue/Green,W,99.97,MEMPHIS,F,48,N,0,45-55,46.53
+MEM1136,May,PM,Samuel,200235,Nike,Nike Lunar Eclipse,Black/White,M,135,MEMPHIS,M,27,N,0,26-35,89.1
+GER1137,May,PM,Alfonso,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,GERMANTOWN,F,31,N,0,26-35,25.44
+GER1138,May,PM,Derrick,200166,Nike,LeBron 12 iD,Purple/Grey,M,245,GERMANTOWN,M,17,N,0,18-25,240.2
+GER1139,May,PM,Derrick,200166,Nike,LeBron 12 iD,Purple/Grey,M,245,GERMANTOWN,M,18,N,0,18-25,62.14
+MEM1140,May,PM,Derrick,392571,ASICS,GEL-Cumulus? 16 BR?,White/Black,W,109.95,MEMPHIS,F,34,N,0,26-35,76.24
+MEM1141,May,PM,Samuel,382174,ASICS,GEL-Noosa Tri?,Grey/Green,M,139.95,MEMPHIS,M,26,N,0,26-35,53.21
+GER1142,May,PM,Derrick,200120,Nike,Nike Zoom Fit,Blue/White,W,69.97,GERMANTOWN,F,44,N,0,36-45,65.19
+MEM1143,May,PM,Alfonso,385549,Saucony,Saucony Triumph,Green/Blue,W,88.89,MEMPHIS,F,56,N,0,Over 55,19.68
+MEM1144,May,PM,Derrick,200191,Nike,Nike Roshe Runner ,Orange,W,74.99,MEMPHIS,F,39,N,0,36-45,67.25
+GER1145,May,PM,Derrick,200191,Nike,Nike Roshe Runner ,Orange,W,74.99,GERMANTOWN,F,37,N,0,36-45,54.77
+GER1146,May,PM,Gary,200273,Nike,Nike Zoom Hypercross TR,Black/Orange,M,140,GERMANTOWN,M,24,N,0,18-25,143.96
+MEM1147,May,AM,Derrick,200127,Nike,Nike Roshe Runner ,Orange,W,74.99,MEMPHIS,F,19,N,0,18-25,33.32
+GER1148,May,PM,Derrick,200127,Nike,Nike Roshe Runner ,Orange,W,74.99,GERMANTOWN,F,19,N,0,18-25,44.09
+MEM1149,May,PM,Derrick,200127,Nike,Nike Roshe Runner ,Orange,W,74.99,MEMPHIS,F,19,N,0,18-25,52.32
+MEM1150,May,PM,Samuel,200245,Nike,Nike LunarGlide,Black/White,M,120,MEMPHIS,M,31,N,0,26-35,128.35
+MEM1151,May,PM,Derrick,200131,Nike,Nike Roshe One ,Purple/Red,W,95,MEMPHIS,F,19,N,0,18-25,76.72
+MEM1152,May,PM,Derrick,382184,ASICS,GEL-Kahana? 7,White/Black,W,84.95,MEMPHIS,F,51,N,0,45-55,78.46
+GER1153,May,PM,Samuel,407802,ASICS,GEL-DS Trainer? 20,Grey/White/Green,M,119.95,GERMANTOWN,M,57,N,0,Over 55,92.53
+GER1154,May,PM,Derrick,200155,Nike,Air Jordan 2,Blue/White,W,89.97,GERMANTOWN,F,45,N,0,36-45,100.65
+MEM1155,May,PM,Alfonso,409279,Saucony,Saucony Triumph,Black/Red/Aqua,W,88.89,MEMPHIS,F,30,N,0,26-35,43.93
+MEM1156,May,PM,Derrick,200194,Nike,Nike LunarGlide,Orange/Black,W,110,MEMPHIS,F,32,N,0,26-35,44.64
+GER1157,May,PM,Gary,200261,Nike,Nike Free 4.0 Flyknit,Orange/Aqua,M,109.99,GERMANTOWN,M,43,N,0,36-45,100.77
+MEM1158,May,PM,Gary,200261,Nike,Nike Free 4.0 Flyknit,Orange/Aqua,M,109.99,MEMPHIS,M,43,N,0,36-45,41.51
+MEM1159,May,PM,Derrick,200191,Nike,Nike Air Force 2,Orange,W,100,MEMPHIS,F,38,N,0,36-45,48.32
+GER1160,May,PM,Derrick,200191,Nike,Nike Air Force 2,Orange,W,100,GERMANTOWN,F,37,N,0,36-45,36.3
+GER1161,May,PM,Derrick,200191,Nike,Nike Air Force 2,Orange,W,100,GERMANTOWN,F,37,N,0,36-45,50.51
+MEM1162,May,PM,Samuel,200264,Nike,Nike Lunar Trainer 1,Black/White,M,89.97,MEMPHIS,M,25,N,0,18-25,84.41
+MEM1163,May,PM,Derrick,200139,Nike,Nike Dunk High Skinny,Purple/White,W,129.99,MEMPHIS,F,18,N,0,18-25,33.71
+MEM1164,May,PM,Samuel,374586,ASICS,GEL-Nimbus? 16,Grey/White/Green,M,119.99,MEMPHIS,M,33,N,0,26-35,28.04
+GER1165,May,PM,Gary,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,GERMANTOWN,M,37,N,0,36-45,94.58
+MEM1166,May,PM,Samuel,200268,Nike,Air Jordan 2,Black/White,M,174.99,MEMPHIS,M,31,N,0,26-35,51.39
+GER1167,May,PM,Samuel,407698,ASICS,GEL-Evate? 3,Red,M,149.95,GERMANTOWN,M,22,N,0,18-25,54.03
+MEM1168,May,AM,Samuel,200281,Nike,Nike LunarGlide,Black/White,M,120,MEMPHIS,M,40,N,0,36-45,130.64
+GER1169,May,PM,Derrick,200184,Nike,Nike Flyknit Lunar,White,W,109.99,GERMANTOWN,F,45,N,0,36-45,92.03
+MEM1170,May,PM,Gary,200260,Nike,LeBron Xiii,Orange/Black,M,200,MEMPHIS,M,21,N,0,18-25,155.53
+MEM1171,May,PM,Samuel,363780,ASICS,GEL-Noosafast?,Red,M,99.95,MEMPHIS,M,41,N,0,36-45,63.77
+GER1172,May,PM,Derrick,392600,ASICS,GEL-Kayano? 21,White/Pink,W,159.95,GERMANTOWN,F,20,N,0,18-25,123.92
+MEM1173,May,PM,Gary,200274,Nike,Nike Flyknit Air Max,Orange/Yellow/Black,M,99.97,MEMPHIS,M,48,N,0,45-55,24.47
+MEM1174,May,PM,Samuel,363779,ASICS,GEL-DS Racer? 10,Red/Black,M,97.99,MEMPHIS,M,42,N,0,36-45,22.8
+MEM1175,May,AM,Samuel,200239,Nike,Nike Shox,Black/White/Purple,M,99.97,MEMPHIS,M,31,N,0,26-35,111.21
+MEM1176,May,PM,Gary,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,MEMPHIS,M,38,N,0,36-45,84.04
+MEM1177,May,AM,Derrick,385549,Saucony,Cortana,Green/Blue,W,78.97,MEMPHIS,F,18,N,0,18-25,74.07
+GER1178,May,PM,Derrick,410104,Saucony,Breakthru,Blue/White,W,89.95,GERMANTOWN,F,52,N,0,45-55,91.3
+MEM1179,May,AM,Derrick,410104,Saucony,Breakthru,Blue/White,W,89.95,MEMPHIS,F,53,N,0,45-55,56.16
+GER1180,May,AM,Derrick,410104,Saucony,Breakthru,Blue/White,W,89.95,GERMANTOWN,F,60,N,0,Over 55,102.49
+MEM1181,May,AM,Derrick,399834,Nike,Air Jordan,White/Black,M,159.99,MEMPHIS,M,65,N,0,Over 55,62.52
+MEM1182,May,AM,Derrick,399834,Reebok,Goddess,White/Pink,W,59.95,MEMPHIS,F,31,N,0,26-35,61.52
+MEM1183,May,PM,Samuel,363773,ASICS,GEL-Fuji Racer? 3,Red/Black,M,79.97,MEMPHIS,M,53,N,0,45-55,91.64
+MEM1184,May,PM,Derrick,345827,ASICS,GEL-Nimbus? 16,Yellow/White,W,149.95,MEMPHIS,F,23,N,0,18-25,167.49
+MEM1185,May,PM,Gary,200260,Nike,Nike Free 4.0 Flyknit,Orange/Black,M,109.99,MEMPHIS,M,28,N,0,26-35,113.63
+GER1186,May,PM,Gary,200260,Nike,Nike Free 4.0 Flyknit,Orange/Black,M,109.99,GERMANTOWN,M,49,N,0,45-55,112.72
+MEM1187,May,PM,Derrick,411863,Reebok,Dual Rush Z,White,W,69.95,MEMPHIS,F,62,N,0,Over 55,59.46
+MEM1188,May,PM,Samuel,409239,Saucony,PowerGrid Omni,White,W,109.99,MEMPHIS,F,29,N,0,26-35,94.38
+MEM1189,May,PM,Derrick,409279,Saucony,PowerGrid Omni,Black/Red/Aqua,W,109.99,MEMPHIS,F,35,N,0,26-35,112.9
+MEM1190,May,AM,Derrick,385581,Saucony,PowerGrid Omni,White,W,109.99,MEMPHIS,F,56,N,0,Over 55,40.95
+MEM1191,May,AM,Samuel,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,MEMPHIS,F,47,N,0,45-55,47.79
+MEM1192,May,AM,Samuel,407824,ASICS,GEL-Fuji Runnegade?,Red/Black,M,86.99,MEMPHIS,M,18,N,0,18-25,49.36
+MEM1193,May,PM,Derrick,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,MEMPHIS,F,67,N,0,Over 55,38.98
+MEM1194,May,AM,Derrick,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,MEMPHIS,F,28,N,0,26-35,34.18
+MEM1195,May,PM,Derrick,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,MEMPHIS,F,55,N,0,45-55,25.59
+GER1196,May,AM,Derrick,364815,Saucony,Fastwitch 6,White/Black,W,63.97,GERMANTOWN,F,20,Y,0.42,18-25,71.17
+COR1197,May,AM,Derrick,364815,Saucony,Fastwitch 6,White/Black,W,63.97,CORDOVA,F,36,Y,0.45,36-45,67.16
+MEM1198,May,AM,Samuel,399834,Reebok,Goddess,White/Pink,W,59.95,MEMPHIS,F,42,Y,0.15,36-45,40.12
+MEM1199,May,AM,Derrick,407778,ASICS,33-M?,Purple/Pink,W,139.95,MEMPHIS,F,26,Y,0.5,26-35,131.88
+MEM1200,May,PM,Samuel,366248,Nike,LeBron Xiii,Black/Red,M,200,MEMPHIS,M,25,Y,0.43,18-25,92.17
+GER1201,May,PM,Samuel,363818,ASICS,GEL-Excite? 2,Black/Red/Aqua,M,69.95,GERMANTOWN,M,34,Y,0.33,26-35,27.44
+MEM1202,May,PM,Samuel,200250,Nike,Nike SB Eric Koston 2 Max,Blue,M,115,MEMPHIS,M,28,Y,0.29,26-35,68.74
+MEM1203,May,PM,Derrick,407669,ASICS,GEL-Nimbus? 17,Purple/Pink,W,149.95,MEMPHIS,F,23,Y,0.38,18-25,51.09
+MEM1204,May,PM,Samuel,411854,Reebok,YourFlex MT,Blue/Pink/Lime,W,69.95,MEMPHIS,F,60,Y,0.47,Over 55,41.54
+COR1205,May,AM,Gary,200279,Nike,Air Jordan 2,Black/Orange,M,74.97,CORDOVA,M,57,Y,0.2,Over 55,53.91
+MEM1206,May,AM,Derrick,408680,Brooks,Glycerin,White,W,119.99,MEMPHIS,F,50,Y,0.5,45-55,118.29
+COR1207,May,PM,Kevin,200228,Nike,Nike Free 4.0,Black/Purple,M,90,CORDOVA,M,45,Y,0.44,36-45,56.86
+BAR1208,May,PM,Samuel,200167,Nike,Nike Flyknit Lunar,Grey/Red,W,109.99,BARTLETT,F,47,Y,0.46,45-55,123.65
+MEM1209,May,PM,Samuel,422757,Nike,LeBron Xiii,Green,M,200,MEMPHIS,M,29,Y,0.48,26-35,211.3
+MEM1210,May,PM,Derrick,384695,Brooks,Glycerin,Black/Blue,W,119.99,MEMPHIS,F,44,Y,0.31,36-45,55.94
+MEM1211,May,PM,Samuel,407718,ASICS,GEL-Kayano? 21,White/Grey,M,159.95,MEMPHIS,M,20,Y,0.45,18-25,92.93
+COL1212,May,PM,Samuel,200137,Nike,Nike Free Trainer 5.0 V7,Lt Blue/Lime/Yello,W,69.97,COLLIERVILLE,F,18,Y,0.38,18-25,65.04
+MEM1213,May,PM,Samuel,411846,Nike,Air Jordan 2,Purple,M,174.99,MEMPHIS,M,52,Y,0.45,45-55,54.78
+MEM1214,May,PM,Derrick,409507,Brooks,Glycerin,Black/Blue,W,119.99,MEMPHIS,F,51,Y,0.21,45-55,29.37
+COR1215,May,PM,Derrick,409257,Nike,Nike Flyknit Lunar,Black/Purple,M,109.99,CORDOVA,M,54,Y,0.45,45-55,114.1
+COR1216,May,PM,Samuel,200261,Nike,Nike Free 4.0 Flyknit,Orange/Aqua,W,109.99,CORDOVA,F,43,Y,0.37,36-45,70.11
+COL1217,May,PM,Derrick,385543,Saucony,Echelon,White,W,88.99,COLLIERVILLE,F,44,Y,0.14,36-45,54.72
+MEM1218,May,PM,Derrick,409288,Brooks,Glycerin,White/Grey,W,119.99,MEMPHIS,F,65,Y,0.4,Over 55,72.86
+MEM1219,May,PM,Samuel,399834,Nike,Air Jordan 2,White/Black,M,174.99,MEMPHIS,M,55,Y,0.23,45-55,156.44
+MEM1220,May,PM,Derrick,364819,Brooks,Glycerin,Grey/Aqua,W,119.99,MEMPHIS,F,55,Y,0.11,45-55,58.92
+COR1221,May,PM,Samuel,410104,Brooks,Glycerin,Blue/White,W,119.99,CORDOVA,F,51,Y,0.33,45-55,125.14
+GER1222,May,PM,Samuel,407698,ASICS,GEL-Evate? 3,Red,M,149.95,GERMANTOWN,M,22,Y,0.37,18-25,131.17
+MEM1223,May,PM,Samuel,200238,Nike,LeBron Xiii,Blue/Green,M,200,MEMPHIS,M,21,Y,0.22,18-25,216.13
+COR1224,May,PM,Kevin,200217,Nike,Nike LunarGlide,Black/White,M,120,CORDOVA,M,23,Y,0.24,18-25,122.03
+COL1225,May,AM,Samuel,200160,Nike,Nike Roshe One,Multi,W,95,COLLIERVILLE,F,28,Y,0.22,26-35,30.63
+MEM1226,May,AM,Derrick,362192,Brooks,Glycerin,White/Black,W,119.99,MEMPHIS,F,34,Y,0.2,26-35,81.13
+BAR1227,May,PM,Samuel,445173,Reebok,Smoothflex Flyer,White,W,69.95,BARTLETT,F,61,Y,0.17,Over 55,27.47
+MEM1228,May,PM,Derrick,385563,Brooks,Glycerin,Red,W,119.99,MEMPHIS,F,35,Y,0.31,26-35,95.24
+MEM1229,May,PM,Samuel,411863,Nike,Air Jordan 2,White,M,174.99,MEMPHIS,M,61,Y,0.24,Over 55,98.82
+COR1230,May,PM,Samuel,364815,Brooks,Glycerin,White/Black,W,119.99,CORDOVA,F,64,Y,0.45,Over 55,103.04
+COR1231,May,PM,Derrick,347280,Brooks,Ghost,Orange,W,99.99,CORDOVA,F,24,Y,0.23,18-25,69.81
+COR1232,May,PM,Samuel,200273,Nike,Nike Zoom Pegagus,Orange,W,99.99,CORDOVA,F,25,Y,0.33,18-25,105.77
+GER1233,May,PM,Samuel,200215,Nike,Nike Zoom Speed Trainer,Blue/Grey,M,90,GERMANTOWN,M,31,Y,0.46,26-35,37.8
+COR1234,May,PM,Kevin,200220,Nike,LeBron Xiii,Black/White,M,200,CORDOVA,M,27,Y,0.31,26-35,197.5
+COL1235,May,PM,Samuel,200173,Nike,Nike Zoom Pegagus,Multi,W,99.99,COLLIERVILLE,F,28,Y,0.12,26-35,67.72
+MEM1236,May,PM,Samuel,422758,Reebok,YourFlex MT,White/Black,W,69.95,MEMPHIS,F,64,Y,0.4,Over 55,22.13
+MEM1237,May,PM,Derrick,347280,Brooks,Ghost,Orange,W,99.99,MEMPHIS,F,24,Y,0.16,18-25,21.53
+MEM1238,May,AM,Samuel,200294,Nike,Air Jordan 2,Blue/White,M,174.99,MEMPHIS,M,17,Y,0.43,18-25,182.96
+COR1239,May,AM,Kevin,200235,Nike,Air Jordan 2,Black/White,M,174.99,CORDOVA,M,27,Y,0.11,26-35,152.74
+MEM1240,May,PM,Samuel,411848,Reebok,Smoothflex Flyer,Red/Purple,W,69.95,MEMPHIS,F,60,Y,0.19,Over 55,54.19
+COR1241,May,PM,Derrick,347280,Brooks,Ghost,Orange,W,99.99,CORDOVA,F,29,Y,0.34,26-35,79.13
+MEM1242,May,PM,Samuel,385549,Nike,Nike Flyknit Lunar,Black/Red,M,109.99,MEMPHIS,M,56,Y,0.19,Over 55,77.42
+MEM1243,May,PM,Samuel,384554,Nike,Nike Zoom LeBron Soldier VIII iD,Black/Red,M,170,MEMPHIS,M,19,Y,0.25,18-25,62.18
+MEM1244,May,PM,Samuel,200265,Nike,Air Jordan 2,Blue/Yellow,M,174.99,MEMPHIS,M,31,Y,0.36,26-35,42.11
+MEM1245,May,PM,Samuel,304621,Nike,Nike Flyknit Lunar,Aqua,M,109.99,MEMPHIS,M,37,Y,0.45,36-45,98.79
+MEM1246,May,PM,Samuel,385512,Nike,Nike Zoom LeBron Soldier VIII iD,Black/Red,M,170,MEMPHIS,M,22,Y,0.19,18-25,46.07
+MEM1247,May,PM,Cindy,200191,Nike,Nike Zoom Pegagus,Orange,W,99.99,MEMPHIS,F,38,Y,0.27,36-45,102.98
+COR1248,May,PM,Kevin,200264,Nike,Air Jordan 2,Black/White,M,174.99,CORDOVA,M,19,Y,0.45,18-25,80.72
+COL1249,May,PM,Derrick,409379,Brooks,Glycerin,Grey/Pink,W,119.99,COLLIERVILLE,F,40,Y,0.48,36-45,114.41
+MEM1250,May,PM,Samuel,409530,Nike,Nike Zoom LeBron Soldier VIII iD,Black/Grey,M,170,MEMPHIS,M,19,Y,0.21,18-25,168.89
+MEM1251,May,PM,Samuel,200292,Nike,Air Jordan 2,Green,M,174.99,MEMPHIS,M,18,Y,0.48,18-25,136.66
+MEM1252,May,PM,Derrick,384700,Nike,Nike Zoom Pegagus,Purple,W,99.99,MEMPHIS,F,39,Y,0.45,36-45,93.93
+MEM1253,May,PM,Samuel,409240,Nike,Nike Flyknit Lunar,Black,M,109.99,MEMPHIS,M,55,Y,0.44,45-55,76.27
+MEM1254,May,PM,Samuel,384696,Nike,LeBron Xiii,Black/Orange,M,100,MEMPHIS,M,39,Y,0.14,36-45,34.88
+MEM1255,May,PM,Samuel,200226,Nike,Air Jordan 2,Green/Black,M,174.99,MEMPHIS,M,31,Y,0.43,26-35,51.21
+GER1256,May,PM,Gary,200281,Nike,Air Jordan 2,Black/White,M,174.99,GERMANTOWN,M,40,Y,0.36,36-45,125.97
+MEM1257,May,PM,Derrick,384691,Nike,Nike Zoom Pegagus,White,W,99.99,MEMPHIS,F,35,Y,0.3,26-35,48.05
+MEM1258,May,PM,Samuel,409481,Nike,Nike Flyknit Lunar,Black,M,109.99,MEMPHIS,M,55,Y,0.13,45-55,125.41
+MEM1259,May,PM,Samuel,363289,Nike,Nike Zoom LeBron Soldier VIII iD,Black/White,M,170,MEMPHIS,M,17,Y,0.4,18-25,82.54
+COL1260,May,PM,Ashley,200145,Nike,Nike Zoom Pegagus,White,W,99.99,COLLIERVILLE,F,18,Y,0.45,18-25,74.2
+MEM1261,May,AM,Derrick,363309,Brooks,Glycerin,White/Black,W,119.99,MEMPHIS,F,51,Y,0.43,45-55,28.02
+MEM1262,May,AM,Samuel,409269,Nike,Nike Flyknit Lunar,Black/Grey,M,109.99,MEMPHIS,M,41,Y,0.33,36-45,93.07
+MEM1263,May,AM,Ashley,200134,Nike,Nike Roshe One,White,W,95,MEMPHIS,F,42,Y,0.33,36-45,73.89
+COR1264,May,AM,Cindy,200198,Nike,Nike Air Force 1,White,W,59.95,CORDOVA,F,59,Y,0.29,Over 55,49.18
+COL1265,May,PM,Ashley,200146,Nike,Nike LunarGlide,White,W,110,COLLIERVILLE,F,48,Y,0.32,45-55,63.93
+COL1266,May,PM,Ashley,200146,Nike,Nike LunarGlide,White,W,110,COLLIERVILLE,F,48,Y,0.29,45-55,51.73
+COL1267,May,PM,Cindy,200156,Nike,Nike AF-1 Ultra Force Mid,White/Black,W,100,COLLIERVILLE,F,59,Y,0.29,Over 55,27.25
+GER1268,May,PM,Gary,200239,Nike,Nike Shox,Black/White/Purple,M,99.97,GERMANTOWN,M,53,Y,0.29,45-55,74.54
+COL1269,May,PM,Derrick,409529,Saucony,Saucony Triumph,White/Pink,W,88.89,COLLIERVILLE,F,30,Y,0.24,26-35,22.23
+MEM1270,May,PM,Ashley,200142,Saucony,Saucony Triumph,White,W,88.89,MEMPHIS,F,26,Y,0.28,26-35,22.58
+MEM1271,May,AM,Cindy,200199,Nike,Nike Roshe One,White,M,69.95,MEMPHIS,M,30,N,0,26-35,27.04
+MEM1272,May,AM,Samuel,200240,Nike,Nike Free 5.0,Grey,M,140,MEMPHIS,M,33,N,0,26-35,75.6
+COR1273,May,AM,Ashley,200143,Saucony,Saucony Triumph,White,W,88.89,CORDOVA,F,32,N,0,26-35,86.59
+MEM1274,May,AM,Cindy,200205,Saucony,Saucony Triumph,White,W,88.89,MEMPHIS,F,47,N,0,45-55,64.49
+MEM1275,May,AM,Samuel,384562,Nike,Air Jordan 2,Blue,M,74.97,MEMPHIS,M,37,N,0,36-45,55.82
+COR1276,May,PM,Cindy,200182,Saucony,Saucony Triumph,White/Black,W,88.89,CORDOVA,F,55,N,0,45-55,50.48
+GER1277,May,PM,Gary,200211,Nike,LeBron Xiii,Blue,M,200,GERMANTOWN,M,18,N,0,18-25,101.67
+MEM1278,May,PM,Derrick,387360,New Balance,W1490,Aqua/Black,W,67.99,MEMPHIS,F,62,N,0,Over 55,36.2
+MEM1279,May,PM,Cindy,200256,Nike,Air Jordan 2,Grey,M,179.97,MEMPHIS,M,26,N,0,26-35,168.25
+MEM1280,May,PM,Gary,200221,Nike,Nike Free 4.0 iD,Blue,M,140,MEMPHIS,M,25,N,0,18-25,86.05
+MEM1281,May,AM,Derrick,200195,Saucony,Saucony Triumph,Pink,W,88.89,MEMPHIS,F,14,N,0,18-25,30.49
+MEM1282,May,AM,Samuel,325184,Brooks,Ghost,White/Black,W,99.99,MEMPHIS,F,42,N,0,36-45,82.58
+MEM1283,May,PM,Samuel,409377,Nike,Nike Air Zoom Streak 5,Red/Black,M,100,MEMPHIS,M,28,N,0,26-35,111.14
+COR1284,May,PM,Derrick,200201,Saucony,Saucony Triumph,Pink,W,88.89,CORDOVA,F,14,N,0,18-25,67.93
+MEM1285,May,PM,Samuel,385615,Nike,Nike Flyknit Air Max,Black/White,M,99.97,MEMPHIS,M,66,N,0,Over 55,37.81
+MEM1286,May,PM,Cindy,200258,Nike,Nike Air Zoom Structure 18,Grey/Aqua,M,155,MEMPHIS,M,13,N,0,18-25,80.14
+GER1287,May,PM,Gary,200250,Nike,Nike Free 5.0,Blue,M,140,GERMANTOWN,M,28,N,0,26-35,63.03
+MEM1288,May,PM,Samuel,410735,New Balance,M980 Fresh Foam Glow LE,Black/Grey,M,119.85,MEMPHIS,M,28,N,0,26-35,79.46
+MEM1289,May,PM,Cindy,387398,New Balance,M770v4,Black/Orange,M,62.99,MEMPHIS,M,64,N,0,Over 55,14.41
+GER1290,May,PM,Gary,200257,Nike,Nike Air Zoom Streak 5,Blue/Black,M,100,GERMANTOWN,M,53,N,0,45-55,73.29
+GER1291,May,PM,Gary,200249,Nike,LeBron Xiii,Blue/Blue,M,200,GERMANTOWN,M,21,N,0,18-25,209.19
+MEM1292,May,PM,Derrick,200153,Saucony,Saucony PowerGrid Omni,Purple,W,109.97,MEMPHIS,F,29,N,0,26-35,36.6
+MEM1293,May,PM,Samuel,409479,Nike,Nike Flyknit Air Max,Grey/Blue,M,99.97,MEMPHIS,M,32,N,0,26-35,64.15
+MEM1294,May,PM,Derrick,200179,Saucony,Saucony PowerGrid Omni,Purple,W,109.97,MEMPHIS,F,14,N,0,18-25,67.57
+COL1295,May,PM,Derrick,200238,Nike,Nike Flyknit Lunar,Blue/Green,M,109.99,COLLIERVILLE,M,21,N,0,18-25,103.44
+MEM1296,May,PM,Samuel,409231,Brooks,Ghost,Grey/Blue,W,99.99,MEMPHIS,F,34,N,0,26-35,23.94
+MEM1297,June,AM,Derrick,365753,New Balance,W770v4,White/Black,W,74.95,MEMPHIS,F,33,N,0,26-35,49.7
+GER1298,June,PM,Bob,200290,Nike,Nike Free Trainer 3.0 V3,Grey/Green,M,110,GERMANTOWN,M,46,N,0,45-55,125.86
+MEM1299,June,PM,Cindy,436908,New Balance,M470v4,Black/White/Purple,M,57.99,MEMPHIS,M,42,N,0,36-45,56.66
+MEM1300,June,PM,Derrick,200197,Saucony,Saucony PowerGrid Omni,Purple,W,109.97,MEMPHIS,F,32,N,0,26-35,27.9
+COR1301,June,PM,Derrick,200126,Saucony,Saucony PowerGrid Omni,White,W,109.97,CORDOVA,F,54,N,0,45-55,56.78
+MEM1302,June,PM,Samuel,364808,Brooks,Ghost,Orange,W,99.99,MEMPHIS,F,35,N,0,26-35,28.51
+COL1303,June,AM,Derrick,398892,New Balance,WD800v3 Spike,White/Black,W,119.95,COLLIERVILLE,F,55,N,0,45-55,88.31
+MEM1304,June,PM,Bob,200251,Nike,Nike Free Trainer 5.0 NRG,Grey/Orange,M,110,MEMPHIS,M,46,N,0,45-55,102.57
+MEM1305,June,PM,Cindy,410767,New Balance,M670,Blue,M,66.99,MEMPHIS,M,30,N,0,26-35,60.92
+MEM1306,June,PM,Derrick,200136,Saucony,Saucony PowerGrid Omni,Purple/Pink,W,109.97,MEMPHIS,F,19,N,0,18-25,106.8
+COR1307,June,PM,Derrick,200134,Saucony,Saucony PowerGrid Omni,White,W,109.97,CORDOVA,F,32,N,0,26-35,31.8
+MEM1308,June,PM,Samuel,385551,Brooks,Ghost,Orange/Black,W,99.99,MEMPHIS,F,55,N,0,45-55,69.47
+MEM1309,June,AM,Derrick,387409,New Balance,WT980 Fresh Foam,White/Black,W,87.99,MEMPHIS,F,34,N,0,26-35,52.54
+MEM1310,June,PM,Bob,200230,Nike,Nike Free Trainer 5.0 iD,Grey/Red,M,110,MEMPHIS,M,27,N,0,26-35,111.96
+MEM1311,June,PM,Cindy,385051,New Balance,M980 Fresh Foam,Blue,M,82.97,MEMPHIS,M,51,N,0,45-55,36.55
+COL1312,June,PM,Derrick,200141,Saucony,Saucony PowerGrid Omni,Purple/Pink,W,109.97,COLLIERVILLE,F,23,N,0,18-25,126.01
+MEM1313,June,PM,Derrick,200142,Saucony,Saucony PowerGrid Omni,White,W,109.97,MEMPHIS,F,38,N,0,36-45,85.66
+MEM1314,June,PM,Samuel,364600,Brooks,Ghost,Red/Black,W,99.99,MEMPHIS,F,22,N,0,18-25,25.02
+COL1315,June,PM,Derrick,387377,New Balance,WD800v3 Spike,Blue,W,119.95,COLLIERVILLE,F,34,N,0,26-35,74.92
+MEM1316,June,PM,Bob,200246,Nike,Nike Zoom Speed Trainer,Grey/White,M,90,MEMPHIS,M,53,N,0,45-55,37.1
+MEM1317,June,PM,Bob,410741,New Balance,MT980,Blue,M,87.99,MEMPHIS,M,18,N,0,18-25,31.13
+COL1318,June,PM,Ashley,200166,Saucony,Saucony PowerGrid Omni,Purple/Pink,W,109.97,COLLIERVILLE,F,46,N,0,45-55,38.12
+COR1319,June,PM,Derrick,200143,Saucony,Saucony PowerGrid Omni,White,W,109.97,CORDOVA,F,25,N,0,18-25,94.45
+MEM1320,June,PM,Samuel,409238,Brooks,Ghost,White,W,99.99,MEMPHIS,F,29,N,0,26-35,79.84
+MEM1321,June,AM,Derrick,398970,New Balance,WT980 Fresh Foam,Blue/Green,W,87.99,MEMPHIS,F,36,N,0,36-45,69.59
+GER1322,June,PM,Bob,200287,Nike,Nike Free Trainer 5.0,Grey/White/Green,M,110,GERMANTOWN,M,16,N,0,18-25,79.75
+MEM1323,June,PM,Bob,398901,New Balance,MSD400v2 Spike,Blue/Black,M,109.95,MEMPHIS,M,34,N,0,26-35,28.27
+COR1324,June,PM,Felipe,200131,Saucony,Saucony PowerGrid Omni,Purple/Red,W,109.97,CORDOVA,F,19,N,0,18-25,123.52
+MEM1325,June,PM,Derrick,200145,Saucony,Saucony PowerGrid Omni,White,W,109.97,MEMPHIS,F,32,N,0,26-35,94.27
+MEM1326,June,PM,Samuel,385622,Brooks,Ghost,White,W,99.99,MEMPHIS,F,21,N,0,18-25,54.39
+GER1327,June,PM,Derrick,385043,New Balance,W1080v4,Blue/Pink/White,W,84.97,GERMANTOWN,F,49,N,0,45-55,65.52
+GER1328,June,PM,Derrick,377235,New Balance,W4090,Blue/Pink/White,W,55.99,GERMANTOWN,F,69,N,0,Over 55,25.9
+MEM1329,June,PM,Bob,200236,Nike,Nike Lunar Eclipse,Grey/Yellow,M,135,MEMPHIS,M,33,N,0,26-35,90.87
+MEM1330,June,PM,Bob,341560,New Balance,M940v2,Blue/Blue,M,119.95,MEMPHIS,M,43,N,0,36-45,72.53
+MEM1331,June,PM,Felipe,200139,Saucony,Saucony PowerGrid Omni,Purple/White,W,109.97,MEMPHIS,F,22,N,0,18-25,58.89
+COL1332,June,PM,Gary,200146,Saucony,Saucony PowerGrid Omni,White,W,109.97,COLLIERVILLE,F,48,N,0,45-55,35.09
+MEM1333,June,AM,Samuel,364808,Brooks,Ghost,Orange,W,99.99,MEMPHIS,F,35,N,0,26-35,61.52
+MEM1334,June,AM,Derrick,387371,New Balance,W3040,Blue/White,W,159.95,MEMPHIS,F,31,N,0,26-35,84.49
+MEM1335,June,AM,Bob,200222,Nike,Nike Free 4.0 Flyknit,Multi/Black,M,109.99,MEMPHIS,M,19,N,0,18-25,66.78
+MEM1336,June,PM,Bob,365734,New Balance,M1080v4,Blue/Green,M,106.97,MEMPHIS,M,45,N,0,36-45,69.26
+MEM1337,June,PM,Felipe,200159,Saucony,Saucony PowerGrid Omni,Red/Blue,W,109.97,MEMPHIS,F,33,N,0,26-35,79.91
+MEM1338,June,PM,Gary,200154,Nike,Nike AF-1 Ultra Force Mid,White,W,110,MEMPHIS,F,33,N,0,26-35,37.59
+COR1339,June,PM,Samuel,385551,Nike,LeBron 12 iD,Orange/Black,M,245,CORDOVA,M,20,N,0,18-25,258.85
+MEM1340,June,PM,Derrick,398896,New Balance,WD800v3 Spike,Green/Pink,W,119.95,MEMPHIS,F,40,N,0,36-45,80.02
+COL1341,June,PM,Bob,200219,Nike,Nike Flyknit Lunar,Orange,W,109.99,COLLIERVILLE,F,48,N,0,45-55,28.68
+MEM1342,June,PM,Bob,410752,New Balance,M3190v2,Blue/Green,M,159.95,MEMPHIS,M,31,N,0,26-35,155.34
+MEM1343,June,PM,Felipe,200150,Nike,Nike Free Trainer 5.0 V8,Tan/Aqua,W,69.97,MEMPHIS,F,49,N,0,45-55,40.19
+COR1344,June,PM,Felipe,200150,Nike,Nike Free Trainer 5.0 V9,Tan/Aqua,W,69.97,CORDOVA,F,42,N,0,36-45,27
+MEM1345,June,AM,Gary,200162,Nike,Nike Roshe One ,White,W,95,MEMPHIS,F,14,N,0,18-25,73.79
+MEM1346,June,AM,Samuel,364808,Brooks,Ghost,Orange,W,99.99,MEMPHIS,F,35,N,0,26-35,112.83
+MEM1347,June,PM,Derrick,385053,New Balance,WT980 Fresh Foam,Grey/Pink,W,87.99,MEMPHIS,F,42,N,0,36-45,86
+GER1348,June,PM,Shelly,200244,Nike,Nike Free 5.0,Black/Orange,M,140,GERMANTOWN,M,37,N,0,36-45,43.95
+MEM1349,June,PM,Bob,385045,New Balance,M890v4,Green/Pink,M,59.97,MEMPHIS,M,65,N,0,Over 55,46.16
+COL1350,June,PM,Felipe,200123,Nike,Nike Shox NZ,White,W,155,COLLIERVILLE,F,20,N,0,18-25,116.35
+COL1351,June,AM,Felipe,200123,Nike,Nike Shox NZ,White,W,155,COLLIERVILLE,F,20,N,0,18-25,170.21
+MEM1352,June,PM,Cindy,200169,Nike,Air Jordan 2,White,W,144.97,MEMPHIS,F,26,N,0,26-35,57.91
+BAR1353,June,PM,Samuel,385551,Brooks,Ghost,Orange/Black,W,99.99,BARTLETT,F,55,N,0,45-55,102.74
+MEM1354,June,PM,Samuel,456140,Adidas,Climacool Fresh 2,Grey/Pink,W,74.95,MEMPHIS,F,58,N,0,Over 55,59.29
+MEM1355,June,PM,Derrick,398903,New Balance,WD800v3 Spike,Multi,W,119.95,MEMPHIS,F,13,N,0,18-25,118.61
+GER1356,June,PM,Shelly,200273,Nike,LeBron Xiii,Black/Orange,M,200,GERMANTOWN,M,24,N,0,18-25,53.29
+MEM1357,June,AM,Bob,410767,New Balance,M587,Grey,M,149.95,MEMPHIS,M,23,N,0,18-25,104.85
+MEM1358,June,PM,Felipe,200126,Nike,Nike Free 4.0 iD,White,W,140,MEMPHIS,F,25,N,0,18-25,41.89
+MEM1359,June,PM,Felipe,200126,Nike,Nike Free 4.0 iD,White,W,140,MEMPHIS,F,25,N,0,18-25,120.44
+COR1360,June,PM,Cindy,200176,Nike,LeBron 12 iD,White,W,150,CORDOVA,F,16,N,0,18-25,54.1
+MEM1361,June,PM,Samuel,455343,Adidas,Powerblaze,Pink,W,74.95,MEMPHIS,F,58,N,0,Over 55,41.49
+MEM1362,June,PM,Derrick,400991,New Balance,W1400 Glow LE,Pink,W,68.99,MEMPHIS,F,62,N,0,Over 55,65.73
+MEM1363,June,AM,Shelly,200261,Nike,Nike Free 4.0 Flyknit,Orange/Aqua,M,109.99,MEMPHIS,M,43,N,0,36-45,39.31
+MEM1364,June,PM,Bob,387375,New Balance,MRC1600v2,Grey,M,124.95,MEMPHIS,M,46,N,0,45-55,73.35
+COL1365,June,PM,Samuel,455443,Adidas,Vigor Trail ,Red,W,81.95,COLLIERVILLE,F,51,N,0,45-55,76.26
+MEM1366,June,PM,Karen,366932,New Balance,W680v2,Pink,W,119.99,MEMPHIS,F,44,N,0,36-45,66.18
+GER1367,June,PM,Shelly,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,GERMANTOWN,M,37,N,0,36-45,73.63
+COL1368,June,PM,Felipe,200162,Nike,Nike Roshe One,White,W,95,COLLIERVILLE,F,28,N,0,26-35,102.96
+MEM1369,June,AM,Ashley,200162,Nike,Nike Roshe One,White,W,95,MEMPHIS,F,28,N,0,26-35,61.51
+COL1370,June,PM,Cindy,200128,Nike,Nike Dunk Ultra Modern,White/Grey,W,110,COLLIERVILLE,F,30,N,0,26-35,52.44
+COL1371,June,PM,Ashley,200198,Nike,Nike Air Force 1,White,W,59.95,COLLIERVILLE,F,44,N,0,36-45,28.94
+COR1372,June,PM,Ashley,200198,Nike,Nike Air Force 1,White,W,59.95,CORDOVA,F,45,N,0,36-45,46.05
+COR1373,June,PM,Karen,411849,Reebok,Southrange Run,Blue/Green,W,59.95,CORDOVA,F,64,N,0,Over 55,37.34
+MEM1374,June,PM,Bob,424069,New Balance,M1500,Grey/Aqua,M,109.95,MEMPHIS,M,35,N,0,26-35,125.91
+MEM1375,June,AM,Samuel,455342,Adidas,Thrasher Trail  1.1,White,W,64.95,MEMPHIS,F,64,N,0,Over 55,44.95
+GER1376,June,PM,Karen,365762,New Balance,WT1210 Leadville,Pink,W,71.97,GERMANTOWN,F,59,N,0,Over 55,16.06
+MEM1377,June,PM,Shelly,200260,Nike,Nike Free 4.0 Flyknit,Orange/Black,M,109.99,MEMPHIS,M,50,N,0,45-55,89.3
+COL1378,June,PM,Ashley,200169,Nike,Air Jordan 2,White,W,144.97,COLLIERVILLE,F,24,N,0,18-25,163.86
+MEM1379,June,PM,Ashley,200169,Nike,Air Jordan 2,White,W,144.97,MEMPHIS,F,24,N,0,18-25,56.22
+COR1380,June,PM,Cindy,200189,Nike,Nike Flyknit Air Max,Blue/Green,W,99.97,CORDOVA,F,49,N,0,45-55,94.39
+COR1381,June,AM,Ashley,200199,Nike,Nike Roshe One,White,W,95,CORDOVA,F,17,N,0,18-25,103.47
+COR1382,June,PM,Karen,411861,Reebok,Zquick Dash,Grey/Aqua,W,69.99,CORDOVA,F,59,N,0,Over 55,41.03
+MEM1383,June,PM,Bob,410780,New Balance,MT1210v2,Grey/Aqua,M,124.95,MEMPHIS,M,44,N,0,36-45,102.56
+COL1384,June,PM,Cindy,455443,Adidas,Vigor Trail ,Red,W,81.95,COLLIERVILLE,F,51,N,0,45-55,61.45
+GER1385,June,PM,Karen,398966,New Balance,W1540v2,Pink/Blue,W,159.95,GERMANTOWN,F,20,N,0,18-25,168.47
+GER1386,June,PM,Shelly,200274,Nike,Nike Flyknit Air Max,Orange/Yellow/Black,M,99.97,GERMANTOWN,M,48,N,0,45-55,104.78
+COL1387,June,PM,Ashley,200176,Nike,Air Jordan,White,W,150,COLLIERVILLE,F,21,N,0,18-25,141.35
+MEM1388,June,PM,Ashley,200176,Nike,LeBron 12 iD,White,W,150,MEMPHIS,F,22,N,0,18-25,162.22
+COR1389,June,PM,Cindy,200127,Nike,Nike Roshe One,Orange,W,95,CORDOVA,F,32,N,0,26-35,84.23
+COR1390,June,PM,Ashley,200205,Nike,Nike Roshe One,White,W,95,CORDOVA,F,22,N,0,18-25,107.4
+MEM1391,June,PM,Ashley,200205,Nike,LeBron Xiii,Black/Red ,M,200,MEMPHIS,M,21,N,0,18-25,110.86
+MEM1392,June,PM,Karen,388255,Reebok,Zquick 2,Grey/Pink,W,58.97,MEMPHIS,F,68,N,0,Over 55,14.82
+MEM1393,June,AM,Bob,398968,New Balance,M980 Fresh Foam Glow LE,Grey/Orange,M,119.85,MEMPHIS,M,28,N,0,26-35,117.24
+COL1394,June,PM,Cindy,382068,ASICS,GEL-Evate 2,Aqua/Black,W,144.95,COLLIERVILLE,F,24,N,0,18-25,38.01
+MEM1395,June,PM,Bob,387439,New Balance,MX80 Fresh Foam Mid,Grey/Orange,M,99.95,MEMPHIS,M,42,N,0,36-45,44.45
+MEM1396,June,PM,Karen,410757,New Balance,W890v5,Pink/Blue,W,114.95,MEMPHIS,F,30,N,0,26-35,93.23
+MEM1397,June,PM,Shelly,200218,Nike,Air Jordan 2,Purple/Aqua,M,174.99,MEMPHIS,M,29,N,0,26-35,84.05
+MEM1398,June,PM,Cindy,431060,ASICS,GEL-Venture?,Aqua/Black,W,64.95,MEMPHIS,F,64,N,0,Over 55,57.66
+GER1399,June,AM,Bob,410738,New Balance,M1080v5,Grey/Red,M,144.95,GERMANTOWN,M,24,N,0,18-25,29.25
+GER1400,June,PM,Karen,388877,New Balance,W1600v2 LE Heidi Klum,Purple/Pink,W,51.97,GERMANTOWN,F,70,N,0,Over 55,30.76
+MEM1401,June,PM,Shelly,200229,Nike,LeBron Xiii,Red,M,200,MEMPHIS,M,25,N,0,18-25,90.8
+COL1402,June,PM,Gary,200244,Nike,Nike Zoom Fit Agility,Orange,W,69.97,COLLIERVILLE,F,36,N,0,36-45,72.41
+GER1403,June,PM,Gary,304351,ASICS,GEL-Contend?,Blue,M,54.97,GERMANTOWN,M,22,N,0,18-25,29.14
+MEM1404,June,PM,Karen,200204,Nike,Nike Zoom Fit Agility,Blue/Pink/Lime,W,69.97,MEMPHIS,F,12,N,0,18-25,58.13
+GER1405,June,AM,Samuel,200296,Nike,Air Jordan 2,Black/Red,M,174.99,GERMANTOWN,M,40,N,0,36-45,90.12
+MEM1406,June,PM,Ashley,407778,ASICS,33-M?,Purple/Pink,W,139.95,MEMPHIS,F,27,N,0,26-35,65.78
+MEM1407,June,PM,Gary,200273,Nike,Air Jordan 2,Black/Orange,M,174.99,MEMPHIS,M,26,N,0,26-35,95.08
+COL1408,June,PM,Gary,200273,Nike,Nike Zoom Fit Agility,Orange,W,69.97,COLLIERVILLE,F,24,N,0,18-25,20.7
+COR1409,June,PM,Gary,200273,Nike,Air Jordan 2,Black/Orange,M,174.99,CORDOVA,M,25,N,0,18-25,154.11
+GER1410,June,PM,Gary,200273,Nike,LeBron Xiii,Black/Orange,M,200,GERMANTOWN,M,25,N,0,18-25,142.04
+GER1411,June,PM,Gary,407809,ASICS,GEL-Hyper Speed? 6,Blue,M,84.95,GERMANTOWN,M,50,N,0,45-55,43.61
+COR1412,June,PM,Karen,200121,Nike,Air Jordan 2,Black/Red/Aqua,W,130,CORDOVA,F,12,N,0,18-25,136.99
+MEM1413,June,PM,Samuel,200213,Nike,Air Jordan 2,Black/Grey,M,174.99,MEMPHIS,M,19,N,0,18-25,75.69
+MEM1414,June,PM,Ashley,407669,ASICS,GEL-Nimbus? 17,Purple/Pink,W,149.95,MEMPHIS,F,23,N,0,18-25,48.53
+MEM1415,June,PM,Gary,200261,Nike,Free 4.0 Flyknit,Orange/Aqua,M,94.97,MEMPHIS,M,43,N,0,36-45,19.21
+COL1416,June,PM,Gary,200261,Nike,Free 4.0 Flyknit,Orange/Aqua,M,94.97,COLLIERVILLE,M,43,N,0,36-45,25.01
+MEM1417,June,AM,Gary,200261,Nike,Free 4.0 Flyknit,Orange/Aqua,M,94.97,MEMPHIS,M,43,N,0,36-45,48.9
+GER1418,June,PM,Gary,200261,Nike,Free 4.0 Flyknit,Orange/Aqua,M,94.97,GERMANTOWN,M,21,N,0,18-25,79.92
+GER1419,June,PM,Gary,382121,ASICS,GEL-Exalt 2?,Blue/White,M,79.99,GERMANTOWN,M,52,N,0,45-55,19.89
+MEM1420,June,PM,Karen,200129,Nike,Nike LunarGlide,White/Black,W,110,MEMPHIS,F,23,N,0,18-25,54.12
+MEM1421,June,PM,Samuel,200252,Nike,Nike LunarGlide,Black/Grey,M,120,MEMPHIS,M,13,N,0,18-25,119.28
+GER1422,June,PM,Ashley,407803,ASICS,GEL-DS Racer? 10,Red/Blue,W,109.95,GERMANTOWN,F,34,N,0,26-35,33.1
+COL1423,June,PM,Gary,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,W,100,COLLIERVILLE,F,36,N,0,36-45,95.35
+COL1424,June,PM,Gary,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,W,100,COLLIERVILLE,F,36,N,0,36-45,40.87
+COL1425,June,PM,Gary,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,W,100,COLLIERVILLE,F,36,N,0,36-45,55.61
+COL1426,June,PM,Gary,200255,Nike,Nike Air Zoom Streak 5,Orange/Black,M,100,COLLIERVILLE,M,36,N,0,36-45,91.93
+MEM1427,June,PM,Samuel,407694,ASICS,GEL-Sonoma?,Blue/White,M,74.95,MEMPHIS,M,58,N,0,Over 55,46.12
+MEM1428,June,PM,Karen,200157,Nike,Nike AF-1 Ultra Force Mid,White/Black,W,74.97,MEMPHIS,F,62,N,0,Over 55,27.21
+MEM1429,June,AM,Samuel,200276,Nike,Nike Zoom Field General,Black/Grey,M,104.97,MEMPHIS,M,35,N,0,26-35,36.16
+MEM1430,June,AM,Ashley,363961,ASICS,GEL-Speedstar?,Red/Blue,W,79.99,MEMPHIS,F,22,N,0,18-25,63.46
+MEM1431,June,AM,Derrick,200260,Nike,Free 4.0 Flyknit,Orange/Black,M,94.97,MEMPHIS,M,17,N,0,18-25,21.2
+MEM1432,June,PM,Derrick,200260,Nike,LeBron Xiii,Orange/Black,M,200,MEMPHIS,M,17,N,0,18-25,190.51
+MEM1433,June,PM,Samuel,363716,ASICS,GEL-Electro33?,Green/Black,M,84.97,MEMPHIS,M,50,N,0,45-55,83.92
+MEM1434,June,PM,Karen,200161,Nike,Nike Lunar Eclipse,White/Black,W,135,MEMPHIS,F,27,N,0,26-35,87.97
+MEM1435,June,PM,Ashley,200209,Nike,Nike Dunk Sky Hi Premium,White,W,89.97,MEMPHIS,F,16,N,0,18-25,43.83
+MEM1436,June,AM,Ashley,200209,Nike,Nike Dunk Sky Hi Premium,White,W,89.97,MEMPHIS,F,16,N,0,18-25,62.7
+MEM1437,June,AM,Karen,445173,Reebok,Smoothflex Flyer,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,37.14
+MEM1438,June,PM,Samuel,200285,Nike,Nike Shox,Black/Grey,M,99.97,MEMPHIS,M,13,N,0,18-25,101.48
+COL1439,June,PM,Mandeep,200128,Nike,Nike Dunk Ultra Modern,White/Grey,W,110,COLLIERVILLE,F,30,N,0,26-35,118.4
+COL1440,June,PM,Mandeep,200128,Nike,Nike Dunk Ultra Modern,White/Grey,W,110,COLLIERVILLE,F,30,N,0,26-35,37.36
+GER1441,June,PM,Karen,385614,Saucony,Ignition,Aqua/Black/White,W,46.97,GERMANTOWN,F,66,N,0,Over 55,34.19
+COL1442,June,PM,Mandeep,200165,Nike,Kobe X iD,Yellow/Black,W,155,COLLIERVILLE,F,37,N,0,36-45,35.55
+MEM1443,June,AM,Karen,364815,Saucony,Saucony Triumph,White/Black,W,88.89,MEMPHIS,F,64,N,0,Over 55,48.64
+MEM1444,June,PM,Mandeep,363932,ASICS,GEL-Contend? 2,White,W,59.95,MEMPHIS,F,17,N,0,18-25,17.4
+MEM1445,June,PM,Derrick,200274,Nike,Free 4.0 Flyknit,Orange/Yellow/Black,M,84.97,MEMPHIS,M,48,N,0,45-55,32.31
+COL1446,June,PM,Derrick,200274,Nike,Free 4.0 Flyknit,Orange/Yellow/Black,M,84.97,COLLIERVILLE,M,14,N,0,18-25,68.45
+MEM1447,June,PM,Samuel,382118,ASICS,GEL-Nimbus? 16 Lite-Show?,Green/Black,M,159.95,MEMPHIS,M,20,N,0,18-25,69.66
+MEM1448,June,PM,Karen,200171,Nike,LeBron 12 iD,White/Black,W,80,MEMPHIS,F,20,N,0,18-25,58.91
+MEM1449,June,PM,Mandeep,200156,Nike,Nike AF-1 Ultra Force Mid,White/Black,W,64.97,MEMPHIS,F,64,N,0,Over 55,50.62
+MEM1450,June,AM,Mandeep,200156,Nike,Nike AF-1 Ultra Force Mid,White/Black,W,64.97,MEMPHIS,F,70,N,0,Over 55,67.16
+MEM1451,June,PM,Karen,399834,Reebok,Goddess,White/Pink,W,59.95,MEMPHIS,F,36,N,0,36-45,25.92
+GER1452,June,PM,Samuel,200243,Nike,Nike Lunar TR1 LE,Black/Orange,M,94.97,GERMANTOWN,M,43,N,0,36-45,52.85
+MEM1453,June,PM,Mandeep,200175,Nike,Nike Roshe One ,White/multi,W,95,MEMPHIS,F,52,N,0,45-55,79.67
+MEM1454,June,AM,Karen,385549,Saucony,Saucony Triumph,Green/Blue,W,88.89,MEMPHIS,F,56,N,0,Over 55,67.75
+MEM1455,June,PM,Mandeep,200152,Nike,Nike Shox NZ,Yellow/White,W,155,MEMPHIS,F,21,N,0,18-25,136.55
+GER1456,June,PM,Karen,410104,Saucony,Saucony Triumph,Blue/White,W,88.89,GERMANTOWN,F,52,N,0,45-55,51.01
+MEM1457,June,PM,Mandeep,345836,ASICS,GEL-Equation? 7,White,W,69.99,MEMPHIS,F,29,N,0,26-35,56.33
+COL1458,June,PM,Derrick,200237,Nike,Nike Free Cross Bionic 3,Red,W,110,COLLIERVILLE,F,36,N,0,36-45,65.36
+COL1459,June,PM,Derrick,200237,Nike,Nike Free Cross Bionic 4,Red,W,110,COLLIERVILLE,F,36,N,0,36-45,110.77
+MEM1460,June,PM,Samuel,327674,ASICS,GEL-Exalt 2?,Green,M,79.99,MEMPHIS,M,51,N,0,45-55,61.79
+MEM1461,June,PM,Karen,200177,Nike,Nike Air Zoom Fly 2,White/Black,W,90,MEMPHIS,F,45,N,0,36-45,62.7
+GER1462,June,PM,Mandeep,200182,Nike,Nike Lunar Force 1 Sky Hi,White/Black,W,89.97,GERMANTOWN,F,46,N,0,45-55,55.33
+MEM1463,June,PM,Mandeep,200182,Nike,Nike Lunar Force 1 Sky Hi,White/Black,W,89.97,MEMPHIS,F,16,N,0,18-25,80.81
+MEM1464,June,AM,Karen,411863,Reebok,Dual Rush Z,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,65.3
+MEM1465,June,AM,Samuel,200279,Nike,Air Jordan 2,Black/Orange,M,74.97,MEMPHIS,M,57,N,0,Over 55,38.1
+COR1466,June,PM,Mandeep,200185,Nike,LeBron 12 iD,White/Black,M,100,CORDOVA,M,36,N,0,36-45,34.56
+MEM1467,June,PM,Karen,409279,Saucony,Saucony Triumph,Black/Red/Aqua,W,88.89,MEMPHIS,F,27,N,0,26-35,97.25
+COR1468,June,PM,Mandeep,200136,Nike,Nike Zoom LeBron Soldier VIII iD,Purple/Pink,W,170,CORDOVA,F,20,N,0,18-25,138.33
+MEM1469,June,PM,Mandeep,200136,Nike,Nike Zoom LeBron Soldier VIII iD,Purple/Pink,W,170,MEMPHIS,F,23,N,0,18-25,162.58
+MEM1470,June,PM,Mandeep,411849,Reebok,Southrange Run,Blue/Green,W,59.95,MEMPHIS,F,37,N,0,36-45,16.12
+MEM1471,June,PM,Mandeep,345833,ASICS,Gel-Flux?,White,W,67.99,MEMPHIS,F,62,N,0,Over 55,63.06
+COR1472,June,PM,Derrick,200291,Nike,LeBron Xiii,Red,M,100,CORDOVA,M,37,N,0,36-45,89.48
+COR1473,June,AM,Derrick,200291,Nike,LeBron Xiii,Red,M,200,CORDOVA,M,21,N,0,18-25,122.9
+MEM1474,June,PM,Samuel,382212,ASICS,GEL-Preleus?,Green,M,79.99,MEMPHIS,M,52,N,0,45-55,66.77
+COR1475,June,PM,Karen,200181,Nike,Nike Lunar Force 1 Sky Hi,White/Black,W,89.97,CORDOVA,F,35,N,0,26-35,41.43
+MEM1476,June,PM,Samuel,200228,Nike,Nike Free 4.0,Black/Purple,M,90,MEMPHIS,M,45,N,0,36-45,38.78
+MEM1477,June,PM,Mandeep,407821,ASICS,GEL-FujiAttack? 4,White,W,93.99,MEMPHIS,F,44,N,0,36-45,44.6
+MEM1478,June,PM,Derrick,200238,Nike,Nike Flyknit Lunar,Blue/Green,M,109.99,MEMPHIS,M,22,N,0,18-25,96.28
+COR1479,June,PM,Derrick,200238,Nike,Nike Flyknit Lunar,Blue/Green,M,109.99,CORDOVA,M,21,N,0,18-25,116.35
+GER1480,June,PM,Samuel,407770,ASICS,GEL-Fortify?,Green/White,M,149.95,GERMANTOWN,M,23,N,0,18-25,103.32
+MEM1481,June,PM,Karen,200172,Nike,LeBron 12 iD,Blue,W,80,MEMPHIS,F,20,N,0,18-25,19.26
+GER1482,June,PM,Samuel,200295,Nike,Air Jordan 2,Black/Red/Aqua,M,174.99,GERMANTOWN,M,22,N,0,18-25,59.12
+MEM1483,June,PM,Mandeep,382131,ASICS,GEL-Lyte33?,White,W,84.95,MEMPHIS,F,51,N,0,45-55,44.67
+GER1484,June,PM,Samuel,382108,ASICS,GEL-Exalt 2?,Grey/Aqua,M,79.99,GERMANTOWN,M,52,N,0,45-55,61.17
+BAR1485,June,PM,Karen,200192,Nike,Nike Flyknit Lunar,Blue,W,109.99,BARTLETT,F,18,N,0,18-25,108.21
+BAR1486,June,PM,Derrick,200215,Nike,Air Jordan,Blue/Grey,M,159.99,BARTLETT,M,30,N,0,26-35,66.11
+BAR1487,June,AM,Derrick,200215,Nike,Air Jordan,Blue/Grey,M,159.99,BARTLETT,M,30,N,0,26-35,119.12
+MEM1488,June,AM,Samuel,200217,Nike,LeBron Xiii,Black/White,M,200,MEMPHIS,M,23,N,0,18-25,210
+GER1489,June,PM,Mandeep,407688,ASICS,GEL-Noosa Tri?,White,W,139.95,GERMANTOWN,F,26,N,0,26-35,67.91
+MEM1490,June,PM,Samuel,382205,ASICS,GEL-Sendai?,Grey/Aqua,M,139.95,MEMPHIS,M,26,N,0,26-35,109.15
+BAR1491,June,PM,Karen,200203,Nike,Nike Flyknit Lunar,Blue,W,109.99,BARTLETT,F,46,N,0,45-55,101.52
+MEM1492,June,PM,Mandeep,411863,Reebok,Dual Rush Z,White,W,69.95,MEMPHIS,F,61,N,0,Over 55,14.35
+BAR1493,June,PM,Karen,200189,Nike,Nike Flyknit Lunar,Blue/Green,W,109.99,BARTLETT,F,47,N,0,45-55,67.6
+BAR1494,June,PM,Karen,200189,Nike,Nike Flyknit Lunar,Blue/Green,W,109.99,BARTLETT,F,25,N,0,18-25,68.29
+MEM1495,June,PM,Derrick,200219,Nike,Air Jordan,Black/Orange,M,159.99,MEMPHIS,M,48,N,0,45-55,158
+MEM1496,June,PM,Derrick,200219,Nike,Air Jordan,Black/Orange,M,159.99,MEMPHIS,M,15,N,0,18-25,60.41
+MEM1497,June,PM,Mandeep,364815,Saucony,Saucony Triumph,White/Black,W,88.89,MEMPHIS,F,64,N,0,Over 55,38.82
+GER1498,June,PM,Karen,200135,Nike,Nike Flyknit Lunar,Orange/Red,W,109.99,GERMANTOWN,F,31,N,0,26-35,31.2
+MEM1499,June,PM,Karen,200135,Nike,Nike Flyknit Lunar,Orange/Red,W,109.99,MEMPHIS,F,32,N,0,26-35,102.82
+BAR1500,June,PM,Samuel,200220,Nike,Air Jordan,Black/White,M,159.99,BARTLETT,M,20,N,0,18-25,126.33
